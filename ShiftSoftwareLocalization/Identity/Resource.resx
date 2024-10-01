@@ -504,4 +504,7 @@
   <data name="Contacts" xml:space="preserve">
     <value>Contacts</value>
   </data>
+  <data name="Change Password" xml:space="preserve">
+    <value>Change Password</value>
+  </data>
 </root>

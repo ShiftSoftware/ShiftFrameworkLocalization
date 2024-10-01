@@ -382,7 +382,7 @@
     <value>تم إرسال رابط إعادة تعيين كلمة المرور إلى بريدك الإلكتروني.</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>يحفظ</value>
+    <value>حفظ</value>
   </data>
   <data name="Send login info to the user" xml:space="preserve">
     <value>إرسال معلومات تسجيل الدخول إلى المستخدم</value>
@@ -503,5 +503,8 @@
   </data>
   <data name="Contacts" xml:space="preserve">
     <value>اتصالات</value>
+  </data>
+  <data name="Change Password" xml:space="preserve">
+    <value>تغيير كلمة المرور</value>
   </data>
 </root>
