@@ -498,4 +498,10 @@
   <data name="Your password reseted successfully" xml:space="preserve">
     <value>تم إعادة تعيين كلمة المرور بنجاح</value>
   </data>
+  <data name="Security" xml:space="preserve">
+    <value>الأمن</value>
+  </data>
+  <data name="Contacts" xml:space="preserve">
+    <value>اتصالات</value>
+  </data>
 </root>
