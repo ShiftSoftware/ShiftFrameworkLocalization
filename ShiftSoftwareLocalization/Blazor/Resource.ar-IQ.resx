@@ -94,7 +94,7 @@
     <value>لا يمكن نسخها إلى الحافظة</value>
   </data>
   <data name="CopyActionSuccess" xml:space="preserve">
-    <value>نسخ إلى الحافظة</value>
+    <value>تم النسخ إلى الحافظة</value>
   </data>
   <data name="CopyButtonLabel" xml:space="preserve">
     <value>نسخ</value>
