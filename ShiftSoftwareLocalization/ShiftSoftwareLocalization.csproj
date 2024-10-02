@@ -1,9 +1,20 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
+    <Import Project="..\..\ShiftTemplates\ShiftFrameworkGlobalSettings.props" Condition="Exists('..\..\ShiftTemplates\ShiftFrameworkGlobalSettings.props')" />
 
+	<!--The Azure Pipeline clones ShiftTemplates into a directory called 's' by default-->
+	<Import Project="..\..\s\ShiftFrameworkGlobalSettings.props" Condition="Exists('..\..\s\ShiftFrameworkGlobalSettings.props')" />
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+	<LangVersion>latest</LangVersion>
+	<Nullable>enable</Nullable>
+	<RootNamespace>ShiftSoftwareLocalization</RootNamespace>
+	<AssemblyName>ShiftSoftwareLocalization</AssemblyName>
+	<PackageId>ShiftSoftwareLocalization</PackageId>
+	<Version>$(ShiftFrameworkVersion)</Version>
+	<Authors>Shift Software,Nahro,Sarmad</Authors>
+	<PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+	<IsPackable>True</IsPackable>
+	<PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
@@ -18,6 +29,11 @@
       <DependentUpon>Resource.resx</DependentUpon>
     </Compile>
   </ItemGroup>
+	
+    <ItemGroup>
+		<None Include="Images\icon.png" Pack="true" PackagePath="\" />
+		<Folder Include="Images\" />
+	</ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Update="Blazor\Resource.resx">
