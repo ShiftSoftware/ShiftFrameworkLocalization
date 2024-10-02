@@ -819,9 +819,9 @@ namespace ShiftSoftwareLocalization.Identity {
         /// <summary>
         ///   Looks up a localized string similar to Redirect URI.
         /// </summary>
-        public static string Redirect_Uri {
+        public static string Redirect_URI {
             get {
-                return ResourceManager.GetString("Redirect Uri", resourceCulture);
+                return ResourceManager.GetString("Redirect URI", resourceCulture);
             }
         }
         
