@@ -507,4 +507,13 @@
   <data name="Change Password" xml:space="preserve">
     <value>Change Password</value>
   </data>
+  <data name="Calling Code" xml:space="preserve">
+    <value>Calling Code</value>
+  </data>
+  <data name="Country" xml:space="preserve">
+    <value>Country</value>
+  </data>
+  <data name="Countries" xml:space="preserve">
+    <value>Countries</value>
+  </data>
 </root>
