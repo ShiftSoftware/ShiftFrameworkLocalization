@@ -457,6 +457,15 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Country can not be changed after creation..
+        /// </summary>
+        public static string Country_can_not_be_changed_after_creation_ {
+            get {
+                return ResourceManager.GetString("Country can not be changed after creation.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Current Password.
         /// </summary>
         public static string Current_Password {

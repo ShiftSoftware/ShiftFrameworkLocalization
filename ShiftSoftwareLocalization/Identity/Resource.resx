@@ -516,4 +516,7 @@
   <data name="Countries" xml:space="preserve">
     <value>Countries</value>
   </data>
+  <data name="Country can not be changed after creation." xml:space="preserve">
+    <value>Country can not be changed after creation.</value>
+  </data>
 </root>
