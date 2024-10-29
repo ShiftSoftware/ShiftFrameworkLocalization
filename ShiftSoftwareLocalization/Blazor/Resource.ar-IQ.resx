@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
@@ -199,7 +199,7 @@
     <value>معرض</value>
   </data>
   <data name="GridItemsLoadingText" xml:space="preserve">
-    <value>تحميل...</value>
+    <value>تحميل…</value>
   </data>
   <data name="IdColumnHeaderText" xml:space="preserve">
     <value>معرف</value>
@@ -328,7 +328,7 @@
     <value>فشل تحميل الملف</value>
   </data>
   <data name="UploadInProgress" xml:space="preserve">
-    <value>جاري التحميل...</value>
+    <value>جاري التحميل…</value>
   </data>
   <data name="ValidFromColumnTitle" xml:space="preserve">
     <value>صالح من</value>
@@ -403,7 +403,7 @@
     <value>غير مرخص</value>
   </data>
   <data name="DefaultAppRedirecting" xml:space="preserve">
-    <value>إعادة التوجيه...</value>
+    <value>إعادة التوجيه…</value>
   </data>
   <data name="DefaultAppNotFoundTitle" xml:space="preserve">
     <value>لم يتم العثور عليه</value>
