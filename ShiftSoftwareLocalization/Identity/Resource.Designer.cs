@@ -673,6 +673,24 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Import.
+        /// </summary>
+        public static string Import {
+            get {
+                return ResourceManager.GetString("Import", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Import User From CSV.
+        /// </summary>
+        public static string Import_User_From_CSV {
+            get {
+                return ResourceManager.GetString("Import User From CSV", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Integration ID.
         /// </summary>
         public static string Integration_ID {
@@ -921,6 +939,15 @@ namespace ShiftSoftwareLocalization.Identity {
         public static string Security {
             get {
                 return ResourceManager.GetString("Security", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select CSV File.
+        /// </summary>
+        public static string Select_CSV_File {
+            get {
+                return ResourceManager.GetString("Select CSV File", resourceCulture);
             }
         }
         

@@ -384,9 +384,6 @@
   <data name="Save" xml:space="preserve">
     <value>حفظ</value>
   </data>
-  <data name="Send login info to the user" xml:space="preserve">
-    <value>إرسال معلومات تسجيل الدخول إلى المستخدم</value>
-  </data>
   <data name="Send Reset Password Link" xml:space="preserve">
     <value>إرسال رابط إعادة تعيين كلمة المرور</value>
   </data>

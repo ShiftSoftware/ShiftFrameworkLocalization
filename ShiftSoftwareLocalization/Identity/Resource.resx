@@ -384,9 +384,6 @@
   <data name="Save" xml:space="preserve">
     <value>Save</value>
   </data>
-  <data name="Send login info to the user" xml:space="preserve">
-    <value>Send login info to the user</value>
-  </data>
   <data name="Send Reset Password Link" xml:space="preserve">
     <value>Send Reset Password Link</value>
   </data>
@@ -518,5 +515,17 @@
   </data>
   <data name="Country can not be changed after creation." xml:space="preserve">
     <value>Country can not be changed after creation.</value>
+  </data>
+  <data name="Import" xml:space="preserve">
+    <value>Import</value>
+  </data>
+  <data name="Send login info to the user" xml:space="preserve">
+    <value>Send login info to the user</value>
+  </data>
+  <data name="Import User From CSV" xml:space="preserve">
+    <value>Import User From CSV</value>
+  </data>
+  <data name="Select CSV File" xml:space="preserve">
+    <value>Select CSV File</value>
   </data>
 </root>
