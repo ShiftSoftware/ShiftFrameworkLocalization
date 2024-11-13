@@ -363,9 +363,6 @@
   <data name="Read" xml:space="preserve">
     <value>قراءة</value>
   </data>
-  <data name="Redirect Uri" xml:space="preserve">
-    <value>إعادة توجيه URI</value>
-  </data>
   <data name="Region" xml:space="preserve">
     <value>منطقة</value>
   </data>
@@ -436,7 +433,7 @@
     <value>معرف التطبيق {0} موجود بالفعل.</value>
   </data>
   <data name="The app is trying to access your account" xml:space="preserve">
-    <value>يحاول التطبيق &lt;b&gt; '{0}' &lt;/b&gt; الوصول إلى حسابك</value>
+    <value>يحاول التطبيق '{0}' الوصول إلى حسابك</value>
   </data>
   <data name="The email {0} exist" xml:space="preserve">
     <value>البريد الإلكتروني {0} موجود</value>
@@ -508,18 +505,81 @@
     <value>تغيير كلمة المرور</value>
   </data>
   <data name="Calling Code" xml:space="preserve">
-    <value>Calling Code (Arabic)</value>
+    <value>رمز الاتصال</value>
   </data>
   <data name="Country" xml:space="preserve">
-    <value>Country (Arabic)</value>
+    <value>الدولة</value>
   </data>
   <data name="Countries" xml:space="preserve">
-    <value>Countries (Arabic)</value>
+    <value>دول</value>
   </data>
   <data name="Redirect URI" xml:space="preserve">
     <value>رابط إعادة التوجيه</value>
   </data>
   <data name="Country can not be changed after creation." xml:space="preserve">
     <value>لا يمكن تغيير البلد بعد الإنشاء.</value>
+  </data>
+  <data name="Country List" xml:space="preserve">
+    <value>قائمة الدول</value>
+  </data>
+  <data name="Country Feature is locked" xml:space="preserve">
+    <value>ميزة الدولة مقفلة</value>
+  </data>
+  <data name="Import" xml:space="preserve">
+    <value>استيراد</value>
+  </data>
+  <data name="Import User From CSV" xml:space="preserve">
+    <value>استيراد مستخدم من ملف CSV</value>
+  </data>
+  <data name="Invalid Email Address" xml:space="preserve">
+    <value>عنوان البريد الإلكتروني غير صالح</value>
+  </data>
+  <data name="New Password and Confirm Password do not match" xml:space="preserve">
+    <value>كلمة المرور الجديدة وتأكيد كلمة المرور لا يتطابقان</value>
+  </data>
+  <data name="Please enter a name" xml:space="preserve">
+    <value>الرجاء إدخال الاسم</value>
+  </data>
+  <data name="Please provide" xml:space="preserve">
+    <value>الرجاء تقديم {0}</value>
+  </data>
+  <data name="Please provide a valid date" xml:space="preserve">
+    <value>الرجاء تقديم تاريخ صحيح</value>
+  </data>
+  <data name="Please select" xml:space="preserve">
+    <value>الرجاء اختيار {0}</value>
+  </data>
+  <data name="Please select an action from the options" xml:space="preserve">
+    <value>الرجاء تحديد إجراء من الخيارات</value>
+  </data>
+  <data name="Refresh Token" xml:space="preserve">
+    <value>رمز التحديث</value>
+  </data>
+  <data name="Select CSV File" xml:space="preserve">
+    <value>اختر ملف CSV</value>
+  </data>
+  <data name="Your input cannot be more than 255 characters" xml:space="preserve">
+    <value>لا يمكن أن يتجاوز نصك 255 حرفًا</value>
+  </data>
+  <data name="Your input cannot be more than 4000 characters" xml:space="preserve">
+    <value>لا يمكن أن يتجاوز نصك 4000 حرف</value>
+  </data>
+  <data name="The password cannot be the same as the Current Password" xml:space="preserve">
+    <value>كلمة المرور لا يمكن أن تكون نفس كلمة المرور الحالية</value>
+  </data>
+  <data name="Code Challenge" xml:space="preserve">
+    <value>تحدي الكود</value>
+  </data>
+  <data name="Auth Code" xml:space="preserve">
+    <value>رمز المصادقة</value>
+  </data>
+  <data name="The password must be at least n characters long" xml:space="preserve">
+    <value>يجب أن تتكون كلمة المرور من {0} حرف على الأقل</value>
+  </data>
+  <data name="The password must contain at least 3 unique characters" xml:space="preserve">
+    <value>يجب أن تحتوي كلمة المرور على ثلاثة أحرف فريدة على الأقل</value>
+  </data>
+  <data name="The password must contain at least one digit" xml:space="preserve">
+    <value>يجب أن تحتوي كلمة المرور على رقم واحد على الأقل</value>
   </data>
 </root>

@@ -436,7 +436,7 @@
     <value>The App ID {0} already exists.</value>
   </data>
   <data name="The app is trying to access your account" xml:space="preserve">
-    <value>The app &lt;b&gt;'{0}'&lt;/b&gt; is trying to access your account</value>
+    <value>The app '{0}' is trying to access your account</value>
   </data>
   <data name="The email {0} exist" xml:space="preserve">
     <value>The email {0} exist</value>
@@ -519,9 +519,6 @@
   <data name="Country can not be changed after creation." xml:space="preserve">
     <value>Country can not be changed after creation.</value>
   </data>
-  <data name="Redirect Uri" xml:space="preserve">
-    <value>Redirect URI</value>
-  </data>
   <data name="Please enter a name" xml:space="preserve">
     <value>Please enter a name</value>
   </data>
@@ -581,9 +578,6 @@
   </data>
   <data name="Import" xml:space="preserve">
     <value>Import</value>
-  </data>
-  <data name="Send login info to the user" xml:space="preserve">
-    <value>Send login info to the user</value>
   </data>
   <data name="Import User From CSV" xml:space="preserve">
     <value>Import User From CSV</value>

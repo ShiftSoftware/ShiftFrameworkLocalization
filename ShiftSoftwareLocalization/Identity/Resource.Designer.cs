@@ -196,6 +196,15 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Auth Code.
+        /// </summary>
+        public static string Auth_Code {
+            get {
+                return ResourceManager.GetString("Auth Code", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Below Access Trees contain accesses that you can not grant.
         /// </summary>
         public static string Below_Access_Trees_contain_accesses_that_you_can_not_grant {
@@ -349,6 +358,24 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Code Challenge.
+        /// </summary>
+        public static string Code_Challenge {
+            get {
+                return ResourceManager.GetString("Code Challenge", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Code Verifier.
+        /// </summary>
+        public static string Code_Verifier {
+            get {
+                return ResourceManager.GetString("Code Verifier", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Companies.
         /// </summary>
         public static string Companies {
@@ -462,6 +489,24 @@ namespace ShiftSoftwareLocalization.Identity {
         public static string Country_can_not_be_changed_after_creation_ {
             get {
                 return ResourceManager.GetString("Country can not be changed after creation.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Country Feature is locked.
+        /// </summary>
+        public static string Country_Feature_is_locked {
+            get {
+                return ResourceManager.GetString("Country Feature is locked", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Country List.
+        /// </summary>
+        public static string Country_List {
+            get {
+                return ResourceManager.GetString("Country List", resourceCulture);
             }
         }
         
@@ -700,6 +745,15 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Invalid Email Address.
+        /// </summary>
+        public static string Invalid_Email_Address {
+            get {
+                return ResourceManager.GetString("Invalid Email Address", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Invalid Phone Number.
         /// </summary>
         public static string Invalid_Phone_Number {
@@ -790,6 +844,15 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to New Password and Confirm Password do not match.
+        /// </summary>
+        public static string New_Password_and_Confirm_Password_do_not_match {
+            get {
+                return ResourceManager.GetString("New Password and Confirm Password do not match", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to New Password can not be the same as the current password.
         /// </summary>
         public static string New_Password_can_not_be_the_same_as_the_current_password {
@@ -853,6 +916,51 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Please enter a name.
+        /// </summary>
+        public static string Please_enter_a_name {
+            get {
+                return ResourceManager.GetString("Please enter a name", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please provide {0}.
+        /// </summary>
+        public static string Please_provide {
+            get {
+                return ResourceManager.GetString("Please provide", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please provide a valid date.
+        /// </summary>
+        public static string Please_provide_a_valid_date {
+            get {
+                return ResourceManager.GetString("Please provide a valid date", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please select a {0}.
+        /// </summary>
+        public static string Please_select {
+            get {
+                return ResourceManager.GetString("Please select", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please select an action from the options.
+        /// </summary>
+        public static string Please_select_an_action_from_the_options {
+            get {
+                return ResourceManager.GetString("Please select an action from the options", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Profile.
         /// </summary>
         public static string Profile {
@@ -876,6 +984,15 @@ namespace ShiftSoftwareLocalization.Identity {
         public static string Redirect_URI {
             get {
                 return ResourceManager.GetString("Redirect URI", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Refresh Token.
+        /// </summary>
+        public static string Refresh_Token {
+            get {
+                return ResourceManager.GetString("Refresh Token", resourceCulture);
             }
         }
         
@@ -1105,7 +1222,7 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The app &lt;b&gt;&apos;{0}&apos;&lt;/b&gt; is trying to access your account.
+        ///   Looks up a localized string similar to The app &apos;{0}&apos; is trying to access your account.
         /// </summary>
         public static string The_app_is_trying_to_access_your_account {
             get {
@@ -1119,6 +1236,42 @@ namespace ShiftSoftwareLocalization.Identity {
         public static string The_email__0__exist {
             get {
                 return ResourceManager.GetString("The email {0} exist", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The password cannot be the same as the Current Password.
+        /// </summary>
+        public static string The_password_cannot_be_the_same_as_the_Current_Password {
+            get {
+                return ResourceManager.GetString("The password cannot be the same as the Current Password", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The password must be at least {0} characters long.
+        /// </summary>
+        public static string The_password_must_be_at_least_n_characters_long {
+            get {
+                return ResourceManager.GetString("The password must be at least n characters long", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The password must contain at least 3 unique characters.
+        /// </summary>
+        public static string The_password_must_contain_at_least_3_unique_characters {
+            get {
+                return ResourceManager.GetString("The password must contain at least 3 unique characters", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The password must contain at least one digit.
+        /// </summary>
+        public static string The_password_must_contain_at_least_one_digit {
+            get {
+                return ResourceManager.GetString("The password must contain at least one digit", resourceCulture);
             }
         }
         
@@ -1281,6 +1434,24 @@ namespace ShiftSoftwareLocalization.Identity {
         public static string Yes {
             get {
                 return ResourceManager.GetString("Yes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your input cannot be more than 255 characters.
+        /// </summary>
+        public static string Your_input_cannot_be_more_than_255_characters {
+            get {
+                return ResourceManager.GetString("Your input cannot be more than 255 characters", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your input cannot be more than 4000 characters.
+        /// </summary>
+        public static string Your_input_cannot_be_more_than_4000_characters {
+            get {
+                return ResourceManager.GetString("Your input cannot be more than 4000 characters", resourceCulture);
             }
         }
         
