@@ -579,4 +579,16 @@
   <data name="Country Feature is locked" xml:space="preserve">
     <value>Country Feature is locked</value>
   </data>
+  <data name="Import" xml:space="preserve">
+    <value>Import</value>
+  </data>
+  <data name="Send login info to the user" xml:space="preserve">
+    <value>Send login info to the user</value>
+  </data>
+  <data name="Import User From CSV" xml:space="preserve">
+    <value>Import User From CSV</value>
+  </data>
+  <data name="Select CSV File" xml:space="preserve">
+    <value>Select CSV File</value>
+  </data>
 </root>
