@@ -519,4 +519,64 @@
   <data name="Country can not be changed after creation." xml:space="preserve">
     <value>Country can not be changed after creation.</value>
   </data>
+  <data name="Redirect Uri" xml:space="preserve">
+    <value>Redirect URI</value>
+  </data>
+  <data name="Please enter a name" xml:space="preserve">
+    <value>Please enter a name</value>
+  </data>
+  <data name="Please select an action from the options" xml:space="preserve">
+    <value>Please select an action from the options</value>
+  </data>
+  <data name="Your input cannot be more than 255 characters" xml:space="preserve">
+    <value>Your input cannot be more than 255 characters</value>
+  </data>
+  <data name="Your input cannot be more than 4000 characters" xml:space="preserve">
+    <value>Your input cannot be more than 4000 characters</value>
+  </data>
+  <data name="Please provide" xml:space="preserve">
+    <value>Please provide {0}</value>
+  </data>
+  <data name="Code Challenge" xml:space="preserve">
+    <value>Code Challenge</value>
+  </data>
+  <data name="Please select" xml:space="preserve">
+    <value>Please select a {0}</value>
+  </data>
+  <data name="Please provide a valid date" xml:space="preserve">
+    <value>Please provide a valid date</value>
+  </data>
+  <data name="Invalid Email Address" xml:space="preserve">
+    <value>Invalid Email Address</value>
+  </data>
+  <data name="The password must contain at least one digit" xml:space="preserve">
+    <value>The password must contain at least one digit</value>
+  </data>
+  <data name="The password must contain at least 3 unique characters" xml:space="preserve">
+    <value>The password must contain at least 3 unique characters</value>
+  </data>
+  <data name="The password cannot be the same as the Current Password" xml:space="preserve">
+    <value>The password cannot be the same as the Current Password</value>
+  </data>
+  <data name="New Password and Confirm Password do not match" xml:space="preserve">
+    <value>New Password and Confirm Password do not match</value>
+  </data>
+  <data name="The password must be at least n characters long" xml:space="preserve">
+    <value>The password must be at least {0} characters long</value>
+  </data>
+  <data name="Auth Code" xml:space="preserve">
+    <value>Auth Code</value>
+  </data>
+  <data name="Code Verifier" xml:space="preserve">
+    <value>Code Verifier</value>
+  </data>
+  <data name="Refresh Token" xml:space="preserve">
+    <value>Refresh Token</value>
+  </data>
+  <data name="Country List" xml:space="preserve">
+    <value>Country List</value>
+  </data>
+  <data name="Country Feature is locked" xml:space="preserve">
+    <value>Country Feature is locked</value>
+  </data>
 </root>
