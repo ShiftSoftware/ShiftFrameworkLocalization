@@ -475,7 +475,7 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Redirecting....
+        ///   Looks up a localized string similar to Redirecting….
         /// </summary>
         public static string DefaultAppRedirecting {
             get {
@@ -1015,7 +1015,7 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Loading....
+        ///   Looks up a localized string similar to Loading….
         /// </summary>
         public static string GridItemsLoadingText {
             get {
@@ -1447,7 +1447,7 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Uploading in progress....
+        ///   Looks up a localized string similar to Uploading in progress….
         /// </summary>
         public static string UploadInProgress {
             get {
@@ -1488,6 +1488,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         public static string ViewingForm {
             get {
                 return ResourceManager.GetString("ViewingForm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Viewing {0}.
+        /// </summary>
+        public static string ViewingForm1 {
+            get {
+                return ResourceManager.GetString("ViewingForm1", resourceCulture);
             }
         }
         

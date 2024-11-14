@@ -605,4 +605,7 @@
   <data name="FormTaskSave" xml:space="preserve">
     <value>Save</value>
   </data>
+  <data name="ViewingForm1" xml:space="preserve">
+    <value>Viewing {0}</value>
+  </data>
 </root>

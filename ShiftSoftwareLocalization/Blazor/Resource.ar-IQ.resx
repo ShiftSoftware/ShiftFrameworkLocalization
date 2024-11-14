@@ -495,4 +495,7 @@
   <data name="FormTaskSave" xml:space="preserve">
     <value>حفظ</value>
   </data>
+  <data name="ViewingForm1" xml:space="preserve">
+    <value>عرض {0}</value>
+  </data>
 </root>
