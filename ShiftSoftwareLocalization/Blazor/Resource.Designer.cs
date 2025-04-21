@@ -835,6 +835,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} of {1} selected.
+        /// </summary>
+        public static string FileExplorerSelectedCount {
+            get {
+                return ResourceManager.GetString("FileExplorerSelectedCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Could not find file.
         /// </summary>
         public static string FileUploaderError1 {
