@@ -588,4 +588,7 @@
   <data name="Website" xml:space="preserve">
     <value>Website</value>
   </data>
+  <data name="Signature" xml:space="preserve">
+    <value>Signature</value>
+  </data>
 </root>
