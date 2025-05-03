@@ -322,6 +322,15 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Circular reference is not allowed.
+        /// </summary>
+        public static string Circular_reference_is_not_allowed {
+            get {
+                return ResourceManager.GetString("Circular reference is not allowed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Cities.
         /// </summary>
         public static string Cities {
@@ -876,6 +885,24 @@ namespace ShiftSoftwareLocalization.Identity {
         public static string Ok {
             get {
                 return ResourceManager.GetString("Ok", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Parent Company.
+        /// </summary>
+        public static string Parent_Company {
+            get {
+                return ResourceManager.GetString("Parent Company", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Parent company and the child company should not be the same.
+        /// </summary>
+        public static string Parent_company_and_the_child_company_should_not_be_the_same {
+            get {
+                return ResourceManager.GetString("Parent company and the child company should not be the same", resourceCulture);
             }
         }
         

@@ -585,4 +585,13 @@
   <data name="Website" xml:space="preserve">
     <value />
   </data>
+  <data name="Parent company and the child company should not be the same" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Circular reference is not allowed" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Parent Company" xml:space="preserve">
+    <value />
+  </data>
 </root>

@@ -591,4 +591,13 @@
   <data name="Signature" xml:space="preserve">
     <value>Signature</value>
   </data>
+  <data name="Parent company and the child company should not be the same" xml:space="preserve">
+    <value>Parent company and the child company should not be the same</value>
+  </data>
+  <data name="Circular reference is not allowed" xml:space="preserve">
+    <value>Circular reference is not allowed</value>
+  </data>
+  <data name="Parent Company" xml:space="preserve">
+    <value>Parent Company</value>
+  </data>
 </root>
