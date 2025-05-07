@@ -322,6 +322,15 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Circular reference is not allowed.
+        /// </summary>
+        public static string Circular_reference_is_not_allowed {
+            get {
+                return ResourceManager.GetString("Circular reference is not allowed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Cities.
         /// </summary>
         public static string Cities {
@@ -880,6 +889,24 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Parent Company.
+        /// </summary>
+        public static string Parent_Company {
+            get {
+                return ResourceManager.GetString("Parent Company", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Parent company and the child company should not be the same.
+        /// </summary>
+        public static string Parent_company_and_the_child_company_should_not_be_the_same {
+            get {
+                return ResourceManager.GetString("Parent company and the child company should not be the same", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Password.
         /// </summary>
         public static string Password {
@@ -1137,6 +1164,15 @@ namespace ShiftSoftwareLocalization.Identity {
         public static string Short_Phone {
             get {
                 return ResourceManager.GetString("Short Phone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Signature.
+        /// </summary>
+        public static string Signature {
+            get {
+                return ResourceManager.GetString("Signature", resourceCulture);
             }
         }
         
@@ -1416,6 +1452,15 @@ namespace ShiftSoftwareLocalization.Identity {
         public static string Verify_Phones {
             get {
                 return ResourceManager.GetString("Verify Phones", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Website.
+        /// </summary>
+        public static string Website {
+            get {
+                return ResourceManager.GetString("Website", resourceCulture);
             }
         }
         
