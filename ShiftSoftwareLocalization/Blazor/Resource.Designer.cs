@@ -79,6 +79,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Add to Quick Access.
+        /// </summary>
+        public static string Add_to_Quick_Access {
+            get {
+                return ResourceManager.GetString("Add to Quick Access", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Add.
         /// </summary>
         public static string AddButtonChip {
@@ -129,6 +138,24 @@ namespace ShiftSoftwareLocalization.Blazor {
         public static string Arabic {
             get {
                 return ResourceManager.GetString("Arabic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to delete this file?.
+        /// </summary>
+        public static string Are_you_sure_you_want_to_delete_this_file_ {
+            get {
+                return ResourceManager.GetString("Are you sure you want to delete this file?", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to undelete this file?.
+        /// </summary>
+        public static string Are_you_sure_you_want_to_undelete_this_file_ {
+            get {
+                return ResourceManager.GetString("Are you sure you want to undelete this file?", resourceCulture);
             }
         }
         
@@ -340,6 +367,24 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Could not parse server data.
+        /// </summary>
+        public static string Could_not_parse_server_data {
+            get {
+                return ResourceManager.GetString("Could not parse server data", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Created By.
+        /// </summary>
+        public static string Created_By {
+            get {
+                return ResourceManager.GetString("Created By", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Create.
         /// </summary>
         public static string CreateForm {
@@ -417,6 +462,24 @@ namespace ShiftSoftwareLocalization.Blazor {
         public static string DataReadStatusError {
             get {
                 return ResourceManager.GetString("DataReadStatusError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Date.
+        /// </summary>
+        public static string Date {
+            get {
+                return ResourceManager.GetString("Date", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Date modified.
+        /// </summary>
+        public static string Date_modified {
+            get {
+                return ResourceManager.GetString("Date modified", resourceCulture);
             }
         }
         
@@ -502,6 +565,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Delete File.
+        /// </summary>
+        public static string Delete_File {
+            get {
+                return ResourceManager.GetString("Delete File", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Delete.
         /// </summary>
         public static string DeleteAccept {
@@ -529,6 +601,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Delete.
+        /// </summary>
+        public static string DeleteTooltip {
+            get {
+                return ResourceManager.GetString("DeleteTooltip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Do you want to delete this item?.
         /// </summary>
         public static string DeleteWarningMessage {
@@ -543,6 +624,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         public static string DeleteWarningTitle {
             get {
                 return ResourceManager.GetString("DeleteWarningTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Detailed.
+        /// </summary>
+        public static string Detailed {
+            get {
+                return ResourceManager.GetString("Detailed", resourceCulture);
             }
         }
         
@@ -745,11 +835,29 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Download.
+        /// </summary>
+        public static string Download {
+            get {
+                return ResourceManager.GetString("Download", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Download File.
         /// </summary>
         public static string DownloadFile {
             get {
                 return ResourceManager.GetString("DownloadFile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Download.
+        /// </summary>
+        public static string DownloadTooltip {
+            get {
+                return ResourceManager.GetString("DownloadTooltip", resourceCulture);
             }
         }
         
@@ -835,6 +943,51 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ExtraLarge.
+        /// </summary>
+        public static string ExtraLarge {
+            get {
+                return ResourceManager.GetString("ExtraLarge", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to FileExplorer.
+        /// </summary>
+        public static string FileExplorer {
+            get {
+                return ResourceManager.GetString("FileExplorer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} files selected of {1} files.
+        /// </summary>
+        public static string FileExplorerSelectedCount {
+            get {
+                return ResourceManager.GetString("FileExplorerSelectedCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} files uploaded of {1} files.
+        /// </summary>
+        public static string FileExplorerUploadCount {
+            get {
+                return ResourceManager.GetString("FileExplorerUploadCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Filename.
+        /// </summary>
+        public static string Filename {
+            get {
+                return ResourceManager.GetString("Filename", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Could not find file.
         /// </summary>
         public static string FileUploaderError1 {
@@ -876,6 +1029,24 @@ namespace ShiftSoftwareLocalization.Blazor {
         public static string FilterDeletedItemsTitle {
             get {
                 return ResourceManager.GetString("FilterDeletedItemsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Folder.
+        /// </summary>
+        public static string Folder {
+            get {
+                return ResourceManager.GetString("Folder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Folder name cannot be empty.
+        /// </summary>
+        public static string Folder_name_cannot_be_empty {
+            get {
+                return ResourceManager.GetString("Folder name cannot be empty", resourceCulture);
             }
         }
         
@@ -1105,6 +1276,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Large.
+        /// </summary>
+        public static string Large {
+            get {
+                return ResourceManager.GetString("Large", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to List.
         /// </summary>
         public static string ListDefaultTitle {
@@ -1146,6 +1326,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         public static string Maximize {
             get {
                 return ResourceManager.GetString("Maximize", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Medium.
+        /// </summary>
+        public static string Medium {
+            get {
+                return ResourceManager.GetString("Medium", resourceCulture);
             }
         }
         
@@ -1195,11 +1384,56 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Name.
+        /// </summary>
+        public static string Name {
+            get {
+                return ResourceManager.GetString("Name", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New Folder.
+        /// </summary>
+        public static string New_Folder {
+            get {
+                return ResourceManager.GetString("New Folder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NewFolder.
+        /// </summary>
+        public static string NewFolder {
+            get {
+                return ResourceManager.GetString("NewFolder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New Folder.
+        /// </summary>
+        public static string NewFolderTooltip {
+            get {
+                return ResourceManager.GetString("NewFolderTooltip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Open In New Tab.
         /// </summary>
         public static string NewTab {
             get {
                 return ResourceManager.GetString("NewTab", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No Files.
+        /// </summary>
+        public static string NoFiles {
+            get {
+                return ResourceManager.GetString("NoFiles", resourceCulture);
             }
         }
         
@@ -1258,6 +1492,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Refresh.
+        /// </summary>
+        public static string Refresh {
+            get {
+                return ResourceManager.GetString("Refresh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Reload.
         /// </summary>
         public static string RefreshList {
@@ -1267,11 +1510,38 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Refresh.
+        /// </summary>
+        public static string RefreshTooltip {
+            get {
+                return ResourceManager.GetString("RefreshTooltip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Remove File.
         /// </summary>
         public static string RemoveFile {
             get {
                 return ResourceManager.GetString("RemoveFile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Restore File.
+        /// </summary>
+        public static string Restore_File {
+            get {
+                return ResourceManager.GetString("Restore File", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Restore File.
+        /// </summary>
+        public static string RestoreFileTooltip {
+            get {
+                return ResourceManager.GetString("RestoreFileTooltip", resourceCulture);
             }
         }
         
@@ -1411,11 +1681,56 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Size.
+        /// </summary>
+        public static string Size {
+            get {
+                return ResourceManager.GetString("Size", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Small.
+        /// </summary>
+        public static string Small {
+            get {
+                return ResourceManager.GetString("Small", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sort.
+        /// </summary>
+        public static string Sort {
+            get {
+                return ResourceManager.GetString("Sort", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sort.
+        /// </summary>
+        public static string SortTooltip {
+            get {
+                return ResourceManager.GetString("SortTooltip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Submit.
         /// </summary>
         public static string SubmitTextDefault {
             get {
                 return ResourceManager.GetString("SubmitTextDefault", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Switch View.
+        /// </summary>
+        public static string Switch_View {
+            get {
+                return ResourceManager.GetString("Switch View", resourceCulture);
             }
         }
         
@@ -1429,11 +1744,47 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ToggleDelete.
+        /// </summary>
+        public static string Toggle_Delete {
+            get {
+                return ResourceManager.GetString("Toggle Delete", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Toggle Delete.
+        /// </summary>
+        public static string ToggleDeleteTooltip {
+            get {
+                return ResourceManager.GetString("ToggleDeleteTooltip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Toggle View.
         /// </summary>
         public static string ToggleViewMode {
             get {
                 return ResourceManager.GetString("ToggleViewMode", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unknown View.
+        /// </summary>
+        public static string Unknown_View {
+            get {
+                return ResourceManager.GetString("Unknown View", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Upload.
+        /// </summary>
+        public static string Upload {
+            get {
+                return ResourceManager.GetString("Upload", resourceCulture);
             }
         }
         
@@ -1447,11 +1798,29 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Uploading Failed..
+        /// </summary>
+        public static string Uploading_Failed_ {
+            get {
+                return ResourceManager.GetString("Uploading Failed.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Uploading in progress….
         /// </summary>
         public static string UploadInProgress {
             get {
                 return ResourceManager.GetString("UploadInProgress", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Upload.
+        /// </summary>
+        public static string UploadTooltip {
+            get {
+                return ResourceManager.GetString("UploadTooltip", resourceCulture);
             }
         }
         
