@@ -961,7 +961,7 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0} files selected of {1} files.
+        ///   Looks up a localized string similar to {0} of {1} selected.
         /// </summary>
         public static string FileExplorerSelectedCount {
             get {
@@ -970,7 +970,7 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0} files uploaded of {1} files.
+        ///   Looks up a localized string similar to {0} of {1} uploaded.
         /// </summary>
         public static string FileExplorerUploadCount {
             get {

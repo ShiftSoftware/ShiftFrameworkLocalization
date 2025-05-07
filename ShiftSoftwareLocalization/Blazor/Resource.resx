@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -608,9 +608,6 @@
   <data name="ViewingForm1" xml:space="preserve">
     <value>Viewing {0}</value>
   </data>
-  <data name="FileExplorerSelectedCount" xml:space="preserve">
-    <value>{0} of {1} selected</value>
-  </data>
   <data name="FileExplorer" xml:space="preserve">
     <value>FileExplorer</value>
   </data>
@@ -653,9 +650,6 @@
   <data name="RefreshTooltip" xml:space="preserve">
     <value>Refresh</value>
   </data>
-  <data name="SortTooltip" xml:space="preserve">
-    <value>Sort</value>
-  </data>
   <data name="DeleteTooltip" xml:space="preserve">
     <value>Delete</value>
   </data>
@@ -684,10 +678,10 @@
     <value>No Files</value>
   </data>
   <data name="FileExplorerSelectedCount" xml:space="preserve">
-    <value>{0} files selected of {1} files</value>
+    <value>{0} of {1} selected</value>
   </data>
   <data name="FileExplorerUploadCount" xml:space="preserve">
-    <value>{0} files uploaded of {1} files</value>
+    <value>{0} of {1} uploaded</value>
   </data>
   <data name="Switch View" xml:space="preserve">
     <value>Switch View</value>
@@ -733,5 +727,8 @@
   </data>
   <data name="Uploading Failed." xml:space="preserve">
     <value>Uploading Failed.</value>
+  </data>
+  <data name="SortTooltip" xml:space="preserve">
+    <value>Sort</value>
   </data>
 </root>
