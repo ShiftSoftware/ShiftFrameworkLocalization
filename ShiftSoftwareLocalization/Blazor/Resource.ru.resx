@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -121,123 +121,609 @@
     <value>Действия</value>
   </data>
   <data name="FileExplorer" xml:space="preserve">
-    <value />
+    <value>Проводник</value>
   </data>
   <data name="NewFolder" xml:space="preserve">
-    <value />
+    <value>Новая папка</value>
   </data>
   <data name="Upload" xml:space="preserve">
-    <value />
+    <value>Загрузить</value>
   </data>
   <data name="Sort" xml:space="preserve">
-    <value />
+    <value>Отсортировать</value>
   </data>
   <data name="Name" xml:space="preserve">
-    <value />
+    <value>Имя</value>
   </data>
   <data name="Date" xml:space="preserve">
-    <value />
+    <value>Дата</value>
   </data>
   <data name="Size" xml:space="preserve">
-    <value />
+    <value>Размер</value>
   </data>
   <data name="Refresh" xml:space="preserve">
-    <value />
+    <value>Обновить</value>
   </data>
   <data name="Download" xml:space="preserve">
-    <value />
+    <value>Скачать</value>
   </data>
   <data name="Toggle Delete" xml:space="preserve">
-    <value />
+    <value>Активировать удаление</value>
   </data>
   <data name="Restore File" xml:space="preserve">
-    <value />
+    <value>Восстановить файл</value>
   </data>
   <data name="NewFolderTooltip" xml:space="preserve">
-    <value />
+    <value>Новая папка</value>
   </data>
   <data name="UploadTooltip" xml:space="preserve">
-    <value />
+    <value>Загрузить</value>
   </data>
   <data name="RefreshTooltip" xml:space="preserve">
-    <value />
+    <value>Обновить</value>
   </data>
   <data name="DeleteTooltip" xml:space="preserve">
-    <value />
+    <value>Удалить</value>
   </data>
   <data name="DownloadTooltip" xml:space="preserve">
-    <value />
+    <value>Скачать</value>
   </data>
   <data name="ToggleDeleteTooltip" xml:space="preserve">
-    <value />
+    <value>Активировать удаление</value>
   </data>
   <data name="RestoreFileTooltip" xml:space="preserve">
-    <value />
+    <value>Восстановить</value>
   </data>
   <data name="Date modified" xml:space="preserve">
-    <value />
+    <value>Дата редактирования</value>
   </data>
   <data name="Filename" xml:space="preserve">
-    <value />
+    <value>Название файла</value>
   </data>
   <data name="Created By" xml:space="preserve">
-    <value />
+    <value>Создано</value>
   </data>
   <data name="Unknown View" xml:space="preserve">
-    <value />
+    <value>Незизвестный вид</value>
   </data>
   <data name="NoFiles" xml:space="preserve">
-    <value />
+    <value>Файлов нет</value>
   </data>
   <data name="FileExplorerSelectedCount" xml:space="preserve">
-    <value />
+    <value>{0} из {1} выбрано</value>
   </data>
   <data name="FileExplorerUploadCount" xml:space="preserve">
-    <value />
+    <value>{0} из {1} загружено</value>
   </data>
   <data name="Switch View" xml:space="preserve">
-    <value />
+    <value>Переключить вид</value>
   </data>
   <data name="Detailed" xml:space="preserve">
-    <value />
+    <value>Детально</value>
   </data>
   <data name="Small" xml:space="preserve">
-    <value />
+    <value>Маленький</value>
   </data>
   <data name="Medium" xml:space="preserve">
-    <value />
+    <value>Средний</value>
   </data>
   <data name="Large" xml:space="preserve">
-    <value />
+    <value>Большой</value>
   </data>
   <data name="ExtraLarge" xml:space="preserve">
-    <value />
+    <value>Очень большой</value>
   </data>
   <data name="New Folder" xml:space="preserve">
-    <value />
+    <value>Новая папка</value>
   </data>
   <data name="Add to Quick Access" xml:space="preserve">
-    <value />
+    <value>Добавить в быстрый доступ</value>
   </data>
   <data name="Folder" xml:space="preserve">
-    <value />
+    <value>Папка</value>
   </data>
   <data name="Folder name cannot be empty" xml:space="preserve">
-    <value />
+    <value>Имя папки не может быть пустым</value>
   </data>
   <data name="Delete File" xml:space="preserve">
-    <value />
+    <value>Удалить файл</value>
   </data>
   <data name="Are you sure you want to delete this file?" xml:space="preserve">
-    <value />
+    <value>Вы действительно хотите удалить этот файл?</value>
   </data>
   <data name="Are you sure you want to undelete this file?" xml:space="preserve">
-    <value />
+    <value>Вы действительно хотите отменить удаление файла?</value>
   </data>
   <data name="Could not parse server data" xml:space="preserve">
-    <value />
+    <value>Не удалось обработать серверные данные</value>
   </data>
   <data name="Uploading Failed." xml:space="preserve">
-    <value />
+    <value>Загрузка неуспешна.</value>
+  </data>
+  <data name="SortTooltip" xml:space="preserve">
+    <value>Сортировать</value>
+  </data>
+  <data name="DataReadStatusError" xml:space="preserve">
+    <value>Не удалось получить данные от сервера ({0})</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>Английский язык</value>
+  </data>
+  <data name="IdentityProfileButton" xml:space="preserve">
+    <value>Профиль</value>
+  </data>
+  <data name="ActionButtonCreateError" xml:space="preserve">
+    <value>Ошибка выполнения действия.</value>
+  </data>
+  <data name="IsDeletedColumnHeaderText" xml:space="preserve">
+    <value>Удалено</value>
+  </data>
+  <data name="LocalizedTextFieldError" xml:space="preserve">
+    <value>Ошибка при создании языковых полей</value>
+  </data>
+  <data name="ViewingForm1" xml:space="preserve">
+    <value>Просматривается {0}</value>
+  </data>
+  <data name="AddButtonChip" xml:space="preserve">
+    <value>Добавить</value>
+  </data>
+  <data name="AddButtonTitleThumbnail" xml:space="preserve">
+    <value>Добавить кнопку</value>
+  </data>
+  <data name="AddNewItemTitle" xml:space="preserve">
+    <value>Добавить</value>
+  </data>
+  <data name="ApplyFilterButton" xml:space="preserve">
+    <value>Фильтр</value>
+  </data>
+  <data name="AppSettings" xml:space="preserve">
+    <value>Настройки приложения</value>
+  </data>
+  <data name="BrandAutocompleteLabel" xml:space="preserve">
+    <value>Бренд</value>
+  </data>
+  <data name="BrandColumnTitle" xml:space="preserve">
+    <value>Бренд</value>
+  </data>
+  <data name="CancelChanges" xml:space="preserve">
+    <value>Отменить</value>
+  </data>
+  <data name="CancelConfirmText" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="CancelDeclineText" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="CancelWarningMessage" xml:space="preserve">
+    <value>У вас есть несохраненные изменения, вы хотите продолжить?</value>
+  </data>
+  <data name="CancelWarningTitle" xml:space="preserve">
+    <value>Предупреждение</value>
+  </data>
+  <data name="ClearAllFiles" xml:space="preserve">
+    <value>Очистить</value>
+  </data>
+  <data name="ClearFilterButton" xml:space="preserve">
+    <value>Очистить</value>
+  </data>
+  <data name="CloseButton" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="CloseModalButtonTitle" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="ClosePopupButtonLabel" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="CloseRevisions" xml:space="preserve">
+    <value>Назад</value>
+  </data>
+  <data name="ColumnChooserTitle" xml:space="preserve">
+    <value>Изменить колонки</value>
+  </data>
+  <data name="ColumnEditorCloseMenuButton" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="ColumnEditorColumnHeader" xml:space="preserve">
+    <value>Колонка</value>
+  </data>
+  <data name="ColumnEditorResetSettingsButton" xml:space="preserve">
+    <value>Сбросить</value>
+  </data>
+  <data name="ColumnEditorStickyToggleHeader" xml:space="preserve">
+    <value>Закрепленный</value>
+  </data>
+  <data name="ColumnEditorVisiblityToggleHeader" xml:space="preserve">
+    <value>Видимое</value>
+  </data>
+  <data name="ConfirmDefaultText" xml:space="preserve">
+    <value>Ок</value>
+  </data>
+  <data name="CopyActionFail" xml:space="preserve">
+    <value>Не удалось сохранить</value>
+  </data>
+  <data name="CopyButtonLabel" xml:space="preserve">
+    <value>Скопировать</value>
+  </data>
+  <data name="CreateForm" xml:space="preserve">
+    <value>Создать</value>
+  </data>
+  <data name="CreatingForm" xml:space="preserve">
+    <value>Создание нового {0}</value>
+  </data>
+  <data name="DataGridItemPerPageLabel" xml:space="preserve">
+    <value>Элементов на странице</value>
+  </data>
+  <data name="DataGridItemPerPage" xml:space="preserve">
+    <value>Количество записей на странице таблицы</value>
+  </data>
+  <data name="DataGridSettings" xml:space="preserve">
+    <value>Настройки таблицы</value>
+  </data>
+  <data name="DateFormat" xml:space="preserve">
+    <value>Формат даты</value>
+  </data>
+  <data name="CopyActionSuccess" xml:space="preserve">
+    <value>Скопировано</value>
+  </data>
+  <data name="DefaultTitle" xml:space="preserve">
+    <value>Изменения</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="DeleteAccept" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="DeleteDecline" xml:space="preserve">
+    <value>Отменить</value>
+  </data>
+  <data name="DeletedIndicator" xml:space="preserve">
+    <value>Объект удален.</value>
+  </data>
+  <data name="DeleteWarningMessage" xml:space="preserve">
+    <value>Вы хотите удалить этот файл?</value>
+  </data>
+  <data name="DeleteWarningTitle" xml:space="preserve">
+    <value>Предупреждение</value>
+  </data>
+  <data name="DialogDefaultCancel" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="DialogDefaultConfirm" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="DialogDefaultText" xml:space="preserve">
+    <value>Вы уверены, что хотите выполнить это действие для выбранного элемента?</value>
+  </data>
+  <data name="DialogDefaultTextPlural" xml:space="preserve">
+    <value>Вы уверены, что хотите выполнить это действие для {0} элементов?</value>
+  </data>
+  <data name="DialogDefaultTitle" xml:space="preserve">
+    <value>Продолжить?</value>
+  </data>
+  <data name="DownloadFile" xml:space="preserve">
+    <value>Скачать файл</value>
+  </data>
+  <data name="DraftColumnStateDraft" xml:space="preserve">
+    <value>Черновик</value>
+  </data>
+  <data name="DraftColumnStateFinal" xml:space="preserve">
+    <value>Итоговый</value>
+  </data>
+  <data name="DraftVersionCheckboxLabel" xml:space="preserve">
+    <value>Версия черновика</value>
+  </data>
+  <data name="DropdownNoItemsFound" xml:space="preserve">
+    <value>Объектов нет, Добавить Новый</value>
+  </data>
+  <data name="DropdownViewButtonText" xml:space="preserve">
+    <value>Вид</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Редактировать</value>
+  </data>
+  <data name="EditingForm" xml:space="preserve">
+    <value>Редактируется {0} ({1})</value>
+  </data>
+  <data name="ExportButtonTitle" xml:space="preserve">
+    <value>Экспортировать в CSV</value>
+  </data>
+  <data name="FileUploadSuccess" xml:space="preserve">
+    <value>Файлы успешно загружены</value>
+  </data>
+  <data name="FilterDeletedItemsTitle" xml:space="preserve">
+    <value>Отфильтровать удаленные обьекты</value>
+  </data>
+  <data name="FormCloseBehavior" xml:space="preserve">
+    <value>Поведение при закрытии формы</value>
+  </data>
+  <data name="FormDefaultTitle" xml:space="preserve">
+    <value>Форма</value>
+  </data>
+  <data name="FormSettings" xml:space="preserve">
+    <value>Настройки формы</value>
+  </data>
+  <data name="GalleryDefaultTitle" xml:space="preserve">
+    <value>Галерея</value>
+  </data>
+  <data name="GridItemsLoadingText" xml:space="preserve">
+    <value>Загрузка…</value>
+  </data>
+  <data name="IdColumnHeaderText" xml:space="preserve">
+    <value>Идентификатор</value>
+  </data>
+  <data name="ItemCreated" xml:space="preserve">
+    <value>Обьект создан</value>
+  </data>
+  <data name="ItemSaved" xml:space="preserve">
+    <value>Обьект сохранен</value>
+  </data>
+  <data name="ItemsPerPageLabel" xml:space="preserve">
+    <value>Строк на странице:</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Язык</value>
+  </data>
+  <data name="ListDefaultTitle" xml:space="preserve">
+    <value>Список</value>
+  </data>
+  <data name="LogoutButton" xml:space="preserve">
+    <value>Выйти из аккаунта</value>
+  </data>
+  <data name="MaxAllowedFileUploadWarning" xml:space="preserve">
+    <value>Максимальное количество файлов в форме {0}</value>
+  </data>
+  <data name="Maximize" xml:space="preserve">
+    <value>Максимизировать</value>
+  </data>
+  <data name="ModalPosition" xml:space="preserve">
+    <value>Положение модального окна</value>
+  </data>
+  <data name="Minimize" xml:space="preserve">
+    <value>Минимизировать</value>
+  </data>
+  <data name="ModalClose" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="ModalClose1" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="ModalSize" xml:space="preserve">
+    <value>Размер модального окна</value>
+  </data>
+  <data name="NewTab" xml:space="preserve">
+    <value>Открыть в новой вкладке</value>
+  </data>
+  <data name="NoFilesSelected" xml:space="preserve">
+    <value>Нет прикрепленных файлов</value>
+  </data>
+  <data name="NoItemsFound" xml:space="preserve">
+    <value>Ничего не найдено.</value>
+  </data>
+  <data name="OkButton" xml:space="preserve">
+    <value>Ок</value>
+  </data>
+  <data name="Print" xml:space="preserve">
+    <value>Печать</value>
+  </data>
+  <data name="ReadAccessDenied" xml:space="preserve">
+    <value>Вы не можете просмотреть ({0})</value>
+  </data>
+  <data name="ReadAccessDenied1" xml:space="preserve">
+    <value>У вас нет доступа к ({0})</value>
+  </data>
+  <data name="RefreshList" xml:space="preserve">
+    <value>Перезагрузить</value>
+  </data>
+  <data name="RevisionIndicator" xml:space="preserve">
+    <value>Вы просматриваете сохраненную версию.</value>
+  </data>
+  <data name="Revisions" xml:space="preserve">
+    <value>Просмотреть версии</value>
+  </data>
+  <data name="RevisionsTitle" xml:space="preserve">
+    <value>{0} Версий</value>
+  </data>
+  <data name="SavedByColumnTitle" xml:space="preserve">
+    <value>Сохранено</value>
+  </data>
+  <data name="RemoveFile" xml:space="preserve">
+    <value>Убрать файл</value>
+  </data>
+  <data name="SaveForm" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="SelectAllButtonTitle" xml:space="preserve">
+    <value>Выбрать все</value>
+  </data>
+  <data name="SelectColumnHeaderText" xml:space="preserve">
+    <value>Выбрать</value>
+  </data>
+  <data name="SelectedItemsCounterLabel" xml:space="preserve">
+    <value>{0} из {1} выбрано</value>
+  </data>
+  <data name="SettingsButton" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="SettingsHeader" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="ShowActiveOnlyOption" xml:space="preserve">
+    <value>Показывать только Активные</value>
+  </data>
+  <data name="ShowBothDeletedAndActiveOption" xml:space="preserve">
+    <value>Показать все</value>
+  </data>
+  <data name="ShowDeletedOnlyOption" xml:space="preserve">
+    <value>Показать только удаленные</value>
+  </data>
+  <data name="SubmitTextDefault" xml:space="preserve">
+    <value>Отправить</value>
+  </data>
+  <data name="TimeFormat" xml:space="preserve">
+    <value>Формат времени</value>
+  </data>
+  <data name="ToggleViewMode" xml:space="preserve">
+    <value>Изменить вид</value>
+  </data>
+  <data name="UploadFailedDefaultMessage" xml:space="preserve">
+    <value>Не удалось загрузить файл</value>
+  </data>
+  <data name="UploadInProgress" xml:space="preserve">
+    <value>Загрузка в процессе…</value>
+  </data>
+  <data name="ValidFromColumnTitle" xml:space="preserve">
+    <value>Действует от</value>
+  </data>
+  <data name="ValidToColumnTitle" xml:space="preserve">
+    <value>Действует до</value>
+  </data>
+  <data name="ViewGalleryButton" xml:space="preserve">
+    <value>Галерея</value>
+  </data>
+  <data name="ViewingForm" xml:space="preserve">
+    <value>Просматривается {0} ({1})</value>
+  </data>
+  <data name="ViewItemButtonText" xml:space="preserve">
+    <value>Просмотреть</value>
+  </data>
+  <data name="WriteAccessDenied" xml:space="preserve">
+    <value>Вы не можете создать/изменить ({0})</value>
+  </data>
+  <data name="DataReadError" xml:space="preserve">
+    <value>Не удалось получить информацию от сервера</value>
+  </data>
+  <data name="DataParseError" xml:space="preserve">
+    <value>Не удалось получить информацию от сервере (ошибка синтакскического анализа)</value>
+  </data>
+  <data name="DataReadEmptyError" xml:space="preserve">
+    <value>Не удалось получать данные от сервера (нет информации)</value>
+  </data>
+  <data name="HideDisabledColumnError" xml:space="preserve">
+    <value>Не удалось получить или установить состояние колонок</value>
+  </data>
+  <data name="ShiftListForeignColumnError" xml:space="preserve">
+    <value>Ошибка обработки связанных столбцов</value>
+  </data>
+  <data name="ShiftListFilterParseError" xml:space="preserve">
+    <value>Не удалось обработать фильтр</value>
+  </data>
+  <data name="DateTimePickerTimeLabel" xml:space="preserve">
+    <value>Время</value>
+  </data>
+  <data name="DateTimePickerDateLabel" xml:space="preserve">
+    <value>Дата</value>
+  </data>
+  <data name="Arabic" xml:space="preserve">
+    <value>Арабский язык</value>
+  </data>
+  <data name="FileUploaderError1" xml:space="preserve">
+    <value>Не удалось найти файл</value>
+  </data>
+  <data name="FileUploaderError2" xml:space="preserve">
+    <value>Что то пошло не так</value>
+  </data>
+  <data name="FileUploaderError3" xml:space="preserve">
+    <value>Что то пошло не так: {0}</value>
+  </data>
+  <data name="DefaultAppNotAuthorized" xml:space="preserve">
+    <value>Не авторизовано</value>
+  </data>
+  <data name="Kurdish" xml:space="preserve">
+    <value>Курдский</value>
+  </data>
+  <data name="DefaultAppRedirecting" xml:space="preserve">
+    <value>Перенаправление…</value>
+  </data>
+  <data name="DefaultAppNotFoundTitle" xml:space="preserve">
+    <value>Не найдено</value>
+  </data>
+  <data name="DefaultAppNotFoundText" xml:space="preserve">
+    <value>Извините, по этому адресу ничего не найдено.</value>
+  </data>
+  <data name="DialogPositionCenter" xml:space="preserve">
+    <value>Центр</value>
+  </data>
+  <data name="DialogPositionCenterLeft" xml:space="preserve">
+    <value>По центру слева</value>
+  </data>
+  <data name="DialogPositionCenterRight" xml:space="preserve">
+    <value>По центру справа</value>
+  </data>
+  <data name="DialogPositionTopCenter" xml:space="preserve">
+    <value>Верх по центру</value>
+  </data>
+  <data name="DialogPositionTopRight" xml:space="preserve">
+    <value>Вверху справа</value>
+  </data>
+  <data name="DialogPositionTopLeft" xml:space="preserve">
+    <value>Вверху слева</value>
+  </data>
+  <data name="DialogPositionBottomCenter" xml:space="preserve">
+    <value>Снизу по центру</value>
+  </data>
+  <data name="DialogPositionBottomLeft" xml:space="preserve">
+    <value>Снизу слева</value>
+  </data>
+  <data name="DialogPositionBottomRight" xml:space="preserve">
+    <value>Снизу справа</value>
+  </data>
+  <data name="DialogPositionCustom" xml:space="preserve">
+    <value>Пользовательский</value>
+  </data>
+  <data name="DialogSizeSmall" xml:space="preserve">
+    <value>Маленький</value>
+  </data>
+  <data name="DialogSizeExtraSmall" xml:space="preserve">
+    <value>Очень маленький</value>
+  </data>
+  <data name="DialogSizeMedium" xml:space="preserve">
+    <value>Средний</value>
+  </data>
+  <data name="DialogSizeLarge" xml:space="preserve">
+    <value>Большой</value>
+  </data>
+  <data name="DialogSizeExtraLarge" xml:space="preserve">
+    <value>Очень большой</value>
+  </data>
+  <data name="DialogSizeFalse" xml:space="preserve">
+    <value>Ошибка</value>
+  </data>
+  <data name="FormActionViewFormOnSave" xml:space="preserve">
+    <value>Просмотреть форму при сохранении</value>
+  </data>
+  <data name="FormActionCloseFormOnSave" xml:space="preserve">
+    <value>Закрыть форму при сохранении</value>
+  </data>
+  <data name="FormActionResetFormOnSave" xml:space="preserve">
+    <value>Сбросить форму при сохранении</value>
+  </data>
+  <data name="DialogSizeExtraExtraLarge" xml:space="preserve">
+    <value>Очень очень большой</value>
+  </data>
+  <data name="FormTaskError" xml:space="preserve">
+    <value>Не удалось {0} обьект.</value>
+  </data>
+  <data name="FormTaskCustom" xml:space="preserve">
+    <value>Пользовательский</value>
+  </data>
+  <data name="FormTaskDelete" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="FormTaskFetch" xml:space="preserve">
+    <value>Загрузить</value>
+  </data>
+  <data name="FormTaskFetchRevisions" xml:space="preserve">
+    <value>Загрузить версии</value>
+  </data>
+  <data name="FormTaskNone" xml:space="preserve">
+    <value>Ничего</value>
+  </data>
+  <data name="FormTaskPrint" xml:space="preserve">
+    <value>Печать</value>
+  </data>
+  <data name="FormTaskSave" xml:space="preserve">
+    <value>Сохранить</value>
   </data>
 </root>
