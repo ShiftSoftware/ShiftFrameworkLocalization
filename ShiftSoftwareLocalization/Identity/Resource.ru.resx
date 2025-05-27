@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -118,11 +118,11 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Access Trees" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Access Trees" type="System.Resources.ResXNullRef, System.Windows.Forms" xml:space="preserve">
+    <value>Уровень доступов</value>
   </data>
-  <data name="Action Tree" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Action Tree" type="System.Resources.ResXNullRef, System.Windows.Forms" xml:space="preserve">
+    <value>Уровень действий</value>
   </data>
   <data name="Active" xml:space="preserve">
     <value>Активный</value>
@@ -138,5 +138,101 @@
   </data>
   <data name="Parent Company" xml:space="preserve">
     <value />
+  </data>
+  <data name="Access Tree" xml:space="preserve">
+    <value>Уровень доступа</value>
+  </data>
+  <data name="Access Tree Feature is locked" xml:space="preserve">
+    <value>Функция управления доступом заблокирована</value>
+  </data>
+  <data name="Access Tree List" xml:space="preserve">
+    <value>Список доступов</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>Адрес</value>
+  </data>
+  <data name="Allow" xml:space="preserve">
+    <value>Разрешить</value>
+  </data>
+  <data name="App" xml:space="preserve">
+    <value>Приложение</value>
+  </data>
+  <data name="App Feature is locked" xml:space="preserve">
+    <value>Доступ к приложению заблокирован</value>
+  </data>
+  <data name="App Id" xml:space="preserve">
+    <value>Идентификатор приложения</value>
+  </data>
+  <data name="App List" xml:space="preserve">
+    <value>Список приложений</value>
+  </data>
+  <data name="Apps" xml:space="preserve">
+    <value>Приложения</value>
+  </data>
+  <data name="Are you sure you want to randomly assign new passwords for the selected users?" xml:space="preserve">
+    <value>Вы уверены, что хотите случайным образом присвоить пароли для выбранных пользователей?</value>
+  </data>
+  <data name="Assign Random Passwords" xml:space="preserve">
+    <value>Присвоить случаные пароли</value>
+  </data>
+  <data name="Below Access Trees contain accesses that you can not grant" xml:space="preserve">
+    <value>Вы выбрали доступы, которые не можете выдать</value>
+  </data>
+  <data name="Birth Date" xml:space="preserve">
+    <value>День Рождения</value>
+  </data>
+  <data name="Branch" xml:space="preserve">
+    <value>Филиал</value>
+  </data>
+  <data name="Branches" xml:space="preserve">
+    <value>Филиалы</value>
+  </data>
+  <data name="Brand" xml:space="preserve">
+    <value>Бренд</value>
+  </data>
+  <data name="Brand Feature is locked" xml:space="preserve">
+    <value>Функция бренд заблокирована</value>
+  </data>
+  <data name="Brand List" xml:space="preserve">
+    <value>Список брендов</value>
+  </data>
+  <data name="Brands" xml:space="preserve">
+    <value>Бренды</value>
+  </data>
+  <data name="Built-In Data can't be modified." xml:space="preserve">
+    <value>Встроенная информация не может быть изменена.</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Отменить</value>
+  </data>
+  <data name="Choose a strong password" xml:space="preserve">
+    <value>Введите сложный пароль</value>
+  </data>
+  <data name="Cities" xml:space="preserve">
+    <value>Города</value>
+  </data>
+  <data name="City" xml:space="preserve">
+    <value>Город</value>
+  </data>
+  <data name="City Feature is locked" xml:space="preserve">
+    <value>Функция Город заблокирована</value>
+  </data>
+  <data name="City List" xml:space="preserve">
+    <value>Список городов</value>
+  </data>
+  <data name="Companies" xml:space="preserve">
+    <value>Компании</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>Компания</value>
+  </data>
+  <data name="Company and Region can not be changed after creation." xml:space="preserve">
+    <value>Компания и регион не могут быть изменены после создания.</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Имя</value>
   </data>
 </root>
