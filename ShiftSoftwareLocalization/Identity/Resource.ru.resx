@@ -598,4 +598,7 @@
   <data name="Country can not be changed after creation." xml:space="preserve">
     <value>Страна не может быть изменена после создания.</value>
   </data>
+  <data name="Code Challenge" xml:space="preserve">
+    <value>Хеш-код проверки</value>
+  </data>
 </root>
