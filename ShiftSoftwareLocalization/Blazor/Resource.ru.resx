@@ -124,7 +124,7 @@
     <value>Проводник</value>
   </data>
   <data name="NewFolder" xml:space="preserve">
-    <value>Новая папка</value>
+    <value>НоваяПапка</value>
   </data>
   <data name="Upload" xml:space="preserve">
     <value>Загрузить</value>
@@ -148,7 +148,7 @@
     <value>Скачать</value>
   </data>
   <data name="Toggle Delete" xml:space="preserve">
-    <value>Активировать удаление</value>
+    <value>АктивироватьУдаление</value>
   </data>
   <data name="Restore File" xml:space="preserve">
     <value>Восстановить файл</value>
@@ -211,7 +211,7 @@
     <value>Большой</value>
   </data>
   <data name="ExtraLarge" xml:space="preserve">
-    <value>Очень большой</value>
+    <value>ОченьБольшой</value>
   </data>
   <data name="New Folder" xml:space="preserve">
     <value>Новая папка</value>
@@ -688,7 +688,7 @@
     <value>Очень большой</value>
   </data>
   <data name="DialogSizeFalse" xml:space="preserve">
-    <value>Ошибка</value>
+    <value>Не удалось</value>
   </data>
   <data name="FormActionViewFormOnSave" xml:space="preserve">
     <value>Просмотреть форму при сохранении</value>
@@ -712,7 +712,7 @@
     <value>Удалить</value>
   </data>
   <data name="FormTaskFetch" xml:space="preserve">
-    <value>Загрузить</value>
+    <value>Запросить</value>
   </data>
   <data name="FormTaskFetchRevisions" xml:space="preserve">
     <value>Загрузить версии</value>
