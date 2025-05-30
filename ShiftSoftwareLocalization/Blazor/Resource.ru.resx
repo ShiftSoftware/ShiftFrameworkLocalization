@@ -148,7 +148,7 @@
     <value>Скачать</value>
   </data>
   <data name="Toggle Delete" xml:space="preserve">
-    <value>АктивироватьУдаление</value>
+    <value>Удалить</value>
   </data>
   <data name="Restore File" xml:space="preserve">
     <value>Восстановить файл</value>
@@ -211,7 +211,7 @@
     <value>Большой</value>
   </data>
   <data name="ExtraLarge" xml:space="preserve">
-    <value>ОченьБольшой</value>
+    <value>Огромный</value>
   </data>
   <data name="New Folder" xml:space="preserve">
     <value>Новая папка</value>
