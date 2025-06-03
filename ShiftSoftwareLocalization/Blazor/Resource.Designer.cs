@@ -1456,6 +1456,150 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Contains.
+        /// </summary>
+        public static string ODataFilterContains {
+            get {
+                return ResourceManager.GetString("ODataFilterContains", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ends With.
+        /// </summary>
+        public static string ODataFilterEndsWith {
+            get {
+                return ResourceManager.GetString("ODataFilterEndsWith", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Equals.
+        /// </summary>
+        public static string ODataFilterEquals {
+            get {
+                return ResourceManager.GetString("ODataFilterEquals", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Greater Than.
+        /// </summary>
+        public static string ODataFilterGreaterThan {
+            get {
+                return ResourceManager.GetString("ODataFilterGreaterThan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Greater Than or Equal.
+        /// </summary>
+        public static string ODataFilterGreaterThanOrEqual {
+            get {
+                return ResourceManager.GetString("ODataFilterGreaterThanOrEqual", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to In.
+        /// </summary>
+        public static string ODataFilterIn {
+            get {
+                return ResourceManager.GetString("ODataFilterIn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Is Set.
+        /// </summary>
+        public static string ODataFilterIsEmpty {
+            get {
+                return ResourceManager.GetString("ODataFilterIsEmpty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Is Not Set.
+        /// </summary>
+        public static string ODataFilterIsNotEmpty {
+            get {
+                return ResourceManager.GetString("ODataFilterIsNotEmpty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Less Than.
+        /// </summary>
+        public static string ODataFilterLessThan {
+            get {
+                return ResourceManager.GetString("ODataFilterLessThan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Less Than or Equal.
+        /// </summary>
+        public static string ODataFilterLessThanOrEqual {
+            get {
+                return ResourceManager.GetString("ODataFilterLessThanOrEqual", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not Contains.
+        /// </summary>
+        public static string ODataFilterNotContains {
+            get {
+                return ResourceManager.GetString("ODataFilterNotContains", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Doesn&apos;t Ends With.
+        /// </summary>
+        public static string ODataFilterNotEndsWith {
+            get {
+                return ResourceManager.GetString("ODataFilterNotEndsWith", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not Equals.
+        /// </summary>
+        public static string ODataFilterNotEquals {
+            get {
+                return ResourceManager.GetString("ODataFilterNotEquals", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not In.
+        /// </summary>
+        public static string ODataFilterNotIn {
+            get {
+                return ResourceManager.GetString("ODataFilterNotIn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Doesn&apos;t Starts With.
+        /// </summary>
+        public static string ODataFilterNotStartsWith {
+            get {
+                return ResourceManager.GetString("ODataFilterNotStartsWith", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Starts With.
+        /// </summary>
+        public static string ODataFilterStartsWith {
+            get {
+                return ResourceManager.GetString("ODataFilterStartsWith", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ok.
         /// </summary>
         public static string OkButton {

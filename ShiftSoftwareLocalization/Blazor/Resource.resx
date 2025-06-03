@@ -731,4 +731,52 @@
   <data name="SortTooltip" xml:space="preserve">
     <value>Sort</value>
   </data>
+  <data name="ODataFilterEquals" xml:space="preserve">
+    <value>Equals</value>
+  </data>
+  <data name="ODataFilterNotEquals" xml:space="preserve">
+    <value>Not Equals</value>
+  </data>
+  <data name="ODataFilterGreaterThan" xml:space="preserve">
+    <value>Greater Than</value>
+  </data>
+  <data name="ODataFilterGreaterThanOrEqual" xml:space="preserve">
+    <value>Greater Than or Equal</value>
+  </data>
+  <data name="ODataFilterLessThan" xml:space="preserve">
+    <value>Less Than</value>
+  </data>
+  <data name="ODataFilterLessThanOrEqual" xml:space="preserve">
+    <value>Less Than or Equal</value>
+  </data>
+  <data name="ODataFilterContains" xml:space="preserve">
+    <value>Contains</value>
+  </data>
+  <data name="ODataFilterNotContains" xml:space="preserve">
+    <value>Not Contains</value>
+  </data>
+  <data name="ODataFilterStartsWith" xml:space="preserve">
+    <value>Starts With</value>
+  </data>
+  <data name="ODataFilterNotStartsWith" xml:space="preserve">
+    <value>Doesn't Starts With</value>
+  </data>
+  <data name="ODataFilterEndsWith" xml:space="preserve">
+    <value>Ends With</value>
+  </data>
+  <data name="ODataFilterNotEndsWith" xml:space="preserve">
+    <value>Doesn't Ends With</value>
+  </data>
+  <data name="ODataFilterIn" xml:space="preserve">
+    <value>In</value>
+  </data>
+  <data name="ODataFilterNotIn" xml:space="preserve">
+    <value>Not In</value>
+  </data>
+  <data name="ODataFilterIsEmpty" xml:space="preserve">
+    <value>Is Set</value>
+  </data>
+  <data name="ODataFilterIsNotEmpty" xml:space="preserve">
+    <value>Is Not Set</value>
+  </data>
 </root>
