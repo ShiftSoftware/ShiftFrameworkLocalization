@@ -128,16 +128,16 @@
     <value>Активный</value>
   </data>
   <data name="Website" xml:space="preserve">
-    <value />
+    <value>Вебсайт</value>
   </data>
   <data name="Parent company and the child company should not be the same" xml:space="preserve">
-    <value />
+    <value>Родительская компания и дочерняя не могут быть одинаковыми</value>
   </data>
   <data name="Circular reference is not allowed" xml:space="preserve">
-    <value />
+    <value>Циркулирующая связь недопустима</value>
   </data>
   <data name="Parent Company" xml:space="preserve">
-    <value />
+    <value>Родительская компания</value>
   </data>
   <data name="Access Tree" xml:space="preserve">
     <value>Уровень доступа</value>
@@ -234,5 +234,371 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Имя</value>
+  </data>
+  <data name="Standard Working Day" xml:space="preserve">
+    <value>Стандартный рабочий день</value>
+  </data>
+  <data name="Services" xml:space="preserve">
+    <value>Сервисы</value>
+  </data>
+  <data name="Short Code" xml:space="preserve">
+    <value>Короткий код</value>
+  </data>
+  <data name="The user will be redirected to" xml:space="preserve">
+    <value>Пользователь будет перенаправлен на</value>
+  </data>
+  <data name="Short Phone" xml:space="preserve">
+    <value>Короткий номер телефона</value>
+  </data>
+  <data name="Import User From CSV" xml:space="preserve">
+    <value>Импортировать пользователей с помощью CSV</value>
+  </data>
+  <data name="Select CSV File" xml:space="preserve">
+    <value>Выбрать CSV файл</value>
+  </data>
+  <data name="Standard Working Hours" xml:space="preserve">
+    <value>Стандартные рабочие часы</value>
+  </data>
+  <data name="Country" xml:space="preserve">
+    <value>Страна</value>
+  </data>
+  <data name="Countries" xml:space="preserve">
+    <value>Страны</value>
+  </data>
+  <data name="Please enter a name" xml:space="preserve">
+    <value>Пожалуйста введите имя</value>
+  </data>
+  <data name="Please select an action from the options" xml:space="preserve">
+    <value>Пожалуйста выберите действие для опций</value>
+  </data>
+  <data name="Your input cannot be more than 255 characters" xml:space="preserve">
+    <value>Ввод не может быть больше 255 символов</value>
+  </data>
+  <data name="Your input cannot be more than 4000 characters" xml:space="preserve">
+    <value>Ввод не может быть больше 4000 символов</value>
+  </data>
+  <data name="Please provide" xml:space="preserve">
+    <value>Пожалуйста предоставьте {0}</value>
+  </data>
+  <data name="Please select" xml:space="preserve">
+    <value>Пожалуйста выберите {0}</value>
+  </data>
+  <data name="Please provide a valid date" xml:space="preserve">
+    <value>Пожалуйста предоставьте верные данные</value>
+  </data>
+  <data name="Invalid Email Address" xml:space="preserve">
+    <value>Неверная почта</value>
+  </data>
+  <data name="The password must contain at least one digit" xml:space="preserve">
+    <value>Пароль должен содержать минимум одну цифру</value>
+  </data>
+  <data name="The password must contain at least 3 unique characters" xml:space="preserve">
+    <value>Пароль должен содержать минимум 3 уникальных символа</value>
+  </data>
+  <data name="The password cannot be the same as the Current Password" xml:space="preserve">
+    <value>Пароль не может совпадать с текущим</value>
+  </data>
+  <data name="New Password and Confirm Password do not match" xml:space="preserve">
+    <value>Новый пароль и подтверждение пароля не совпадают</value>
+  </data>
+  <data name="The password must be at least n characters long" xml:space="preserve">
+    <value>Минимальная длина пароля {0}</value>
+  </data>
+  <data name="Auth Code" xml:space="preserve">
+    <value>Аутентификационный код</value>
+  </data>
+  <data name="Code Verifier" xml:space="preserve">
+    <value>Верификатор кода</value>
+  </data>
+  <data name="Refresh Token" xml:space="preserve">
+    <value>Токен обновления</value>
+  </data>
+  <data name="Country List" xml:space="preserve">
+    <value>Список стран</value>
+  </data>
+  <data name="Country Feature is locked" xml:space="preserve">
+    <value>Функция Страна заблокирована</value>
+  </data>
+  <data name="Import" xml:space="preserve">
+    <value>Импорт</value>
+  </data>
+  <data name="Signature" xml:space="preserve">
+    <value>Подпись</value>
+  </data>
+  <data name="Company Branch" xml:space="preserve">
+    <value>Филиал Компании</value>
+  </data>
+  <data name="Company Branch List" xml:space="preserve">
+    <value>Список филиалов компании</value>
+  </data>
+  <data name="Company Feature is locked" xml:space="preserve">
+    <value>Функция Компании заблокирована</value>
+  </data>
+  <data name="Company List" xml:space="preserve">
+    <value>Список компаний</value>
+  </data>
+  <data name="Company Type" xml:space="preserve">
+    <value>Тип компании</value>
+  </data>
+  <data name="Confirm Password" xml:space="preserve">
+    <value>Подтвердите пароль</value>
+  </data>
+  <data name="Current Password" xml:space="preserve">
+    <value>Текущий пароль</value>
+  </data>
+  <data name="Current Password is incorrect" xml:space="preserve">
+    <value>Текущий пароль введен неверно</value>
+  </data>
+  <data name="Deny" xml:space="preserve">
+    <value>Отклонить</value>
+  </data>
+  <data name="Department" xml:space="preserve">
+    <value>Отдел</value>
+  </data>
+  <data name="Department Feature is locked" xml:space="preserve">
+    <value>Функция Отдел заблокирована</value>
+  </data>
+  <data name="Department List" xml:space="preserve">
+    <value>Список отделов</value>
+  </data>
+  <data name="Departments" xml:space="preserve">
+    <value>Отделы</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Описание</value>
+  </data>
+  <data name="Display Name" xml:space="preserve">
+    <value>Отображаемое имя</value>
+  </data>
+  <data name="Display Name is required" xml:space="preserve">
+    <value>Поле Отображаемое Имя обязательно</value>
+  </data>
+  <data name="Duplicate" xml:space="preserve">
+    <value>Дублировать</value>
+  </data>
+  <data name="Duplicate users are not allowed." xml:space="preserve">
+    <value>Повторяющиеся пользователя недопустимы.</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>Электронная почта</value>
+  </data>
+  <data name="Email verification link sent successfully." xml:space="preserve">
+    <value>Ссылка для подтверждения отправлена на почту.</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Ошибка</value>
+  </data>
+  <data name="Failed to genearate auth-code" xml:space="preserve">
+    <value>Не удалось сгенерировать код аутентификации</value>
+  </data>
+  <data name="Failed to genearate token" xml:space="preserve">
+    <value>Не удалось сгенерировать токен</value>
+  </data>
+  <data name="Forgot Password?" xml:space="preserve">
+    <value>Забыли пароль?</value>
+  </data>
+  <data name="Full Name" xml:space="preserve">
+    <value>Полное имя</value>
+  </data>
+  <data name="Integration ID" xml:space="preserve">
+    <value>Интеграционный ID</value>
+  </data>
+  <data name="HQ Address" xml:space="preserve">
+    <value>Юридический адрес головного офиса</value>
+  </data>
+  <data name="HQ Email" xml:space="preserve">
+    <value>Юридическая электронная почта</value>
+  </data>
+  <data name="HQ Phone" xml:space="preserve">
+    <value>Юридический номер телефона</value>
+  </data>
+  <data name="Invalid Phone Number" xml:space="preserve">
+    <value>Неверный номер телефона</value>
+  </data>
+  <data name="Invalid refresh token" xml:space="preserve">
+    <value>Неверный токен обновления</value>
+  </data>
+  <data name="Last Seen" xml:space="preserve">
+    <value>В последний раз</value>
+  </data>
+  <data name="Latitude" xml:space="preserve">
+    <value>Широта</value>
+  </data>
+  <data name="Legal Name" xml:space="preserve">
+    <value>Юридическое название</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Логин</value>
+  </data>
+  <data name="Longitude" xml:space="preserve">
+    <value>Долгота</value>
+  </data>
+  <data name="Max" xml:space="preserve">
+    <value>Максимальное</value>
+  </data>
+  <data name="New Password" xml:space="preserve">
+    <value>Новый пароль</value>
+  </data>
+  <data name="New Password can not be the same as the current password" xml:space="preserve">
+    <value>Новый пароль не может совпадать с текущим</value>
+  </data>
+  <data name="No Items found." xml:space="preserve">
+    <value>Объектов не найдено.</value>
+  </data>
+  <data name="Ok" xml:space="preserve">
+    <value>Ок</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Пароль</value>
+  </data>
+  <data name="Password can not be empty." xml:space="preserve">
+    <value>Пароль не может быть пустым.</value>
+  </data>
+  <data name="Phone" xml:space="preserve">
+    <value>Номер телефона</value>
+  </data>
+  <data name="Photos" xml:space="preserve">
+    <value>Фото</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>Профиль</value>
+  </data>
+  <data name="Read" xml:space="preserve">
+    <value>Чтение</value>
+  </data>
+  <data name="Redirect URI" xml:space="preserve">
+    <value>Ссылка для перенаправления</value>
+  </data>
+  <data name="Region" xml:space="preserve">
+    <value>Регион</value>
+  </data>
+  <data name="Region List" xml:space="preserve">
+    <value>Список регионов</value>
+  </data>
+  <data name="Regions" xml:space="preserve">
+    <value>Регионы</value>
+  </data>
+  <data name="Reset Password" xml:space="preserve">
+    <value>Сбросить пароль</value>
+  </data>
+  <data name="Reset password link has been sent to your email." xml:space="preserve">
+    <value>Ссылка для сброса пароля отправлена на вашу почту.</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="Service" xml:space="preserve">
+    <value>Сервис</value>
+  </data>
+  <data name="Send login info to the user" xml:space="preserve">
+    <value>Отправить информацию для входа пользователю</value>
+  </data>
+  <data name="Send Reset Password Link" xml:space="preserve">
+    <value>Отправить ссылку для сброса пароля</value>
+  </data>
+  <data name="Service Feature is locked" xml:space="preserve">
+    <value>Функция Сервис заблокирована</value>
+  </data>
+  <data name="Service List" xml:space="preserve">
+    <value>Список сервисов</value>
+  </data>
+  <data name="Team" xml:space="preserve">
+    <value>Команда</value>
+  </data>
+  <data name="Team Feature is locked" xml:space="preserve">
+    <value>Функция Команда заблокирована</value>
+  </data>
+  <data name="The App ID {0} already exists." xml:space="preserve">
+    <value>ID приложения {0} уже существует.</value>
+  </data>
+  <data name="Team List" xml:space="preserve">
+    <value>Список команд</value>
+  </data>
+  <data name="Team Name" xml:space="preserve">
+    <value>Название команды</value>
+  </data>
+  <data name="Teams" xml:space="preserve">
+    <value>Команды</value>
+  </data>
+  <data name="the access tree name {0} already exists." xml:space="preserve">
+    <value>название доступа {0} уже существует.</value>
+  </data>
+  <data name="This email address is verified" xml:space="preserve">
+    <value>Электронная почта подтверждена</value>
+  </data>
+  <data name="The app is trying to access your account" xml:space="preserve">
+    <value>Приложение '{0}' запрашивает доступ к вашему аккаунту</value>
+  </data>
+  <data name="This phone number is verified" xml:space="preserve">
+    <value>Номер телефона подтвержден</value>
+  </data>
+  <data name="The email {0} exist" xml:space="preserve">
+    <value>Почта {0} уже существует</value>
+  </data>
+  <data name="The phone {0} exist" xml:space="preserve">
+    <value>Номер телефона {0} уже существует</value>
+  </data>
+  <data name="The user is deactivated" xml:space="preserve">
+    <value>Пользователь деактивирован</value>
+  </data>
+  <data name="The username {0} exist" xml:space="preserve">
+    <value>Имя пользователя {0} уже существует</value>
+  </data>
+  <data name="User Feature is locked" xml:space="preserve">
+    <value>Функция Пользователь заблокирована</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>Пользователь</value>
+  </data>
+  <data name="User is lockdown for {0} minutes" xml:space="preserve">
+    <value>Пользователь заблокирован на {0} минут</value>
+  </data>
+  <data name="User List" xml:space="preserve">
+    <value>Список пользователей</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>Имя пользователя</value>
+  </data>
+  <data name="Username or password is incorrect" xml:space="preserve">
+    <value>Имя пользователя или пароль неверны</value>
+  </data>
+  <data name="Validation Error" xml:space="preserve">
+    <value>Ошибка валидации</value>
+  </data>
+  <data name="Verify Emails" xml:space="preserve">
+    <value>Подтвердить почту</value>
+  </data>
+  <data name="Verify Phones" xml:space="preserve">
+    <value>Подтвердить номер телефона</value>
+  </data>
+  <data name="Write" xml:space="preserve">
+    <value>Запись</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="Your password reseted successfully" xml:space="preserve">
+    <value>Ваш пароль успешно сброшен</value>
+  </data>
+  <data name="Security" xml:space="preserve">
+    <value>Безопасность</value>
+  </data>
+  <data name="Contacts" xml:space="preserve">
+    <value>Контакты</value>
+  </data>
+  <data name="Change Password" xml:space="preserve">
+    <value>Изменить пароль</value>
+  </data>
+  <data name="Calling Code" xml:space="preserve">
+    <value>Номер вызова</value>
+  </data>
+  <data name="Users" xml:space="preserve">
+    <value>Пользователи</value>
+  </data>
+  <data name="Country can not be changed after creation." xml:space="preserve">
+    <value>Страна не может быть изменена после создания.</value>
+  </data>
+  <data name="Code Challenge" xml:space="preserve">
+    <value>Хеш-код проверки</value>
   </data>
 </root>
