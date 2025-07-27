@@ -1240,6 +1240,15 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Termination Date.
+        /// </summary>
+        public static string TerminationDate {
+            get {
+                return ResourceManager.GetString("TerminationDate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to the access tree name {0} already exists..
         /// </summary>
         public static string the_access_tree_name__0__already_exists_ {

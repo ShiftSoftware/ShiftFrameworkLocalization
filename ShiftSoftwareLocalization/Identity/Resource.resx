@@ -600,4 +600,7 @@
   <data name="Parent Company" xml:space="preserve">
     <value>Parent Company</value>
   </data>
+  <data name="TerminationDate" xml:space="preserve">
+    <value>Termination Date</value>
+  </data>
 </root>
