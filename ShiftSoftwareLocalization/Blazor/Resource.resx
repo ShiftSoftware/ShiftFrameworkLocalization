@@ -779,4 +779,7 @@
   <data name="ODataFilterIsNotEmpty" xml:space="preserve">
     <value>Is Not Set</value>
   </data>
+  <data name="SearchNotFound" xml:space="preserve">
+    <value>No files found with the "{0}" query</value>
+  </data>
 </root>
