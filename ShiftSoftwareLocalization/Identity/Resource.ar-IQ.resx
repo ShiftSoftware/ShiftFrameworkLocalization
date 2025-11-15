@@ -597,4 +597,7 @@
   <data name="TerminationDate" xml:space="preserve">
     <value />
   </data>
+  <data name="Flag" xml:space="preserve">
+    <value>علم</value>
+  </data>
 </root>

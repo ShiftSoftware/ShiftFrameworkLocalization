@@ -727,4 +727,7 @@
   <data name="SearchNotFound" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
+  <data name="Flag" xml:space="preserve">
+    <value>علم</value>
+  </data>
 </root>

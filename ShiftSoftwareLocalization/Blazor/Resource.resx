@@ -782,4 +782,7 @@
   <data name="SearchNotFound" xml:space="preserve">
     <value>No files found with the "{0}" query</value>
   </data>
+  <data name="Flag" xml:space="preserve">
+    <value>Flag</value>
+  </data>
 </root>
