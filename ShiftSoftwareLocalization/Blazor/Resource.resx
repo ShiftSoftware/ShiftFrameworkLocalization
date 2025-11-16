@@ -785,4 +785,7 @@
   <data name="Flag" xml:space="preserve">
     <value>Flag</value>
   </data>
+  <data name="Mobile Photos" xml:space="preserve">
+    <value>Mobile Photos</value>
+  </data>
 </root>

@@ -1357,6 +1357,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Mobile Photos.
+        /// </summary>
+        public static string Mobile_Photos {
+            get {
+                return ResourceManager.GetString("Mobile Photos", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Close.
         /// </summary>
         public static string ModalClose {
