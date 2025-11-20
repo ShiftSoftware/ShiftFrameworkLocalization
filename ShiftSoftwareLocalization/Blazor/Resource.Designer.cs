@@ -1528,7 +1528,7 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Is Set.
+        ///   Looks up a localized string similar to Is Not Set.
         /// </summary>
         public static string ODataFilterIsEmpty {
             get {
@@ -1537,7 +1537,7 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Is Not Set.
+        ///   Looks up a localized string similar to Is Set.
         /// </summary>
         public static string ODataFilterIsNotEmpty {
             get {

@@ -774,10 +774,10 @@
     <value>Not In</value>
   </data>
   <data name="ODataFilterIsEmpty" xml:space="preserve">
-    <value>Is Set</value>
+    <value>Is Not Set</value>
   </data>
   <data name="ODataFilterIsNotEmpty" xml:space="preserve">
-    <value>Is Not Set</value>
+    <value>Is Set</value>
   </data>
   <data name="SearchNotFound" xml:space="preserve">
     <value>No files found with the "{0}" query</value>

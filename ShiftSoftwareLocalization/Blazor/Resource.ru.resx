@@ -769,10 +769,10 @@
     <value>Не внутри</value>
   </data>
   <data name="ODataFilterIsEmpty" xml:space="preserve">
-    <value>Установлен</value>
+    <value>Не установлен</value>
   </data>
   <data name="ODataFilterIsNotEmpty" xml:space="preserve">
-    <value>Не установлен</value>
+    <value>Установлен</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="SearchNotFound" type="System.Resources.ResXNullRef, System.Windows.Forms">
