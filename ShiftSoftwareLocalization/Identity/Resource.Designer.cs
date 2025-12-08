@@ -709,6 +709,15 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to General.
+        /// </summary>
+        public static string General {
+            get {
+                return ResourceManager.GetString("General", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to HQ Address.
         /// </summary>
         public static string HQ_Address {
@@ -1006,11 +1015,29 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Presentation.
+        /// </summary>
+        public static string Presentation {
+            get {
+                return ResourceManager.GetString("Presentation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Profile.
         /// </summary>
         public static string Profile {
             get {
                 return ResourceManager.GetString("Profile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Publish Targets.
+        /// </summary>
+        public static string Publish_Targets {
+            get {
+                return ResourceManager.GetString("Publish Targets", resourceCulture);
             }
         }
         
@@ -1101,6 +1128,15 @@ namespace ShiftSoftwareLocalization.Identity {
         public static string Security {
             get {
                 return ResourceManager.GetString("Security", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select All.
+        /// </summary>
+        public static string Select_All {
+            get {
+                return ResourceManager.GetString("Select All", resourceCulture);
             }
         }
         

@@ -609,4 +609,16 @@
   <data name="Mobile Photos" xml:space="preserve">
     <value>Mobile Photos</value>
   </data>
+  <data name="General" xml:space="preserve">
+    <value>General</value>
+  </data>
+  <data name="Presentation" xml:space="preserve">
+    <value>Presentation</value>
+  </data>
+  <data name="Publish Targets" xml:space="preserve">
+    <value>Publish Targets</value>
+  </data>
+  <data name="Select All" xml:space="preserve">
+    <value>Select All</value>
+  </data>
 </root>
