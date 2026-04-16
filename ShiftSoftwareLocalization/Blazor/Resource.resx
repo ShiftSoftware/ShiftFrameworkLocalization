@@ -788,4 +788,7 @@
   <data name="Mobile Photos" xml:space="preserve">
     <value>Mobile Photos</value>
   </data>
+  <data name="DataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} of {2}</value>
+  </data>
 </root>

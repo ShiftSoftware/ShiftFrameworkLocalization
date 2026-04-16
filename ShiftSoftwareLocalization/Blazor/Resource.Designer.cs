@@ -421,6 +421,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0}-{1} of {2}.
+        /// </summary>
+        public static string DataGridPager_InfoFormat {
+            get {
+                return ResourceManager.GetString("DataGridPager_InfoFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to DataGrid Settings.
         /// </summary>
         public static string DataGridSettings {
