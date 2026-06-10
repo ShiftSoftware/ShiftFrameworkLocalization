@@ -788,4 +788,7 @@
   <data name="Mobile Photos" xml:space="preserve">
     <value>Mobile Photos</value>
   </data>
+  <data name="AttentionRealtimeToast" xml:space="preserve">
+    <value>Attention updated</value>
+  </data>
 </root>
