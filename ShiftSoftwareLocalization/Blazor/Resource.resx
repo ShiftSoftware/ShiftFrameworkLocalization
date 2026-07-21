@@ -386,6 +386,33 @@
   <data name="RevisionIndicator" xml:space="preserve">
     <value>You are viewing a revision.</value>
   </data>
+  <data name="CompareButton" xml:space="preserve">
+    <value>Compare</value>
+  </data>
+  <data name="CompareSelectTwoHint" xml:space="preserve">
+    <value>Select two revisions to compare</value>
+  </data>
+  <data name="CompareChangedFields" xml:space="preserve">
+    <value>Changed fields</value>
+  </data>
+  <data name="CompareNoChanges" xml:space="preserve">
+    <value>No differences between these revisions.</value>
+  </data>
+  <data name="CompareLoadError" xml:space="preserve">
+    <value>Could not load one or both revisions.</value>
+  </data>
+  <data name="CompareOldRevisionLabel" xml:space="preserve">
+    <value>Old — valid from {0}</value>
+    <comment>0=date</comment>
+  </data>
+  <data name="CompareNewRevisionLabel" xml:space="preserve">
+    <value>New — valid from {0}</value>
+    <comment>0=date</comment>
+  </data>
+  <data name="RevisionsCompareTitle" xml:space="preserve">
+    <value>Compare {0}</value>
+    <comment>0=title</comment>
+  </data>
   <data name="Revisions" xml:space="preserve">
     <value>View Revisions</value>
   </data>
@@ -790,5 +817,23 @@
   </data>
   <data name="AttentionRealtimeToast" xml:space="preserve">
     <value>Attention updated</value>
+  </data>
+  <data name="ImageViewerZoomIn" xml:space="preserve">
+    <value>Zoom in</value>
+  </data>
+  <data name="ImageViewerZoomOut" xml:space="preserve">
+    <value>Zoom out</value>
+  </data>
+  <data name="ImageViewerResetZoom" xml:space="preserve">
+    <value>Reset zoom</value>
+  </data>
+  <data name="ImageViewerRotate" xml:space="preserve">
+    <value>Rotate</value>
+  </data>
+  <data name="ImageViewerPrevious" xml:space="preserve">
+    <value>Previous</value>
+  </data>
+  <data name="ImageViewerNext" xml:space="preserve">
+    <value>Next</value>
   </data>
 </root>

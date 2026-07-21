@@ -384,6 +384,33 @@
   <data name="RevisionIndicator" xml:space="preserve">
     <value>أنت تشاهد مراجعة.</value>
   </data>
+  <data name="CompareButton" xml:space="preserve">
+    <value>مقارنة</value>
+  </data>
+  <data name="CompareSelectTwoHint" xml:space="preserve">
+    <value>اختر نسختين للمقارنة</value>
+  </data>
+  <data name="CompareChangedFields" xml:space="preserve">
+    <value>الحقول المتغيرة</value>
+  </data>
+  <data name="CompareNoChanges" xml:space="preserve">
+    <value>لا توجد اختلافات بين هاتين المراجعتين.</value>
+  </data>
+  <data name="CompareLoadError" xml:space="preserve">
+    <value>تعذر تحميل إحدى المراجعتين أو كلتيهما.</value>
+  </data>
+  <data name="CompareOldRevisionLabel" xml:space="preserve">
+    <value>القديمة — سارية من {0}</value>
+    <comment>0=date</comment>
+  </data>
+  <data name="CompareNewRevisionLabel" xml:space="preserve">
+    <value>الجديدة — سارية من {0}</value>
+    <comment>0=date</comment>
+  </data>
+  <data name="RevisionsCompareTitle" xml:space="preserve">
+    <value>مقارنة {0}</value>
+    <comment>0=title</comment>
+  </data>
   <data name="Revisions" xml:space="preserve">
     <value>مشاهدة المراجعات</value>
   </data>
@@ -729,5 +756,23 @@
   </data>
   <data name="Flag" xml:space="preserve">
     <value>علم</value>
+  </data>
+  <data name="ImageViewerZoomIn" xml:space="preserve">
+    <value>تكبير</value>
+  </data>
+  <data name="ImageViewerZoomOut" xml:space="preserve">
+    <value>تصغير</value>
+  </data>
+  <data name="ImageViewerResetZoom" xml:space="preserve">
+    <value>إعادة تعيين التكبير</value>
+  </data>
+  <data name="ImageViewerRotate" xml:space="preserve">
+    <value>تدوير</value>
+  </data>
+  <data name="ImageViewerPrevious" xml:space="preserve">
+    <value>السابق</value>
+  </data>
+  <data name="ImageViewerNext" xml:space="preserve">
+    <value>التالي</value>
   </data>
 </root>

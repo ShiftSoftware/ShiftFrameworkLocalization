@@ -384,6 +384,33 @@
   <data name="RevisionIndicator" xml:space="preserve">
     <value>Вы просматриваете сохраненную версию.</value>
   </data>
+  <data name="CompareButton" xml:space="preserve">
+    <value>Сравнить</value>
+  </data>
+  <data name="CompareSelectTwoHint" xml:space="preserve">
+    <value>Выберите две версии для сравнения</value>
+  </data>
+  <data name="CompareChangedFields" xml:space="preserve">
+    <value>Изменённые поля</value>
+  </data>
+  <data name="CompareNoChanges" xml:space="preserve">
+    <value>Между этими редакциями нет различий.</value>
+  </data>
+  <data name="CompareLoadError" xml:space="preserve">
+    <value>Не удалось загрузить одну или обе редакции.</value>
+  </data>
+  <data name="CompareOldRevisionLabel" xml:space="preserve">
+    <value>Старая — действует с {0}</value>
+    <comment>0=date</comment>
+  </data>
+  <data name="CompareNewRevisionLabel" xml:space="preserve">
+    <value>Новая — действует с {0}</value>
+    <comment>0=date</comment>
+  </data>
+  <data name="RevisionsCompareTitle" xml:space="preserve">
+    <value>Сравнить {0}</value>
+    <comment>0=title</comment>
+  </data>
   <data name="Revisions" xml:space="preserve">
     <value>Просмотреть версии</value>
   </data>
@@ -780,5 +807,23 @@
   </data>
   <data name="Flag" xml:space="preserve">
     <value>Флаг</value>
+  </data>
+  <data name="ImageViewerZoomIn" xml:space="preserve">
+    <value>Увеличить</value>
+  </data>
+  <data name="ImageViewerZoomOut" xml:space="preserve">
+    <value>Уменьшить</value>
+  </data>
+  <data name="ImageViewerResetZoom" xml:space="preserve">
+    <value>Сбросить масштаб</value>
+  </data>
+  <data name="ImageViewerRotate" xml:space="preserve">
+    <value>Повернуть</value>
+  </data>
+  <data name="ImageViewerPrevious" xml:space="preserve">
+    <value>Назад</value>
+  </data>
+  <data name="ImageViewerNext" xml:space="preserve">
+    <value>Далее</value>
   </data>
 </root>
