@@ -836,4 +836,37 @@
   <data name="ImageViewerNext" xml:space="preserve">
     <value>Next</value>
   </data>
+  <data name="ListFindPlaceholder" xml:space="preserve">
+    <value>Find</value>
+  </data>
+  <data name="ListFindTooltip" xml:space="preserve">
+    <value>Find in the rows loaded on this page (Alt+F). This does not filter or search the server.</value>
+  </data>
+  <data name="ListFindMatchCount" xml:space="preserve">
+    <value>{0} matches</value>
+  </data>
+  <data name="ListFindNoMatches" xml:space="preserve">
+    <value>No row on this page matches "{0}".</value>
+  </data>
+  <data name="ListFindClearButton" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="ListFindMatchCountSingle" xml:space="preserve">
+    <value>1 match</value>
+  </data>
+  <data name="ListFindNoMatchesShort" xml:space="preserve">
+    <value>No matches</value>
+  </data>
+  <data name="ListFindUnsearchedChip" xml:space="preserve">
+    <value>Find searched only the {0} rows on this page — {1} more are on other pages.</value>
+  </data>
+  <data name="ListFindUnsearchedNote" xml:space="preserve">
+    <value>More matches may exist. Find covered this page only — {0} rows on other pages were not searched.</value>
+  </data>
+  <data name="ListFindUnsearchedEmpty" xml:space="preserve">
+    <value>{0} more rows are on other pages, and find did not look at them.</value>
+  </data>
+  <data name="ListFindUseFilterPanel" xml:space="preserve">
+    <value>Use the filter panel to search the whole list.</value>
+  </data>
 </root>

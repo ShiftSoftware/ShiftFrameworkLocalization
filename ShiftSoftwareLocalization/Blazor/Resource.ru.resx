@@ -826,4 +826,37 @@
   <data name="ImageViewerNext" xml:space="preserve">
     <value>Далее</value>
   </data>
+  <data name="ListFindPlaceholder" xml:space="preserve">
+    <value>Поиск</value>
+  </data>
+  <data name="ListFindTooltip" xml:space="preserve">
+    <value>Поиск среди строк, загруженных на этой странице (Alt+F). Не фильтрует и не обращается к серверу.</value>
+  </data>
+  <data name="ListFindMatchCount" xml:space="preserve">
+    <value>Совпадений: {0}</value>
+  </data>
+  <data name="ListFindNoMatches" xml:space="preserve">
+    <value>Ни одна строка на этой странице не соответствует "{0}".</value>
+  </data>
+  <data name="ListFindClearButton" xml:space="preserve">
+    <value>Очистить</value>
+  </data>
+  <data name="ListFindMatchCountSingle" xml:space="preserve">
+    <value>1 совпадение</value>
+  </data>
+  <data name="ListFindNoMatchesShort" xml:space="preserve">
+    <value>Нет совпадений</value>
+  </data>
+  <data name="ListFindUnsearchedChip" xml:space="preserve">
+    <value>Поиск охватил только {0} строк на этой странице — ещё {1} на других страницах.</value>
+  </data>
+  <data name="ListFindUnsearchedNote" xml:space="preserve">
+    <value>Возможны другие совпадения. Поиск охватил только эту страницу — {0} строк на других страницах не проверены.</value>
+  </data>
+  <data name="ListFindUnsearchedEmpty" xml:space="preserve">
+    <value>Ещё {0} строк на других страницах, и поиск их не проверял.</value>
+  </data>
+  <data name="ListFindUseFilterPanel" xml:space="preserve">
+    <value>Используйте панель фильтров для поиска по всему списку.</value>
+  </data>
 </root>

@@ -775,4 +775,37 @@
   <data name="ImageViewerNext" xml:space="preserve">
     <value>التالي</value>
   </data>
+  <data name="ListFindPlaceholder" xml:space="preserve">
+    <value>بحث</value>
+  </data>
+  <data name="ListFindTooltip" xml:space="preserve">
+    <value>البحث في الصفوف المحملة في هذه الصفحة (Alt+F). لا يقوم بالتصفية ولا بالبحث في الخادم.</value>
+  </data>
+  <data name="ListFindMatchCount" xml:space="preserve">
+    <value>{0} نتيجة</value>
+  </data>
+  <data name="ListFindNoMatches" xml:space="preserve">
+    <value>لا يوجد صف في هذه الصفحة يطابق "{0}".</value>
+  </data>
+  <data name="ListFindClearButton" xml:space="preserve">
+    <value>مسح</value>
+  </data>
+  <data name="ListFindMatchCountSingle" xml:space="preserve">
+    <value>نتيجة واحدة</value>
+  </data>
+  <data name="ListFindNoMatchesShort" xml:space="preserve">
+    <value>لا توجد نتائج</value>
+  </data>
+  <data name="ListFindUnsearchedChip" xml:space="preserve">
+    <value>تم البحث في {0} صف من هذه الصفحة فقط — يوجد {1} صف إضافي في صفحات أخرى.</value>
+  </data>
+  <data name="ListFindUnsearchedNote" xml:space="preserve">
+    <value>قد توجد نتائج أخرى. شمل البحث هذه الصفحة فقط — لم يتم البحث في {0} صف في صفحات أخرى.</value>
+  </data>
+  <data name="ListFindUnsearchedEmpty" xml:space="preserve">
+    <value>يوجد {0} صف إضافي في صفحات أخرى لم يشملها البحث.</value>
+  </data>
+  <data name="ListFindUseFilterPanel" xml:space="preserve">
+    <value>استخدم لوحة الفلترة للبحث في القائمة كاملة.</value>
+  </data>
 </root>
