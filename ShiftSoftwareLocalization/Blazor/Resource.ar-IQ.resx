@@ -799,9 +799,6 @@
   <data name="ListFindUnsearchedChip" xml:space="preserve">
     <value>تم البحث في {0} صف من هذه الصفحة فقط — يوجد {1} صف إضافي في صفحات أخرى.</value>
   </data>
-  <data name="ListFindUnsearchedNote" xml:space="preserve">
-    <value>قد توجد نتائج أخرى. شمل البحث هذه الصفحة فقط — لم يتم البحث في {0} صف في صفحات أخرى.</value>
-  </data>
   <data name="ListFindUnsearchedEmpty" xml:space="preserve">
     <value>يوجد {0} صف إضافي في صفحات أخرى لم يشملها البحث.</value>
   </data>

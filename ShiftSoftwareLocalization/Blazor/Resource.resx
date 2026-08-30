@@ -860,9 +860,6 @@
   <data name="ListFindUnsearchedChip" xml:space="preserve">
     <value>Find searched only the {0} rows on this page — {1} more are on other pages.</value>
   </data>
-  <data name="ListFindUnsearchedNote" xml:space="preserve">
-    <value>More matches may exist. Find covered this page only — {0} rows on other pages were not searched.</value>
-  </data>
   <data name="ListFindUnsearchedEmpty" xml:space="preserve">
     <value>{0} more rows are on other pages, and find did not look at them.</value>
   </data>

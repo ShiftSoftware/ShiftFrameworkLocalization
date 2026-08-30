@@ -850,9 +850,6 @@
   <data name="ListFindUnsearchedChip" xml:space="preserve">
     <value>Поиск охватил только {0} строк на этой странице — ещё {1} на других страницах.</value>
   </data>
-  <data name="ListFindUnsearchedNote" xml:space="preserve">
-    <value>Возможны другие совпадения. Поиск охватил только эту страницу — {0} строк на других страницах не проверены.</value>
-  </data>
   <data name="ListFindUnsearchedEmpty" xml:space="preserve">
     <value>Ещё {0} строк на других страницах, и поиск их не проверял.</value>
   </data>
