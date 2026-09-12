@@ -604,4 +604,25 @@
   <data name="Flag" xml:space="preserve">
     <value>Флаг</value>
   </data>
+  <data name="Permissions" xml:space="preserve">
+    <value>Разрешения</value>
+  </data>
+  <data name="A new password will be saved for this user." xml:space="preserve">
+    <value>Для этого пользователя будет сохранён новый пароль.</value>
+  </data>
+  <data name="This address will be saved unverified." xml:space="preserve">
+    <value>Этот адрес будет сохранён без подтверждения.</value>
+  </data>
+  <data name="Ask the user to change this password at next sign-in" xml:space="preserve">
+    <value>Попросить пользователя сменить этот пароль при следующем входе</value>
+  </data>
+  <data name="Send a verification link to this address" xml:space="preserve">
+    <value>Отправить ссылку для подтверждения на этот адрес</value>
+  </data>
+  <data name="Generate password" xml:space="preserve">
+    <value>Сгенерировать пароль</value>
+  </data>
+  <data name="The password length must be at least {0}" xml:space="preserve">
+    <value>Длина пароля должна быть не менее {0}</value>
+  </data>
 </root>

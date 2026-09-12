@@ -132,4 +132,25 @@
   <data name="TerminationDate" xml:space="preserve">
     <value />
   </data>
+  <data name="Permissions" xml:space="preserve">
+    <value>دەسەڵاتەکان</value>
+  </data>
+  <data name="A new password will be saved for this user." xml:space="preserve">
+    <value>وشەی نهێنیی نوێ بۆ ئەم بەکارهێنەرە پاشەکەوت دەکرێت.</value>
+  </data>
+  <data name="This address will be saved unverified." xml:space="preserve">
+    <value>ئەم ناونیشانە بەبێ پشتڕاستکردنەوە پاشەکەوت دەکرێت.</value>
+  </data>
+  <data name="Ask the user to change this password at next sign-in" xml:space="preserve">
+    <value>داوا لە بەکارهێنەر بکە کە لە چوونەژوورەوەی داهاتوودا ئەم وشەی نهێنییە بگۆڕێت</value>
+  </data>
+  <data name="Send a verification link to this address" xml:space="preserve">
+    <value>لینکی پشتڕاستکردنەوە بنێرە بۆ ئەم ناونیشانە</value>
+  </data>
+  <data name="Generate password" xml:space="preserve">
+    <value>وشەی نهێنی دروست بکە</value>
+  </data>
+  <data name="The password length must be at least {0}" xml:space="preserve">
+    <value>درێژیی وشەی نهێنی دەبێت لانیکەم {0} بێت</value>
+  </data>
 </root>

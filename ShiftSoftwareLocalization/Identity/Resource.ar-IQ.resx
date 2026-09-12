@@ -600,4 +600,25 @@
   <data name="Flag" xml:space="preserve">
     <value>علم</value>
   </data>
+  <data name="Permissions" xml:space="preserve">
+    <value>الصلاحيات</value>
+  </data>
+  <data name="A new password will be saved for this user." xml:space="preserve">
+    <value>سيتم حفظ كلمة مرور جديدة لهذا المستخدم.</value>
+  </data>
+  <data name="This address will be saved unverified." xml:space="preserve">
+    <value>سيتم حفظ هذا العنوان دون التحقق منه.</value>
+  </data>
+  <data name="Ask the user to change this password at next sign-in" xml:space="preserve">
+    <value>اطلب من المستخدم تغيير كلمة المرور هذه عند تسجيل الدخول التالي</value>
+  </data>
+  <data name="Send a verification link to this address" xml:space="preserve">
+    <value>إرسال رابط التحقق إلى هذا العنوان</value>
+  </data>
+  <data name="Generate password" xml:space="preserve">
+    <value>إنشاء كلمة مرور</value>
+  </data>
+  <data name="The password length must be at least {0}" xml:space="preserve">
+    <value>يجب ألا يقل طول كلمة المرور عن {0}</value>
+  </data>
 </root>

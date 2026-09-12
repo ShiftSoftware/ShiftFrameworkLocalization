@@ -621,4 +621,25 @@
   <data name="Select All" xml:space="preserve">
     <value>Select All</value>
   </data>
+  <data name="Permissions" xml:space="preserve">
+    <value>Permissions</value>
+  </data>
+  <data name="A new password will be saved for this user." xml:space="preserve">
+    <value>A new password will be saved for this user.</value>
+  </data>
+  <data name="This address will be saved unverified." xml:space="preserve">
+    <value>This address will be saved unverified.</value>
+  </data>
+  <data name="Ask the user to change this password at next sign-in" xml:space="preserve">
+    <value>Ask the user to change this password at next sign-in</value>
+  </data>
+  <data name="Send a verification link to this address" xml:space="preserve">
+    <value>Send a verification link to this address</value>
+  </data>
+  <data name="Generate password" xml:space="preserve">
+    <value>Generate password</value>
+  </data>
+  <data name="The password length must be at least {0}" xml:space="preserve">
+    <value>The password length must be at least {0}</value>
+  </data>
 </root>
