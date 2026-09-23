@@ -153,4 +153,67 @@
   <data name="The password length must be at least {0}" xml:space="preserve">
     <value>درێژیی وشەی نهێنی دەبێت لانیکەم {0} بێت</value>
   </data>
+  <data name="The end date cannot be before the start date" xml:space="preserve">
+    <value>بەرواری کۆتایی ناتوانێت پێش بەرواری دەستپێک بێت</value>
+  </data>
+  <data name="The priority cannot be negative" xml:space="preserve">
+    <value>پێشینەیی ناتوانێت نەرێنی بێت</value>
+  </data>
+  <data name="Pick a company" xml:space="preserve">
+    <value>کۆمپانیایەک هەڵبژێرە</value>
+  </data>
+  <data name="Pick at least one branch" xml:space="preserve">
+    <value>لانیکەم یەک لق هەڵبژێرە</value>
+  </data>
+  <data name="Add at least one shift group" xml:space="preserve">
+    <value>لانیکەم یەک گرووپی شیفت زیاد بکە</value>
+  </data>
+  <data name="Pick at least one department" xml:space="preserve">
+    <value>لانیکەم یەک بەش هەڵبژێرە</value>
+  </data>
+  <data name="Pick at least one brand" xml:space="preserve">
+    <value>لانیکەم یەک براند هەڵبژێرە</value>
+  </data>
+  <data name="Pick at least one day" xml:space="preserve">
+    <value>لانیکەم یەک ڕۆژ هەڵبژێرە</value>
+  </data>
+  <data name="A day must be between 0 (Sunday) and 6 (Saturday)" xml:space="preserve">
+    <value>ڕۆژ دەبێت لە نێوان 0 (یەکشەممە) و 6 (شەممە) بێت</value>
+  </data>
+  <data name="A day can be listed only once" xml:space="preserve">
+    <value>هەر ڕۆژێک تەنها یەک جار دەنووسرێت</value>
+  </data>
+  <data name="Add at least one shift" xml:space="preserve">
+    <value>لانیکەم یەک شیفت زیاد بکە</value>
+  </data>
+  <data name="Set the start and end times" xml:space="preserve">
+    <value>کاتی دەستپێک و کۆتایی دیاری بکە</value>
+  </data>
+  <data name="Enter a time of day" xml:space="preserve">
+    <value>کاتێکی ڕۆژ بنووسە</value>
+  </data>
+  <data name="The end time must be different from the start time" xml:space="preserve">
+    <value>کاتی کۆتایی دەبێت جیاواز بێت لە کاتی دەستپێک</value>
+  </data>
+  <data name="Add at least one weekend rule" xml:space="preserve">
+    <value>لانیکەم یەک یاسای پشووی هەفتانە زیاد بکە</value>
+  </data>
+  <data name="The number of weeks must be at least 1" xml:space="preserve">
+    <value>ژمارەی هەفتەکان دەبێت لانیکەم 1 بێت</value>
+  </data>
+  <data name="The number of skipped cycles cannot be negative" xml:space="preserve">
+    <value>ژمارەی خولە تێپەڕێنراوەکان ناتوانێت نەرێنی بێت</value>
+  </data>
+  <data name="Every day" xml:space="preserve">
+    <value>هەموو ڕۆژێک</value>
+  </data>
+  <data name="Ends the next day" xml:space="preserve">
+    <value>ڕۆژی دواتر کۆتایی دێت</value>
+  </data>
+  <data name="Applies to" xml:space="preserve">
+    <value>دەیگرێتەوە</value>
+  </data>
+  <data name="Leave this list empty to make the holiday apply to the whole branch. Add a group to limit it to some departments and brands." xml:space="preserve">
+    <value>ئەم لیستە بەتاڵ بهێڵەوە بۆ ئەوەی پشووەکە هەموو لقەکە بگرێتەوە. گرووپێک زیاد بکە بۆ ئەوەی تەنها هەندێک بەش و براند بگرێتەوە.</value>
+  </data>
 </root>

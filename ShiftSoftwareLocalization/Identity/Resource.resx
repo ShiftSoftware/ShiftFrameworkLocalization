@@ -642,4 +642,67 @@
   <data name="The password length must be at least {0}" xml:space="preserve">
     <value>The password length must be at least {0}</value>
   </data>
+  <data name="The end date cannot be before the start date" xml:space="preserve">
+    <value>The end date cannot be before the start date</value>
+  </data>
+  <data name="The priority cannot be negative" xml:space="preserve">
+    <value>The priority cannot be negative</value>
+  </data>
+  <data name="Pick a company" xml:space="preserve">
+    <value>Pick a company</value>
+  </data>
+  <data name="Pick at least one branch" xml:space="preserve">
+    <value>Pick at least one branch</value>
+  </data>
+  <data name="Add at least one shift group" xml:space="preserve">
+    <value>Add at least one shift group</value>
+  </data>
+  <data name="Pick at least one department" xml:space="preserve">
+    <value>Pick at least one department</value>
+  </data>
+  <data name="Pick at least one brand" xml:space="preserve">
+    <value>Pick at least one brand</value>
+  </data>
+  <data name="Pick at least one day" xml:space="preserve">
+    <value>Pick at least one day</value>
+  </data>
+  <data name="A day must be between 0 (Sunday) and 6 (Saturday)" xml:space="preserve">
+    <value>A day must be between 0 (Sunday) and 6 (Saturday)</value>
+  </data>
+  <data name="A day can be listed only once" xml:space="preserve">
+    <value>A day can be listed only once</value>
+  </data>
+  <data name="Add at least one shift" xml:space="preserve">
+    <value>Add at least one shift</value>
+  </data>
+  <data name="Set the start and end times" xml:space="preserve">
+    <value>Set the start and end times</value>
+  </data>
+  <data name="Enter a time of day" xml:space="preserve">
+    <value>Enter a time of day</value>
+  </data>
+  <data name="The end time must be different from the start time" xml:space="preserve">
+    <value>The end time must be different from the start time</value>
+  </data>
+  <data name="Add at least one weekend rule" xml:space="preserve">
+    <value>Add at least one weekend rule</value>
+  </data>
+  <data name="The number of weeks must be at least 1" xml:space="preserve">
+    <value>The number of weeks must be at least 1</value>
+  </data>
+  <data name="The number of skipped cycles cannot be negative" xml:space="preserve">
+    <value>The number of skipped cycles cannot be negative</value>
+  </data>
+  <data name="Every day" xml:space="preserve">
+    <value>Every day</value>
+  </data>
+  <data name="Ends the next day" xml:space="preserve">
+    <value>Ends the next day</value>
+  </data>
+  <data name="Applies to" xml:space="preserve">
+    <value>Applies to</value>
+  </data>
+  <data name="Leave this list empty to make the holiday apply to the whole branch. Add a group to limit it to some departments and brands." xml:space="preserve">
+    <value>Leave this list empty to make the holiday apply to the whole branch. Add a group to limit it to some departments and brands.</value>
+  </data>
 </root>

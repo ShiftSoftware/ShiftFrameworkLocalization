@@ -621,4 +621,67 @@
   <data name="The password length must be at least {0}" xml:space="preserve">
     <value>يجب ألا يقل طول كلمة المرور عن {0}</value>
   </data>
+  <data name="The end date cannot be before the start date" xml:space="preserve">
+    <value>لا يمكن أن يكون تاريخ الانتهاء قبل تاريخ البدء</value>
+  </data>
+  <data name="The priority cannot be negative" xml:space="preserve">
+    <value>لا يمكن أن تكون الأولوية سالبة</value>
+  </data>
+  <data name="Pick a company" xml:space="preserve">
+    <value>اختر شركة</value>
+  </data>
+  <data name="Pick at least one branch" xml:space="preserve">
+    <value>اختر فرعًا واحدًا على الأقل</value>
+  </data>
+  <data name="Add at least one shift group" xml:space="preserve">
+    <value>أضف مجموعة ورديات واحدة على الأقل</value>
+  </data>
+  <data name="Pick at least one department" xml:space="preserve">
+    <value>اختر قسمًا واحدًا على الأقل</value>
+  </data>
+  <data name="Pick at least one brand" xml:space="preserve">
+    <value>اختر علامة تجارية واحدة على الأقل</value>
+  </data>
+  <data name="Pick at least one day" xml:space="preserve">
+    <value>اختر يومًا واحدًا على الأقل</value>
+  </data>
+  <data name="A day must be between 0 (Sunday) and 6 (Saturday)" xml:space="preserve">
+    <value>يجب أن يكون اليوم بين 0 (الأحد) و6 (السبت)</value>
+  </data>
+  <data name="A day can be listed only once" xml:space="preserve">
+    <value>لا يمكن ذكر اليوم إلا مرة واحدة</value>
+  </data>
+  <data name="Add at least one shift" xml:space="preserve">
+    <value>أضف وردية واحدة على الأقل</value>
+  </data>
+  <data name="Set the start and end times" xml:space="preserve">
+    <value>حدد وقتي البدء والانتهاء</value>
+  </data>
+  <data name="Enter a time of day" xml:space="preserve">
+    <value>أدخل وقتًا من اليوم</value>
+  </data>
+  <data name="The end time must be different from the start time" xml:space="preserve">
+    <value>يجب أن يختلف وقت الانتهاء عن وقت البدء</value>
+  </data>
+  <data name="Add at least one weekend rule" xml:space="preserve">
+    <value>أضف قاعدة عطلة أسبوعية واحدة على الأقل</value>
+  </data>
+  <data name="The number of weeks must be at least 1" xml:space="preserve">
+    <value>يجب ألا يقل عدد الأسابيع عن 1</value>
+  </data>
+  <data name="The number of skipped cycles cannot be negative" xml:space="preserve">
+    <value>لا يمكن أن يكون عدد الدورات المتخطاة سالبًا</value>
+  </data>
+  <data name="Every day" xml:space="preserve">
+    <value>كل يوم</value>
+  </data>
+  <data name="Ends the next day" xml:space="preserve">
+    <value>ينتهي في اليوم التالي</value>
+  </data>
+  <data name="Applies to" xml:space="preserve">
+    <value>تنطبق على</value>
+  </data>
+  <data name="Leave this list empty to make the holiday apply to the whole branch. Add a group to limit it to some departments and brands." xml:space="preserve">
+    <value>اترك هذه القائمة فارغة لتطبيق العطلة على الفرع بأكمله. أضف مجموعة لحصرها في بعض الأقسام والعلامات التجارية.</value>
+  </data>
 </root>
