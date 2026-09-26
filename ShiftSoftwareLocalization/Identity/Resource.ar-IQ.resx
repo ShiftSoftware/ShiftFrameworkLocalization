@@ -684,4 +684,7 @@
   <data name="Leave this list empty to make the holiday apply to the whole branch. Add a group to limit it to some departments and brands." xml:space="preserve">
     <value>اترك هذه القائمة فارغة لتطبيق العطلة على الفرع بأكمله. أضف مجموعة لحصرها في بعض الأقسام والعلامات التجارية.</value>
   </data>
+  <data name="The Redirect URI cannot end with / or /Auth/Token" xml:space="preserve">
+    <value>لا يمكن أن ينتهي رابط إعادة التوجيه بـ / أو /Auth/Token</value>
+  </data>
 </root>

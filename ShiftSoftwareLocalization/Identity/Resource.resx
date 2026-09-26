@@ -705,4 +705,7 @@
   <data name="Leave this list empty to make the holiday apply to the whole branch. Add a group to limit it to some departments and brands." xml:space="preserve">
     <value>Leave this list empty to make the holiday apply to the whole branch. Add a group to limit it to some departments and brands.</value>
   </data>
+  <data name="The Redirect URI cannot end with / or /Auth/Token" xml:space="preserve">
+    <value>The Redirect URI cannot end with / or /Auth/Token</value>
+  </data>
 </root>

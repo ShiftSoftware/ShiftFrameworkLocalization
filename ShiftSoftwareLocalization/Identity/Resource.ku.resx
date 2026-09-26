@@ -216,4 +216,7 @@
   <data name="Leave this list empty to make the holiday apply to the whole branch. Add a group to limit it to some departments and brands." xml:space="preserve">
     <value>ئەم لیستە بەتاڵ بهێڵەوە بۆ ئەوەی پشووەکە هەموو لقەکە بگرێتەوە. گرووپێک زیاد بکە بۆ ئەوەی تەنها هەندێک بەش و براند بگرێتەوە.</value>
   </data>
+  <data name="The Redirect URI cannot end with / or /Auth/Token" xml:space="preserve">
+    <value>بەستەری ئاراستەکردنەوە ناتوانێت بە / یان /Auth/Token کۆتایی بێت</value>
+  </data>
 </root>
