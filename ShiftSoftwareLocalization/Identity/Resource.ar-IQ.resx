@@ -304,7 +304,7 @@
     <value>هاتف المقر الرئيسي</value>
   </data>
   <data name="Integration ID" xml:space="preserve">
-    <value>معرف الاندماج</value>
+    <value>معرف التكامل</value>
   </data>
   <data name="Invalid Phone Number" xml:space="preserve">
     <value>رقم هاتف غير صالح</value>
@@ -343,7 +343,7 @@
     <value>لم يتم العثور على عناصر.</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>نعم</value>
+    <value>حسنًا</value>
   </data>
   <data name="Password" xml:space="preserve">
     <value>كلمة المرور</value>
@@ -583,19 +583,19 @@
     <value>اختر ملف CSV</value>
   </data>
   <data name="Website" xml:space="preserve">
-    <value />
+    <value>الموقع الإلكتروني</value>
   </data>
   <data name="Parent company and the child company should not be the same" xml:space="preserve">
-    <value />
+    <value>يجب ألا تكون الشركة الأم والشركة التابعة الشركة نفسها</value>
   </data>
   <data name="Circular reference is not allowed" xml:space="preserve">
-    <value />
+    <value>المرجع الدائري غير مسموح به</value>
   </data>
   <data name="Parent Company" xml:space="preserve">
-    <value />
+    <value>الشركة الأم</value>
   </data>
   <data name="TerminationDate" xml:space="preserve">
-    <value />
+    <value>تاريخ الإنهاء</value>
   </data>
   <data name="Flag" xml:space="preserve">
     <value>علم</value>
@@ -686,5 +686,929 @@
   </data>
   <data name="The Redirect URI cannot end with / or /Auth/Token" xml:space="preserve">
     <value>لا يمكن أن ينتهي رابط إعادة التوجيه بـ / أو /Auth/Token</value>
+  </data>
+  <data name="Can't access your account?" xml:space="preserve">
+    <value>لا يمكنك الوصول إلى حسابك؟</value>
+  </data>
+  <data name="Choose how you'd like to get back in." xml:space="preserve">
+    <value>اختر طريقة استعادة الوصول إلى حسابك.</value>
+  </data>
+  <data name="Forgot password" xml:space="preserve">
+    <value>نسيت كلمة المرور</value>
+  </data>
+  <data name="Get a password reset link by email." xml:space="preserve">
+    <value>احصل على رابط إعادة تعيين كلمة المرور عبر البريد الإلكتروني.</value>
+  </data>
+  <data name="Recover your authenticator app" xml:space="preserve">
+    <value>استرداد تطبيق المصادقة</value>
+  </data>
+  <data name="Restore two-factor authentication (MFA) using your current password and an admin recovery code." xml:space="preserve">
+    <value>استرجع المصادقة الثنائية (MFA) باستخدام كلمة المرور الحالية ورمز استرداد من المسؤول.</value>
+  </data>
+  <data name="Verify your email" xml:space="preserve">
+    <value>التحقق من بريدك الإلكتروني</value>
+  </data>
+  <data name="Verify your saved email address before signing in." xml:space="preserve">
+    <value>تحقق من عنوان بريدك الإلكتروني المحفوظ قبل تسجيل الدخول.</value>
+  </data>
+  <data name="Send email verification link" xml:space="preserve">
+    <value>إرسال رابط التحقق من البريد الإلكتروني</value>
+  </data>
+  <data name="Additional account verification is required before signing in." xml:space="preserve">
+    <value>يلزم إجراء تحقق إضافي من الحساب قبل تسجيل الدخول.</value>
+  </data>
+  <data name="Error reference" xml:space="preserve">
+    <value>رمز الخطأ</value>
+  </data>
+  <data name="Signing in…" xml:space="preserve">
+    <value>جارٍ تسجيل الدخول…</value>
+  </data>
+  <data name="Authenticator recovery completed. Sign in with your password and a new code from your authenticator." xml:space="preserve">
+    <value>اكتمل استرداد تطبيق المصادقة. سجل الدخول باستخدام كلمة المرور ورمز جديد من تطبيق المصادقة.</value>
+  </data>
+  <data name="Password reset. Sign in with your new password." xml:space="preserve">
+    <value>تمت إعادة تعيين كلمة المرور. سجل الدخول باستخدام كلمة المرور الجديدة.</value>
+  </data>
+  <data name="Cancellation could not be confirmed. Sign in again to check whether the security change completed." xml:space="preserve">
+    <value>تعذر تأكيد الإلغاء. سجل الدخول مرة أخرى للتحقق مما إذا كان التغيير الأمني قد اكتمل.</value>
+  </data>
+  <data name="Sign-in could not be completed. Try again." xml:space="preserve">
+    <value>تعذر إكمال تسجيل الدخول. حاول مرة أخرى.</value>
+  </data>
+  <data name="We couldn't reach the sign-in service." xml:space="preserve">
+    <value>تعذر الوصول إلى خدمة تسجيل الدخول.</value>
+  </data>
+  <data name="Username or password is incorrect." xml:space="preserve">
+    <value>اسم المستخدم أو كلمة المرور غير صحيحة.</value>
+  </data>
+  <data name="We couldn't sign you in." xml:space="preserve">
+    <value>تعذر تسجيل دخولك.</value>
+  </data>
+  <data name="Check your connection and try again in a moment." xml:space="preserve">
+    <value>تحقق من اتصالك بالإنترنت وحاول مرة أخرى بعد قليل.</value>
+  </data>
+  <data name="Try again, or get help accessing your account." xml:space="preserve">
+    <value>حاول مرة أخرى، أو احصل على مساعدة للوصول إلى حسابك.</value>
+  </data>
+  <data name="Try again in a moment. If the problem continues, share this error reference with your administrator." xml:space="preserve">
+    <value>حاول مرة أخرى بعد قليل. إذا استمرت المشكلة، فشارك رمز الخطأ هذا مع المسؤول.</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>إغلاق</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>رجوع</value>
+  </data>
+  <data name="Logo" xml:space="preserve">
+    <value>الشعار</value>
+  </data>
+  <data name="Show" xml:space="preserve">
+    <value>إظهار</value>
+  </data>
+  <data name="Hide" xml:space="preserve">
+    <value>إخفاء</value>
+  </data>
+  <data name="Check your inbox" xml:space="preserve">
+    <value>تحقق من صندوق الوارد</value>
+  </data>
+  <data name="Look for a verification email in your inbox. It may take a few minutes to arrive. Check your spam folder too." xml:space="preserve">
+    <value>ابحث عن رسالة التحقق في صندوق الوارد. قد يستغرق وصولها بضع دقائق. تحقق من مجلد الرسائل غير المرغوب فيها أيضًا.</value>
+  </data>
+  <data name="Look for a password reset email in your inbox. It may take a few minutes to arrive. Check your spam folder too." xml:space="preserve">
+    <value>ابحث عن رسالة إعادة تعيين كلمة المرور في صندوق الوارد. قد يستغرق وصولها بضع دقائق. تحقق من مجلد الرسائل غير المرغوب فيها أيضًا.</value>
+  </data>
+  <data name="Back to login" xml:space="preserve">
+    <value>العودة إلى تسجيل الدخول</value>
+  </data>
+  <data name="Reset your password" xml:space="preserve">
+    <value>إعادة تعيين كلمة المرور</value>
+  </data>
+  <data name="Enter your username or saved email address." xml:space="preserve">
+    <value>أدخل اسم المستخدم أو عنوان البريد الإلكتروني المحفوظ.</value>
+  </data>
+  <data name="Username or email" xml:space="preserve">
+    <value>اسم المستخدم أو البريد الإلكتروني</value>
+  </data>
+  <data name="Sending request…" xml:space="preserve">
+    <value>جارٍ إرسال الطلب…</value>
+  </data>
+  <data name="Send verification link" xml:space="preserve">
+    <value>إرسال رابط التحقق</value>
+  </data>
+  <data name="Send reset link" xml:space="preserve">
+    <value>إرسال رابط إعادة التعيين</value>
+  </data>
+  <data name="Email requests are unavailable right now. Please wait and try again." xml:space="preserve">
+    <value>طلبات البريد الإلكتروني غير متاحة حاليًا. يرجى الانتظار ثم المحاولة مرة أخرى.</value>
+  </data>
+  <data name="The request could not be completed. Please try again." xml:space="preserve">
+    <value>تعذر إكمال الطلب. يرجى المحاولة مرة أخرى.</value>
+  </data>
+  <data name="Enter your saved email address." xml:space="preserve">
+    <value>أدخل عنوان بريدك الإلكتروني المحفوظ.</value>
+  </data>
+  <data name="Email verification is unavailable here." xml:space="preserve">
+    <value>التحقق من البريد الإلكتروني غير متاح هنا.</value>
+  </data>
+  <data name="Ask your administrator for a recovery code, then enter it with your current password to set up a new authenticator app for two-factor authentication (MFA). This does not reset your password." xml:space="preserve">
+    <value>اطلب من المسؤول رمز استرداد، ثم أدخله مع كلمة المرور الحالية لإعداد تطبيق مصادقة جديد للمصادقة الثنائية (MFA). لا يؤدي ذلك إلى إعادة تعيين كلمة المرور.</value>
+  </data>
+  <data name="Recovery code" xml:space="preserve">
+    <value>رمز الاسترداد</value>
+  </data>
+  <data name="Continue recovery" xml:space="preserve">
+    <value>متابعة الاسترداد</value>
+  </data>
+  <data name="Recovery could not be verified. Check your password and recovery code, or ask the administrator for a new code." xml:space="preserve">
+    <value>تعذر التحقق من الاسترداد. تحقق من كلمة المرور ورمز الاسترداد، أو اطلب رمزًا جديدًا من المسؤول.</value>
+  </data>
+  <data name="Password changed" xml:space="preserve">
+    <value>تم تغيير كلمة المرور</value>
+  </data>
+  <data name="You are still signed in on this device. Other devices will need to sign in again." xml:space="preserve">
+    <value>لا تزال مسجل الدخول على هذا الجهاز. سيتعين تسجيل الدخول مرة أخرى على الأجهزة الأخرى.</value>
+  </data>
+  <data name="Done" xml:space="preserve">
+    <value>تم</value>
+  </data>
+  <data name="Confirm it's you" xml:space="preserve">
+    <value>أكد هويتك</value>
+  </data>
+  <data name="Enter the 6-digit code from your authenticator app before you choose a new password." xml:space="preserve">
+    <value>أدخل الرمز المكون من 6 أرقام من تطبيق المصادقة قبل اختيار كلمة مرور جديدة.</value>
+  </data>
+  <data name="Confirm your current password" xml:space="preserve">
+    <value>أكد كلمة المرور الحالية</value>
+  </data>
+  <data name="Enter the password you use now. Then you can choose a new one." xml:space="preserve">
+    <value>أدخل كلمة المرور التي تستخدمها الآن. بعد ذلك يمكنك اختيار كلمة مرور جديدة.</value>
+  </data>
+  <data name="Continue" xml:space="preserve">
+    <value>متابعة</value>
+  </data>
+  <data name="Choose a new password" xml:space="preserve">
+    <value>اختر كلمة مرور جديدة</value>
+  </data>
+  <data name="Password changed. Additional account verification is required before signing in." xml:space="preserve">
+    <value>تم تغيير كلمة المرور. يلزم إجراء تحقق إضافي من الحساب قبل تسجيل الدخول.</value>
+  </data>
+  <data name="Additional account verification is required before the password can be changed." xml:space="preserve">
+    <value>يلزم إجراء تحقق إضافي من الحساب قبل تغيير كلمة المرور.</value>
+  </data>
+  <data name="You must change your password" xml:space="preserve">
+    <value>يجب عليك تغيير كلمة المرور</value>
+  </data>
+  <data name="Cancellation could not be confirmed. Sign in again to check whether the password change completed." xml:space="preserve">
+    <value>تعذر تأكيد الإلغاء. سجل الدخول مرة أخرى للتحقق مما إذا كان تغيير كلمة المرور قد اكتمل.</value>
+  </data>
+  <data name="Your session has expired. Please log in again." xml:space="preserve">
+    <value>انتهت صلاحية جلستك. يرجى تسجيل الدخول مرة أخرى.</value>
+  </data>
+  <data name="Replace your authenticator" xml:space="preserve">
+    <value>استبدال تطبيق المصادقة</value>
+  </data>
+  <data name="Set up your authenticator" xml:space="preserve">
+    <value>إعداد تطبيق المصادقة</value>
+  </data>
+  <data name="Authenticator replaced" xml:space="preserve">
+    <value>تم استبدال تطبيق المصادقة</value>
+  </data>
+  <data name="Authenticator set up" xml:space="preserve">
+    <value>تم إعداد تطبيق المصادقة</value>
+  </data>
+  <data name="Your old authenticator no longer works. From now on, use the new app when you sign in." xml:space="preserve">
+    <value>لم يعد تطبيق المصادقة القديم يعمل. من الآن فصاعدًا، استخدم التطبيق الجديد عند تسجيل الدخول.</value>
+  </data>
+  <data name="From now on, sign in with your password and a code from this app." xml:space="preserve">
+    <value>من الآن فصاعدًا، سجل الدخول باستخدام كلمة المرور ورمز من هذا التطبيق.</value>
+  </data>
+  <data name="Authenticator recovery is required" xml:space="preserve">
+    <value>يلزم استرداد تطبيق المصادقة</value>
+  </data>
+  <data name="An administrator reset your authenticator app. Ask them for a recovery code. The next time you sign in, you enter it with your password and then set up a new authenticator app." xml:space="preserve">
+    <value>أعاد المسؤول تعيين تطبيق المصادقة الخاص بك. اطلب منه رمز استرداد. في المرة القادمة التي تسجل فيها الدخول، ستقوم بإدخاله مع كلمة المرور ثم بإعداد تطبيق مصادقة جديد.</value>
+  </data>
+  <data name="Enter your password to start setting up an authenticator app." xml:space="preserve">
+    <value>أدخل كلمة المرور لبدء إعداد تطبيق المصادقة.</value>
+  </data>
+  <data name="Confirm your current authenticator" xml:space="preserve">
+    <value>أكد تطبيق المصادقة الحالي</value>
+  </data>
+  <data name="Enter a code from the authenticator app you use now. It keeps working until the new one is confirmed." xml:space="preserve">
+    <value>أدخل رمزًا من تطبيق المصادقة الذي تستخدمه الآن. سيظل يعمل حتى يتم تأكيد التطبيق الجديد.</value>
+  </data>
+  <data name="Scan the QR code" xml:space="preserve">
+    <value>امسح رمز QR</value>
+  </data>
+  <data name="Scan this code with your authenticator app, or enter the setup key by hand. Then enter the 6-digit code the app shows." xml:space="preserve">
+    <value>امسح هذا الرمز باستخدام تطبيق المصادقة، أو أدخل مفتاح الإعداد يدويًا. ثم أدخل الرمز المكون من 6 أرقام الذي يعرضه التطبيق.</value>
+  </data>
+  <data name="Authenticator setup QR code" xml:space="preserve">
+    <value>رمز QR لإعداد تطبيق المصادقة</value>
+  </data>
+  <data name="Setup key" xml:space="preserve">
+    <value>مفتاح الإعداد</value>
+  </data>
+  <data name="Copy setup key" xml:space="preserve">
+    <value>نسخ مفتاح الإعداد</value>
+  </data>
+  <data name="Code from the new app" xml:space="preserve">
+    <value>الرمز من التطبيق الجديد</value>
+  </data>
+  <data name="Confirm authenticator" xml:space="preserve">
+    <value>تأكيد تطبيق المصادقة</value>
+  </data>
+  <data name="Authenticator updated. Additional account verification is required before signing in." xml:space="preserve">
+    <value>تم تحديث تطبيق المصادقة. يلزم إجراء تحقق إضافي من الحساب قبل تسجيل الدخول.</value>
+  </data>
+  <data name="Additional account verification is required before the authenticator can be changed." xml:space="preserve">
+    <value>يلزم إجراء تحقق إضافي من الحساب قبل تغيير تطبيق المصادقة.</value>
+  </data>
+  <data name="Cancel setup" xml:space="preserve">
+    <value>إلغاء الإعداد</value>
+  </data>
+  <data name="You must set up two-factor authentication to continue" xml:space="preserve">
+    <value>يجب عليك إعداد المصادقة الثنائية للمتابعة</value>
+  </data>
+  <data name="Could not start two-factor setup. Please try again." xml:space="preserve">
+    <value>تعذر بدء إعداد المصادقة الثنائية. يرجى المحاولة مرة أخرى.</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>إعادة المحاولة</value>
+  </data>
+  <data name="Scan the QR code with your authenticator app, then enter the 6-digit code it shows to finish setup." xml:space="preserve">
+    <value>امسح رمز QR باستخدام تطبيق المصادقة، ثم أدخل الرمز المكون من 6 أرقام الذي يعرضه لإنهاء الإعداد.</value>
+  </data>
+  <data name="Two-factor authentication QR code" xml:space="preserve">
+    <value>رمز QR للمصادقة الثنائية</value>
+  </data>
+  <data name="Can't scan it? Enter this key manually:" xml:space="preserve">
+    <value>لا يمكنك مسحه؟ أدخل هذا المفتاح يدويًا:</value>
+  </data>
+  <data name="Code" xml:space="preserve">
+    <value>الرمز</value>
+  </data>
+  <data name="Verify" xml:space="preserve">
+    <value>تحقق</value>
+  </data>
+  <data name="That password or code was not accepted. Try again." xml:space="preserve">
+    <value>لم يتم قبول كلمة المرور أو الرمز. حاول مرة أخرى.</value>
+  </data>
+  <data name="Setup could not be confirmed. Sign in again to check which authenticator is active." xml:space="preserve">
+    <value>تعذر تأكيد الإعداد. سجل الدخول مرة أخرى للتحقق من تطبيق المصادقة النشط.</value>
+  </data>
+  <data name="Enter your authenticator code" xml:space="preserve">
+    <value>أدخل رمز تطبيق المصادقة</value>
+  </data>
+  <data name="Open your authenticator app and enter the 6-digit code it shows for this account." xml:space="preserve">
+    <value>افتح تطبيق المصادقة وأدخل الرمز المكون من 6 أرقام الذي يعرضه لهذا الحساب.</value>
+  </data>
+  <data name="Verifying…" xml:space="preserve">
+    <value>جارٍ التحقق…</value>
+  </data>
+  <data name="Enter the code from your two-factor authentication app or browser extension below" xml:space="preserve">
+    <value>أدخل أدناه الرمز من تطبيق المصادقة الثنائية أو إضافة المتصفح</value>
+  </data>
+  <data name="Invalid code" xml:space="preserve">
+    <value>رمز غير صالح</value>
+  </data>
+  <data name="Recover authenticator" xml:space="preserve">
+    <value>استرداد تطبيق المصادقة</value>
+  </data>
+  <data name="Help a user recover their authenticator" xml:space="preserve">
+    <value>مساعدة مستخدم على استرداد تطبيق المصادقة</value>
+  </data>
+  <data name="First confirm the person's identity using your team's procedure. Record the support ticket or a short note below. Shift saves this note for audit but cannot verify whether it is true." xml:space="preserve">
+    <value>أولًا، تحقق من هوية الشخص باتباع إجراءات فريقك. سجل تذكرة الدعم أو ملاحظة قصيرة أدناه. يحفظ Shift هذه الملاحظة لأغراض التدقيق، لكنه لا يستطيع التحقق من صحتها.</value>
+  </data>
+  <data name="Issuing a recovery code disables the old authenticator. Local sign-in waits until the user completes recovery. The generated recovery code is separate from this note; give it to the verified person privately." xml:space="preserve">
+    <value>يؤدي إصدار رمز استرداد إلى تعطيل تطبيق المصادقة القديم. يتوقف تسجيل الدخول المحلي إلى أن يكمل المستخدم الاسترداد. رمز الاسترداد الذي يتم إنشاؤه منفصل عن هذه الملاحظة؛ أعطه للشخص الذي تم التحقق منه بشكل خاص.</value>
+  </data>
+  <data name="Support ticket or identity-check note" xml:space="preserve">
+    <value>تذكرة الدعم أو ملاحظة التحقق من الهوية</value>
+  </data>
+  <data name="Issue recovery code" xml:space="preserve">
+    <value>إصدار رمز استرداد</value>
+  </data>
+  <data name="Recovery code issued" xml:space="preserve">
+    <value>تم إصدار رمز الاسترداد</value>
+  </data>
+  <data name="Give this code to the verified person through your established private channel. It can be used once and expires at:" xml:space="preserve">
+    <value>أرسل هذا الرمز إلى الشخص الذي تم التحقق منه عبر قناتك الخاصة المعتمدة. يمكن استخدامه مرة واحدة، وتنتهي صلاحيته في:</value>
+  </data>
+  <data name="Copied" xml:space="preserve">
+    <value>تم النسخ</value>
+  </data>
+  <data name="Copy code" xml:space="preserve">
+    <value>نسخ الرمز</value>
+  </data>
+  <data name="The user signs in with their username and password." xml:space="preserve">
+    <value>يسجل المستخدم الدخول باسم المستخدم وكلمة المرور.</value>
+  </data>
+  <data name="They enter their password again, with this code." xml:space="preserve">
+    <value>يقوم بإدخال كلمة المرور مرة أخرى مع هذا الرمز.</value>
+  </data>
+  <data name="They set up a new authenticator app." xml:space="preserve">
+    <value>يقوم بإعداد تطبيق مصادقة جديد.</value>
+  </data>
+  <data name="Hide code" xml:space="preserve">
+    <value>إخفاء الرمز</value>
+  </data>
+  <data name="Sign in again before issuing a recovery code." xml:space="preserve">
+    <value>سجل الدخول مرة أخرى قبل إصدار رمز استرداد.</value>
+  </data>
+  <data name="You need the Manage MFA Recovery permission to issue a recovery code, and you cannot issue one for your own account." xml:space="preserve">
+    <value>تحتاج إلى صلاحية Manage MFA Recovery لإصدار رمز استرداد، ولا يمكنك إصدار رمز لحسابك الخاص.</value>
+  </data>
+  <data name="This account is inactive or deleted, so its authenticator cannot be recovered." xml:space="preserve">
+    <value>هذا الحساب غير نشط أو محذوف، لذا لا يمكن استرداد تطبيق المصادقة الخاص به.</value>
+  </data>
+  <data name="This account changed meanwhile. Close this window, open the user again and retry." xml:space="preserve">
+    <value>تغير هذا الحساب في هذه الأثناء. أغلق هذه النافذة، ثم افتح المستخدم مرة أخرى وأعد المحاولة.</value>
+  </data>
+  <data name="The recovery service is unavailable. Wait a moment and try again." xml:space="preserve">
+    <value>خدمة الاسترداد غير متاحة. انتظر قليلًا ثم حاول مرة أخرى.</value>
+  </data>
+  <data name="Confirm your password when you are asked, then issue the code again." xml:space="preserve">
+    <value>أكد كلمة المرور عندما يطلب منك ذلك، ثم أصدر الرمز مرة أخرى.</value>
+  </data>
+  <data name="Recovery issuance could not be confirmed. Check your permission and sign in again. A lost response may require issuing a new code." xml:space="preserve">
+    <value>تعذر تأكيد إصدار رمز الاسترداد. تحقق من صلاحيتك وسجل الدخول مرة أخرى. في حال فقدان الاستجابة، قد يلزم إصدار رمز جديد.</value>
+  </data>
+  <data name="Enroll Two Factor" xml:space="preserve">
+    <value>تفعيل المصادقة الثنائية</value>
+  </data>
+  <data name="Authenticator recovery is required. Contact your administrator." xml:space="preserve">
+    <value>يلزم استرداد تطبيق المصادقة. تواصل مع المسؤول.</value>
+  </data>
+  <data name="Authenticator" xml:space="preserve">
+    <value>تطبيق المصادقة</value>
+  </data>
+  <data name="Replace authenticator" xml:space="preserve">
+    <value>استبدال تطبيق المصادقة</value>
+  </data>
+  <data name="Set up authenticator" xml:space="preserve">
+    <value>إعداد تطبيق المصادقة</value>
+  </data>
+  <data name="Send Email Verification" xml:space="preserve">
+    <value>إرسال التحقق من البريد الإلكتروني</value>
+  </data>
+  <data name="Authenticator App (TOTP)" xml:space="preserve">
+    <value>تطبيق المصادقة (TOTP)</value>
+  </data>
+  <data name="Recovery required" xml:space="preserve">
+    <value>يلزم الاسترداد</value>
+  </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>مفعل</value>
+  </data>
+  <data name="Not set up" xml:space="preserve">
+    <value>لم يتم الإعداد</value>
+  </data>
+  <data name="This user cannot sign in until they recover their authenticator app with a recovery code from an administrator." xml:space="preserve">
+    <value>لا يمكن لهذا المستخدم تسجيل الدخول حتى يسترد تطبيق المصادقة برمز استرداد من المسؤول.</value>
+  </data>
+  <data name="View Effective Permissions" xml:space="preserve">
+    <value>عرض الصلاحيات الفعلية</value>
+  </data>
+  <data name="Effective Permissions" xml:space="preserve">
+    <value>الصلاحيات الفعلية</value>
+  </data>
+  <data name="Password Length" xml:space="preserve">
+    <value>طول كلمة المرور</value>
+  </data>
+  <data name="Reset TOTP" xml:space="preserve">
+    <value>إعادة تعيين TOTP</value>
+  </data>
+  <data name="TOTP" xml:space="preserve">
+    <value>TOTP</value>
+  </data>
+  <data name="Recovery required: this user cannot sign in until they recover their authenticator app" xml:space="preserve">
+    <value>يلزم الاسترداد: لا يمكن لهذا المستخدم تسجيل الدخول حتى يسترد تطبيق المصادقة</value>
+  </data>
+  <data name="Authenticator app (TOTP) is set up" xml:space="preserve">
+    <value>تم إعداد تطبيق المصادقة (TOTP)</value>
+  </data>
+  <data name="No authenticator app (TOTP)" xml:space="preserve">
+    <value>لا يوجد تطبيق مصادقة (TOTP)</value>
+  </data>
+  <data name="Signature" xml:space="preserve">
+    <value>التوقيع</value>
+  </data>
+  <data name="Use 15–128 characters. Spaces and Unicode are allowed. Choose a different password that is not common or based on your username." xml:space="preserve">
+    <value>استخدم من 15 إلى 128 حرفًا. يسمح بالمسافات وأحرف Unicode. اختر كلمة مرور مختلفة، غير شائعة وغير مبنية على اسم المستخدم.</value>
+  </data>
+  <data name="The password must be at least 15 characters long" xml:space="preserve">
+    <value>يجب أن تتكون كلمة المرور من 15 حرفًا على الأقل</value>
+  </data>
+  <data name="The password must not be longer than 128 characters" xml:space="preserve">
+    <value>يجب ألا تزيد كلمة المرور على 128 حرفًا</value>
+  </data>
+  <data name="The password contains characters that are not allowed" xml:space="preserve">
+    <value>تحتوي كلمة المرور على أحرف غير مسموح بها</value>
+  </data>
+  <data name="This password is too common or based on the username" xml:space="preserve">
+    <value>كلمة المرور هذه شائعة جدًا أو مبنية على اسم المستخدم</value>
+  </data>
+  <data name="This field is required." xml:space="preserve">
+    <value>هذا الحقل مطلوب.</value>
+  </data>
+  <data name="This value is too short." xml:space="preserve">
+    <value>هذه القيمة قصيرة جدًا.</value>
+  </data>
+  <data name="This value is too long." xml:space="preserve">
+    <value>هذه القيمة طويلة جدًا.</value>
+  </data>
+  <data name="This value is not valid." xml:space="preserve">
+    <value>هذه القيمة غير صالحة.</value>
+  </data>
+  <data name="Passwords must match." xml:space="preserve">
+    <value>يجب أن تتطابق كلمتا المرور.</value>
+  </data>
+  <data name="Enter the code the app shows, using digits only." xml:space="preserve">
+    <value>أدخل الرمز الذي يعرضه التطبيق، بالأرقام فقط.</value>
+  </data>
+  <data name="Choose a password different from your current password." xml:space="preserve">
+    <value>اختر كلمة مرور مختلفة عن كلمة المرور الحالية.</value>
+  </data>
+  <data name="This password is too common or based on your username. Choose another." xml:space="preserve">
+    <value>كلمة المرور هذه شائعة جدًا أو مبنية على اسم المستخدم الخاص بك. اختر كلمة مرور أخرى.</value>
+  </data>
+  <data name="The operation could not be completed. Sign in again to check your password; a lost response may follow a completed change." xml:space="preserve">
+    <value>تعذر إكمال العملية. سجل الدخول مرة أخرى للتحقق من كلمة المرور؛ فقد تكون الاستجابة المفقودة لتغيير اكتمل بالفعل.</value>
+  </data>
+  <data name="Checking your link…" xml:space="preserve">
+    <value>جارٍ التحقق من الرابط…</value>
+  </data>
+  <data name="For {0}" xml:space="preserve">
+    <value>لـ {0}</value>
+  </data>
+  <data name="Opening this page does not verify your email. Confirm that this email address belongs to you." xml:space="preserve">
+    <value>فتح هذه الصفحة لا يؤكد بريدك الإلكتروني. أكد أن عنوان البريد الإلكتروني هذا يخصك.</value>
+  </data>
+  <data name="Verify my email" xml:space="preserve">
+    <value>تأكيد بريدي الإلكتروني</value>
+  </data>
+  <data name="Your authenticator and recovery requirements still apply after resetting your password." xml:space="preserve">
+    <value>تظل متطلبات تطبيق المصادقة والاسترداد سارية بعد إعادة تعيين كلمة المرور.</value>
+  </data>
+  <data name="Your email is verified. You can now return to login." xml:space="preserve">
+    <value>تم التحقق من بريدك الإلكتروني. يمكنك الآن العودة إلى تسجيل الدخول.</value>
+  </data>
+  <data name="Return to login" xml:space="preserve">
+    <value>العودة إلى تسجيل الدخول</value>
+  </data>
+  <data name="Request a new link" xml:space="preserve">
+    <value>طلب رابط جديد</value>
+  </data>
+  <data name="This link is invalid, expired or has been replaced. Request a new link." xml:space="preserve">
+    <value>هذا الرابط غير صالح أو منتهي الصلاحية أو تم استبداله. اطلب رابطًا جديدًا.</value>
+  </data>
+  <data name="The link could not be opened. Please reopen it and try again." xml:space="preserve">
+    <value>تعذر فتح الرابط. يرجى فتحه مرة أخرى والمحاولة من جديد.</value>
+  </data>
+  <data name="Choose a password that meets the password requirements and try again." xml:space="preserve">
+    <value>اختر كلمة مرور تستوفي متطلبات كلمة المرور وحاول مرة أخرى.</value>
+  </data>
+  <data name="Verification could not be confirmed. The link may have expired or been replaced. Request a new link." xml:space="preserve">
+    <value>تعذر تأكيد التحقق. ربما انتهت صلاحية الرابط أو تم استبداله. اطلب رابطًا جديدًا.</value>
+  </data>
+  <data name="The change could not be confirmed. The link may have expired or been replaced. Request a new link; if you just reset your password, try signing in with the new password first." xml:space="preserve">
+    <value>تعذر تأكيد التغيير. ربما انتهت صلاحية الرابط أو تم استبداله. اطلب رابطًا جديدًا؛ وإذا كنت قد أعدت تعيين كلمة المرور للتو، فحاول تسجيل الدخول بكلمة المرور الجديدة أولًا.</value>
+  </data>
+  <data name="Confirm your identity" xml:space="preserve">
+    <value>تأكيد هويتك</value>
+  </data>
+  <data name="Confirm your current administrator account to continue. Your edits and selection will stay here." xml:space="preserve">
+    <value>أكد حساب المسؤول الحالي للمتابعة. ستبقى تعديلاتك وتحديدك هنا.</value>
+  </data>
+  <data name="Your password" xml:space="preserve">
+    <value>كلمة المرور الخاصة بك</value>
+  </data>
+  <data name="Authenticator code" xml:space="preserve">
+    <value>رمز تطبيق المصادقة</value>
+  </data>
+  <data name="Confirm and continue" xml:space="preserve">
+    <value>تأكيد ومتابعة</value>
+  </data>
+  <data name="The password or authenticator code was not accepted. Check it and try again." xml:space="preserve">
+    <value>لم يتم قبول كلمة المرور أو رمز تطبيق المصادقة. تحقق منه وحاول مرة أخرى.</value>
+  </data>
+  <data name="Too many attempts. Cancel and try again later." xml:space="preserve">
+    <value>محاولات كثيرة جدًا. قم بالإلغاء وحاول مرة أخرى لاحقًا.</value>
+  </data>
+  <data name="Confirmation could not be completed. Your action has not been retried. Cancel and try again later." xml:space="preserve">
+    <value>تعذر إكمال التأكيد. لم تتم إعادة محاولة الإجراء. قم بالإلغاء وحاول مرة أخرى لاحقًا.</value>
+  </data>
+  <data name="Your session or account changed, or confirmation expired. Cancel and review your session before trying again." xml:space="preserve">
+    <value>تغيرت جلستك أو حسابك، أو انتهت صلاحية التأكيد. قم بالإلغاء وراجع جلستك قبل المحاولة مرة أخرى.</value>
+  </data>
+  <data name="Send password reset link" xml:space="preserve">
+    <value>إرسال رابط إعادة تعيين كلمة المرور</value>
+  </data>
+  <data name="If the saved address is eligible, check its inbox. Wait before requesting another link." xml:space="preserve">
+    <value>إذا كان العنوان المحفوظ مؤهلًا، فتحقق من صندوق الوارد الخاص به. انتظر قبل طلب رابط آخر.</value>
+  </data>
+  <data name="The send could not be confirmed. Check the recipient's inbox, wait and request a fresh link." xml:space="preserve">
+    <value>تعذر تأكيد الإرسال. تحقق من صندوق الوارد لدى المستلم، وانتظر ثم اطلب رابطًا جديدًا.</value>
+  </data>
+  <data name="The request could not be completed. Check your session and Users write permission before sending links." xml:space="preserve">
+    <value>تعذر إكمال الطلب. تحقق من جلستك ومن صلاحية الكتابة على المستخدمين قبل إرسال الروابط.</value>
+  </data>
+  <data name="Check your saved email inbox. Wait before requesting another link." xml:space="preserve">
+    <value>تحقق من صندوق الوارد لبريدك الإلكتروني المحفوظ. انتظر قبل طلب رابط آخر.</value>
+  </data>
+  <data name="The send could not be confirmed. Check your inbox, wait and retry; sign in again if your session is no longer accepted." xml:space="preserve">
+    <value>تعذر تأكيد الإرسال. تحقق من صندوق الوارد، وانتظر ثم أعد المحاولة؛ وسجل الدخول مرة أخرى إذا لم تعد جلستك مقبولة.</value>
+  </data>
+  <data name="The user was saved, but the verification send could not be confirmed. Check the recipient's inbox, wait and request a fresh link." xml:space="preserve">
+    <value>تم حفظ المستخدم، لكن تعذر تأكيد إرسال رسالة التحقق. تحقق من صندوق الوارد لدى المستلم، وانتظر ثم اطلب رابطًا جديدًا.</value>
+  </data>
+  <data name="The Password for ({0}) users has been reseted." xml:space="preserve">
+    <value>تمت إعادة تعيين كلمة المرور لـ ({0}) مستخدم.</value>
+  </data>
+  <data name="Password Reset Results" xml:space="preserve">
+    <value>نتائج إعادة تعيين كلمة المرور</value>
+  </data>
+  <data name="An error occurred while resetting the password." xml:space="preserve">
+    <value>حدث خطأ أثناء إعادة تعيين كلمة المرور.</value>
+  </data>
+  <data name="TOTP Authentication was reset for ({0}) users." xml:space="preserve">
+    <value>تمت إعادة تعيين مصادقة TOTP لـ ({0}) مستخدم.</value>
+  </data>
+  <data name="An error occurred while resetting TOTP Authentication." xml:space="preserve">
+    <value>حدث خطأ أثناء إعادة تعيين مصادقة TOTP.</value>
+  </data>
+  <data name="Verification links requested. Eligible recipients should check their saved email inboxes." xml:space="preserve">
+    <value>تم طلب روابط التحقق. على المستلمين المؤهلين التحقق من صناديق الوارد لعناوينهم المحفوظة.</value>
+  </data>
+  <data name="The verification link send throw email for ({0}) users." xml:space="preserve">
+    <value>تم إرسال رابط التحقق عبر البريد الإلكتروني لـ ({0}) مستخدم.</value>
+  </data>
+  <data name="An error occurred while verifying the email." xml:space="preserve">
+    <value>حدث خطأ أثناء التحقق من البريد الإلكتروني.</value>
+  </data>
+  <data name="The Phone for ({0}) users has been verified." xml:space="preserve">
+    <value>تم التحقق من الهاتف لـ ({0}) مستخدم.</value>
+  </data>
+  <data name="An error occurred while verifying the phone." xml:space="preserve">
+    <value>حدث خطأ أثناء التحقق من الهاتف.</value>
+  </data>
+  <data name="Forbidden" xml:space="preserve">
+    <value>ممنوع</value>
+  </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>غير موجود</value>
+  </data>
+  <data name="Conflict" xml:space="preserve">
+    <value>تعارض</value>
+  </data>
+  <data name="Unauthorized" xml:space="preserve">
+    <value>غير مصرح به</value>
+  </data>
+  <data name="Use your own profile to change your own account." xml:space="preserve">
+    <value>استخدم ملفك الشخصي لتغيير حسابك.</value>
+  </data>
+  <data name="User not found" xml:space="preserve">
+    <value>المستخدم غير موجود</value>
+  </data>
+  <data name="This user changed meanwhile. Reload the user and try again." xml:space="preserve">
+    <value>تغير هذا المستخدم في هذه الأثناء. أعد تحميل المستخدم وحاول مرة أخرى.</value>
+  </data>
+  <data name="Another account already uses this email." xml:space="preserve">
+    <value>يستخدم حساب آخر هذا البريد الإلكتروني بالفعل.</value>
+  </data>
+  <data name="Another account already uses this username." xml:space="preserve">
+    <value>يستخدم حساب آخر اسم المستخدم هذا بالفعل.</value>
+  </data>
+  <data name="Check the entered value and try again." xml:space="preserve">
+    <value>تحقق من القيمة المدخلة وحاول مرة أخرى.</value>
+  </data>
+  <data name="The change could not be saved. Please wait and try again." xml:space="preserve">
+    <value>تعذر حفظ التغيير. يرجى الانتظار ثم المحاولة مرة أخرى.</value>
+  </data>
+  <data name="Sign in again before changing this account." xml:space="preserve">
+    <value>سجل الدخول مرة أخرى قبل تغيير هذا الحساب.</value>
+  </data>
+  <data name="Your sign-in is too old for this change. Sign in again and retry." xml:space="preserve">
+    <value>مضى وقت طويل على تسجيل دخولك لإجراء هذا التغيير. سجل الدخول مرة أخرى وأعد المحاولة.</value>
+  </data>
+  <data name="Confirm your password and applicable MFA to continue this change." xml:space="preserve">
+    <value>أكد كلمة المرور والمصادقة الثنائية عند الاقتضاء لمتابعة هذا التغيير.</value>
+  </data>
+  <data name="Your account is not available for this change." xml:space="preserve">
+    <value>حسابك غير متاح لهذا التغيير.</value>
+  </data>
+  <data name="You do not have permission to change this account." xml:space="preserve">
+    <value>ليست لديك صلاحية لتغيير هذا الحساب.</value>
+  </data>
+  <data name="Only an administrator can change your username." xml:space="preserve">
+    <value>لا يمكن تغيير اسم المستخدم إلا بواسطة المسؤول.</value>
+  </data>
+  <data name="Additional authentication required" xml:space="preserve">
+    <value>يلزم تحقق إضافي من الهوية</value>
+  </data>
+  <data name="Use the contact change flow to change your email or phone." xml:space="preserve">
+    <value>استخدم إجراء تغيير جهات الاتصال لتغيير بريدك الإلكتروني أو هاتفك.</value>
+  </data>
+  <data name="Invalid token" xml:space="preserve">
+    <value>رمز مميز غير صالح</value>
+  </data>
+  <data name="Two Factor Code" xml:space="preserve">
+    <value>رمز المصادقة الثنائية</value>
+  </data>
+  <data name="The Integration ID {0} already exists" xml:space="preserve">
+    <value>معرف التكامل {0} موجود بالفعل</value>
+  </data>
+  <data name="Latitude must be between -90 and 90" xml:space="preserve">
+    <value>يجب أن يكون خط العرض بين -90 و90</value>
+  </data>
+  <data name="Longitude must be between -180 and 180" xml:space="preserve">
+    <value>يجب أن يكون خط الطول بين -180 و180</value>
+  </data>
+  <data name="Region Feature is locked" xml:space="preserve">
+    <value>ميزة المنطقة مغلقة</value>
+  </data>
+  <data name="Company Branch Feature is locked" xml:space="preserve">
+    <value>ميزة فرع الشركة مغلقة</value>
+  </data>
+  <data name="Company Calendar feature is locked." xml:space="preserve">
+    <value>ميزة تقويم الشركة مغلقة.</value>
+  </data>
+  <data name="Access" xml:space="preserve">
+    <value>الوصول</value>
+  </data>
+  <data name="any row" xml:space="preserve">
+    <value>أي صف</value>
+  </data>
+  <data name="Actions" xml:space="preserve">
+    <value>الإجراءات</value>
+  </data>
+  <data name="Text actions are not searchable" xml:space="preserve">
+    <value>لا يمكن البحث في الإجراءات النصية</value>
+  </data>
+  <data name="Combined permissions from the user's access trees and user-specific access." xml:space="preserve">
+    <value>الصلاحيات المجمعة من أشجار الوصول الخاصة بالمستخدم والوصول الخاص به.</value>
+  </data>
+  <data name="An error occurred while loading the permissions" xml:space="preserve">
+    <value>حدث خطأ أثناء تحميل الصلاحيات</value>
+  </data>
+  <data name="Reverse TypeAuth Lookup" xml:space="preserve">
+    <value>البحث العكسي في TypeAuth</value>
+  </data>
+  <data name="Click an access level on any action below to list all active users who have that access." xml:space="preserve">
+    <value>انقر على مستوى وصول في أي إجراء أدناه لعرض جميع المستخدمين النشطين الذين لديهم هذا الوصول.</value>
+  </data>
+  <data name="Matching users" xml:space="preserve">
+    <value>المستخدمون المطابقون</value>
+  </data>
+  <data name="Matching access trees" xml:space="preserve">
+    <value>أشجار الوصول المطابقة</value>
+  </data>
+  <data name="No results." xml:space="preserve">
+    <value>لا توجد نتائج.</value>
+  </data>
+  <data name="No users match this access." xml:space="preserve">
+    <value>لا يوجد مستخدمون يطابقون هذا الوصول.</value>
+  </data>
+  <data name="No access trees match this access." xml:space="preserve">
+    <value>لا توجد أشجار وصول تطابق هذا الوصول.</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>المعرف</value>
+  </data>
+  <data name="Granted By" xml:space="preserve">
+    <value>ممنوح عبر</value>
+  </data>
+  <data name="Assigned Users" xml:space="preserve">
+    <value>المستخدمون المعينون</value>
+  </data>
+  <data name="Export CSV" xml:space="preserve">
+    <value>تصدير CSV</value>
+  </data>
+  <data name="Request failed" xml:space="preserve">
+    <value>فشل الطلب</value>
+  </data>
+  <data name="Direct" xml:space="preserve">
+    <value>مباشر</value>
+  </data>
+  <data name="Calendar" xml:space="preserve">
+    <value>التقويم</value>
+  </data>
+  <data name="Calendar Entries" xml:space="preserve">
+    <value>إدخالات التقويم</value>
+  </data>
+  <data name="Pull Live Data" xml:space="preserve">
+    <value>جلب البيانات المباشرة</value>
+  </data>
+  <data name="Display Order" xml:space="preserve">
+    <value>ترتيب العرض</value>
+  </data>
+  <data name="Phone Numbers" xml:space="preserve">
+    <value>أرقام الهواتف</value>
+  </data>
+  <data name="Tag" xml:space="preserve">
+    <value>الوسم</value>
+  </data>
+  <data name="Tags" xml:space="preserve">
+    <value>الوسوم</value>
+  </data>
+  <data name="Add a Phone Number" xml:space="preserve">
+    <value>إضافة رقم هاتف</value>
+  </data>
+  <data name="Email Addresses" xml:space="preserve">
+    <value>عناوين البريد الإلكتروني</value>
+  </data>
+  <data name="Add an Email" xml:space="preserve">
+    <value>إضافة بريد إلكتروني</value>
+  </data>
+  <data name="Company TerminationDate" xml:space="preserve">
+    <value>تاريخ إنهاء الشركة</value>
+  </data>
+  <data name="Mobile App" xml:space="preserve">
+    <value>تطبيق الجوال</value>
+  </data>
+  <data name="Chat Bot" xml:space="preserve">
+    <value>روبوت المحادثة</value>
+  </data>
+  <data name="Company Calendar Entry" xml:space="preserve">
+    <value>إدخال تقويم الشركة</value>
+  </data>
+  <data name="Company Calendar Entries" xml:space="preserve">
+    <value>إدخالات تقويم الشركة</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>العنوان</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>النوع</value>
+  </data>
+  <data name="Entry Type" xml:space="preserve">
+    <value>نوع الإدخال</value>
+  </data>
+  <data name="Workday" xml:space="preserve">
+    <value>يوم عمل</value>
+  </data>
+  <data name="Holiday" xml:space="preserve">
+    <value>عطلة</value>
+  </data>
+  <data name="Start Date" xml:space="preserve">
+    <value>تاريخ البدء</value>
+  </data>
+  <data name="End Date" xml:space="preserve">
+    <value>تاريخ الانتهاء</value>
+  </data>
+  <data name="Priority" xml:space="preserve">
+    <value>الأولوية</value>
+  </data>
+  <data name="Shift Groups" xml:space="preserve">
+    <value>مجموعات الورديات</value>
+  </data>
+  <data name="Shifts" xml:space="preserve">
+    <value>الورديات</value>
+  </data>
+  <data name="Shift Title" xml:space="preserve">
+    <value>عنوان الوردية</value>
+  </data>
+  <data name="Start Time" xml:space="preserve">
+    <value>وقت البدء</value>
+  </data>
+  <data name="End Time" xml:space="preserve">
+    <value>وقت الانتهاء</value>
+  </data>
+  <data name="Weekend Groups" xml:space="preserve">
+    <value>مجموعات العطلة الأسبوعية</value>
+  </data>
+  <data name="Weekend Rules" xml:space="preserve">
+    <value>قواعد العطلة الأسبوعية</value>
+  </data>
+  <data name="Day" xml:space="preserve">
+    <value>يوم</value>
+  </data>
+  <data name="Days of Week" xml:space="preserve">
+    <value>أيام الأسبوع</value>
+  </data>
+  <data name="Repeat Every N Weeks" xml:space="preserve">
+    <value>التكرار كل N أسابيع</value>
+  </data>
+  <data name="Skip Cycles" xml:space="preserve">
+    <value>تخطي الدورات</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>اليوم</value>
+  </data>
+  <data name="more" xml:space="preserve">
+    <value>المزيد</value>
+  </data>
+  <data name="Sun" xml:space="preserve">
+    <value>الأحد</value>
+  </data>
+  <data name="Mon" xml:space="preserve">
+    <value>الاثنين</value>
+  </data>
+  <data name="Tue" xml:space="preserve">
+    <value>الثلاثاء</value>
+  </data>
+  <data name="Wed" xml:space="preserve">
+    <value>الأربعاء</value>
+  </data>
+  <data name="Thu" xml:space="preserve">
+    <value>الخميس</value>
+  </data>
+  <data name="Fri" xml:space="preserve">
+    <value>الجمعة</value>
+  </data>
+  <data name="Sat" xml:space="preserve">
+    <value>السبت</value>
+  </data>
+  <data name="Code Verifier" xml:space="preserve">
+    <value>محقق الرمز</value>
+  </data>
+  <data name="General" xml:space="preserve">
+    <value>عام</value>
+  </data>
+  <data name="Mobile Photos" xml:space="preserve">
+    <value>صور الجوال</value>
+  </data>
+  <data name="Presentation" xml:space="preserve">
+    <value>العرض</value>
+  </data>
+  <data name="Publish Targets" xml:space="preserve">
+    <value>جهات النشر</value>
+  </data>
+  <data name="Select All" xml:space="preserve">
+    <value>تحديد الكل</value>
+  </data>
+  <data name="Turn off MFA" xml:space="preserve">
+    <value>إيقاف المصادقة الثنائية</value>
+  </data>
+  <data name="Turn off MFA for this user" xml:space="preserve">
+    <value>إيقاف المصادقة الثنائية لهذا المستخدم</value>
+  </data>
+  <data name="The user will sign in with their password only and is signed out on every device. They can set up an authenticator again from their profile." xml:space="preserve">
+    <value>سيسجل المستخدم الدخول بكلمة المرور فقط، وسيتم تسجيل خروجه من جميع الأجهزة. يمكنه إعداد تطبيق المصادقة مرة أخرى من ملفه الشخصي.</value>
+  </data>
+  <data name="This also ends the recovery the user is waiting for. A recovery code already given to them stops working." xml:space="preserve">
+    <value>يؤدي ذلك أيضًا إلى إنهاء الاسترداد الذي ينتظره المستخدم. يتوقف عن العمل أي رمز استرداد سبق إعطاؤه له.</value>
+  </data>
+  <data name="If the user lost or replaced their phone, use Recover authenticator instead: it keeps MFA on. Turn MFA off only when you have confirmed that the user asked for it. Record the support ticket or a short note below; Shift saves it for audit." xml:space="preserve">
+    <value>إذا فقد المستخدم هاتفه أو استبدله، فاستخدم «استرداد تطبيق المصادقة» بدلًا من ذلك، فهو يبقي المصادقة الثنائية مفعلة. لا توقف المصادقة الثنائية إلا بعد التأكد من أن المستخدم طلب ذلك. سجل تذكرة الدعم أو ملاحظة قصيرة أدناه، ويحفظها Shift للتدقيق.</value>
+  </data>
+  <data name="MFA turned off" xml:space="preserve">
+    <value>تم إيقاف المصادقة الثنائية</value>
+  </data>
+  <data name="MFA was already off" xml:space="preserve">
+    <value>كانت المصادقة الثنائية متوقفة بالفعل</value>
+  </data>
+  <data name="The user now signs in with their password only." xml:space="preserve">
+    <value>يسجل المستخدم الدخول الآن بكلمة المرور فقط.</value>
+  </data>
+  <data name="Sign in again before turning off MFA." xml:space="preserve">
+    <value>سجل الدخول مرة أخرى قبل إيقاف المصادقة الثنائية.</value>
+  </data>
+  <data name="MFA cannot be turned off here. It may be mandatory on this system, or you lack the Manage MFA Recovery permission. For your own account, use your profile." xml:space="preserve">
+    <value>لا يمكن إيقاف المصادقة الثنائية هنا. قد تكون إلزامية في هذا النظام، أو لا تملك صلاحية Manage MFA Recovery. لحسابك الخاص، استخدم ملفك الشخصي.</value>
+  </data>
+  <data name="This account is deleted, so its MFA cannot be changed." xml:space="preserve">
+    <value>هذا الحساب محذوف، لذا لا يمكن تغيير مصادقته الثنائية.</value>
+  </data>
+  <data name="The service is unavailable. Wait a moment and try again." xml:space="preserve">
+    <value>الخدمة غير متاحة. انتظر قليلًا ثم حاول مرة أخرى.</value>
+  </data>
+  <data name="Confirm your password when you are asked, then turn off MFA again." xml:space="preserve">
+    <value>أكد كلمة المرور عندما يطلب منك ذلك، ثم أوقف المصادقة الثنائية مرة أخرى.</value>
+  </data>
+  <data name="Turning off MFA could not be confirmed. Open the user again to see whether it is still on." xml:space="preserve">
+    <value>تعذر تأكيد إيقاف المصادقة الثنائية. افتح المستخدم مرة أخرى لمعرفة ما إذا كانت لا تزال مفعلة.</value>
+  </data>
+  <data name="Opt out of MFA" xml:space="preserve">
+    <value>إلغاء تفعيل المصادقة الثنائية</value>
+  </data>
+  <data name="Enter a code from your authenticator app. After that you sign in with your password only, and you are signed out on your other devices." xml:space="preserve">
+    <value>أدخل رمزًا من تطبيق المصادقة. بعد ذلك ستسجل الدخول بكلمة المرور فقط، وسيتم تسجيل خروجك من أجهزتك الأخرى.</value>
+  </data>
+  <data name="Opt out" xml:space="preserve">
+    <value>إلغاء التفعيل</value>
+  </data>
+  <data name="MFA is off" xml:space="preserve">
+    <value>المصادقة الثنائية غير مفعلة</value>
+  </data>
+  <data name="Sign in again with your password to continue." xml:space="preserve">
+    <value>سجل الدخول مرة أخرى بكلمة المرور للمتابعة.</value>
+  </data>
+  <data name="You now sign in with your password only. To use an authenticator again, choose Set up authenticator on your profile." xml:space="preserve">
+    <value>أصبحت تسجل الدخول الآن بكلمة المرور فقط. لاستخدام تطبيق مصادقة مرة أخرى، اختر «إعداد تطبيق المصادقة» في ملفك الشخصي.</value>
+  </data>
+  <data name="That code was not accepted. Wait for a new code and try again." xml:space="preserve">
+    <value>لم يتم قبول الرمز. انتظر رمزًا جديدًا وحاول مرة أخرى.</value>
+  </data>
+  <data name="Too many attempts. Wait a few minutes and try again." xml:space="preserve">
+    <value>محاولات كثيرة جدًا. انتظر بضع دقائق ثم حاول مرة أخرى.</value>
+  </data>
+  <data name="MFA is required on this system, so it cannot be turned off." xml:space="preserve">
+    <value>المصادقة الثنائية إلزامية في هذا النظام، لذا لا يمكن إيقافها.</value>
+  </data>
+  <data name="Opting out could not be confirmed. Sign in again to check whether MFA is still on." xml:space="preserve">
+    <value>تعذر تأكيد إلغاء التفعيل. سجل الدخول مرة أخرى للتحقق مما إذا كانت المصادقة الثنائية لا تزال مفعلة.</value>
   </data>
 </root>

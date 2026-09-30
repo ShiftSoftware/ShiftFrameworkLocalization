@@ -708,4 +708,907 @@
   <data name="The Redirect URI cannot end with / or /Auth/Token" xml:space="preserve">
     <value>The Redirect URI cannot end with / or /Auth/Token</value>
   </data>
+  <data name="Can't access your account?" xml:space="preserve">
+    <value>Can't access your account?</value>
+  </data>
+  <data name="Choose how you'd like to get back in." xml:space="preserve">
+    <value>Choose how you'd like to get back in.</value>
+  </data>
+  <data name="Forgot password" xml:space="preserve">
+    <value>Forgot password</value>
+  </data>
+  <data name="Get a password reset link by email." xml:space="preserve">
+    <value>Get a password reset link by email.</value>
+  </data>
+  <data name="Recover your authenticator app" xml:space="preserve">
+    <value>Recover your authenticator app</value>
+  </data>
+  <data name="Restore two-factor authentication (MFA) using your current password and an admin recovery code." xml:space="preserve">
+    <value>Restore two-factor authentication (MFA) using your current password and an admin recovery code.</value>
+  </data>
+  <data name="Verify your email" xml:space="preserve">
+    <value>Verify your email</value>
+  </data>
+  <data name="Verify your saved email address before signing in." xml:space="preserve">
+    <value>Verify your saved email address before signing in.</value>
+  </data>
+  <data name="Send email verification link" xml:space="preserve">
+    <value>Send email verification link</value>
+  </data>
+  <data name="Additional account verification is required before signing in." xml:space="preserve">
+    <value>Additional account verification is required before signing in.</value>
+  </data>
+  <data name="Error reference" xml:space="preserve">
+    <value>Error reference</value>
+  </data>
+  <data name="Signing in…" xml:space="preserve">
+    <value>Signing in…</value>
+  </data>
+  <data name="Authenticator recovery completed. Sign in with your password and a new code from your authenticator." xml:space="preserve">
+    <value>Authenticator recovery completed. Sign in with your password and a new code from your authenticator.</value>
+  </data>
+  <data name="Password reset. Sign in with your new password." xml:space="preserve">
+    <value>Password reset. Sign in with your new password.</value>
+  </data>
+  <data name="Cancellation could not be confirmed. Sign in again to check whether the security change completed." xml:space="preserve">
+    <value>Cancellation could not be confirmed. Sign in again to check whether the security change completed.</value>
+  </data>
+  <data name="Sign-in could not be completed. Try again." xml:space="preserve">
+    <value>Sign-in could not be completed. Try again.</value>
+  </data>
+  <data name="We couldn't reach the sign-in service." xml:space="preserve">
+    <value>We couldn't reach the sign-in service.</value>
+  </data>
+  <data name="Username or password is incorrect." xml:space="preserve">
+    <value>Username or password is incorrect.</value>
+  </data>
+  <data name="We couldn't sign you in." xml:space="preserve">
+    <value>We couldn't sign you in.</value>
+  </data>
+  <data name="Check your connection and try again in a moment." xml:space="preserve">
+    <value>Check your connection and try again in a moment.</value>
+  </data>
+  <data name="Try again, or get help accessing your account." xml:space="preserve">
+    <value>Try again, or get help accessing your account.</value>
+  </data>
+  <data name="Try again in a moment. If the problem continues, share this error reference with your administrator." xml:space="preserve">
+    <value>Try again in a moment. If the problem continues, share this error reference with your administrator.</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="Logo" xml:space="preserve">
+    <value>Logo</value>
+  </data>
+  <data name="Show" xml:space="preserve">
+    <value>Show</value>
+  </data>
+  <data name="Hide" xml:space="preserve">
+    <value>Hide</value>
+  </data>
+  <data name="Check your inbox" xml:space="preserve">
+    <value>Check your inbox</value>
+  </data>
+  <data name="Look for a verification email in your inbox. It may take a few minutes to arrive. Check your spam folder too." xml:space="preserve">
+    <value>Look for a verification email in your inbox. It may take a few minutes to arrive. Check your spam folder too.</value>
+  </data>
+  <data name="Look for a password reset email in your inbox. It may take a few minutes to arrive. Check your spam folder too." xml:space="preserve">
+    <value>Look for a password reset email in your inbox. It may take a few minutes to arrive. Check your spam folder too.</value>
+  </data>
+  <data name="Back to login" xml:space="preserve">
+    <value>Back to login</value>
+  </data>
+  <data name="Reset your password" xml:space="preserve">
+    <value>Reset your password</value>
+  </data>
+  <data name="Enter your username or saved email address." xml:space="preserve">
+    <value>Enter your username or saved email address.</value>
+  </data>
+  <data name="Username or email" xml:space="preserve">
+    <value>Username or email</value>
+  </data>
+  <data name="Sending request…" xml:space="preserve">
+    <value>Sending request…</value>
+  </data>
+  <data name="Send verification link" xml:space="preserve">
+    <value>Send verification link</value>
+  </data>
+  <data name="Send reset link" xml:space="preserve">
+    <value>Send reset link</value>
+  </data>
+  <data name="Email requests are unavailable right now. Please wait and try again." xml:space="preserve">
+    <value>Email requests are unavailable right now. Please wait and try again.</value>
+  </data>
+  <data name="The request could not be completed. Please try again." xml:space="preserve">
+    <value>The request could not be completed. Please try again.</value>
+  </data>
+  <data name="Enter your saved email address." xml:space="preserve">
+    <value>Enter your saved email address.</value>
+  </data>
+  <data name="Email verification is unavailable here." xml:space="preserve">
+    <value>Email verification is unavailable here.</value>
+  </data>
+  <data name="Ask your administrator for a recovery code, then enter it with your current password to set up a new authenticator app for two-factor authentication (MFA). This does not reset your password." xml:space="preserve">
+    <value>Ask your administrator for a recovery code, then enter it with your current password to set up a new authenticator app for two-factor authentication (MFA). This does not reset your password.</value>
+  </data>
+  <data name="Recovery code" xml:space="preserve">
+    <value>Recovery code</value>
+  </data>
+  <data name="Continue recovery" xml:space="preserve">
+    <value>Continue recovery</value>
+  </data>
+  <data name="Recovery could not be verified. Check your password and recovery code, or ask the administrator for a new code." xml:space="preserve">
+    <value>Recovery could not be verified. Check your password and recovery code, or ask the administrator for a new code.</value>
+  </data>
+  <data name="Password changed" xml:space="preserve">
+    <value>Password changed</value>
+  </data>
+  <data name="You are still signed in on this device. Other devices will need to sign in again." xml:space="preserve">
+    <value>You are still signed in on this device. Other devices will need to sign in again.</value>
+  </data>
+  <data name="Done" xml:space="preserve">
+    <value>Done</value>
+  </data>
+  <data name="Confirm it's you" xml:space="preserve">
+    <value>Confirm it's you</value>
+  </data>
+  <data name="Enter the 6-digit code from your authenticator app before you choose a new password." xml:space="preserve">
+    <value>Enter the 6-digit code from your authenticator app before you choose a new password.</value>
+  </data>
+  <data name="Confirm your current password" xml:space="preserve">
+    <value>Confirm your current password</value>
+  </data>
+  <data name="Enter the password you use now. Then you can choose a new one." xml:space="preserve">
+    <value>Enter the password you use now. Then you can choose a new one.</value>
+  </data>
+  <data name="Continue" xml:space="preserve">
+    <value>Continue</value>
+  </data>
+  <data name="Choose a new password" xml:space="preserve">
+    <value>Choose a new password</value>
+  </data>
+  <data name="Password changed. Additional account verification is required before signing in." xml:space="preserve">
+    <value>Password changed. Additional account verification is required before signing in.</value>
+  </data>
+  <data name="Additional account verification is required before the password can be changed." xml:space="preserve">
+    <value>Additional account verification is required before the password can be changed.</value>
+  </data>
+  <data name="You must change your password" xml:space="preserve">
+    <value>You must change your password</value>
+  </data>
+  <data name="Cancellation could not be confirmed. Sign in again to check whether the password change completed." xml:space="preserve">
+    <value>Cancellation could not be confirmed. Sign in again to check whether the password change completed.</value>
+  </data>
+  <data name="Your session has expired. Please log in again." xml:space="preserve">
+    <value>Your session has expired. Please log in again.</value>
+  </data>
+  <data name="Replace your authenticator" xml:space="preserve">
+    <value>Replace your authenticator</value>
+  </data>
+  <data name="Set up your authenticator" xml:space="preserve">
+    <value>Set up your authenticator</value>
+  </data>
+  <data name="Authenticator replaced" xml:space="preserve">
+    <value>Authenticator replaced</value>
+  </data>
+  <data name="Authenticator set up" xml:space="preserve">
+    <value>Authenticator set up</value>
+  </data>
+  <data name="Your old authenticator no longer works. From now on, use the new app when you sign in." xml:space="preserve">
+    <value>Your old authenticator no longer works. From now on, use the new app when you sign in.</value>
+  </data>
+  <data name="From now on, sign in with your password and a code from this app." xml:space="preserve">
+    <value>From now on, sign in with your password and a code from this app.</value>
+  </data>
+  <data name="Authenticator recovery is required" xml:space="preserve">
+    <value>Authenticator recovery is required</value>
+  </data>
+  <data name="An administrator reset your authenticator app. Ask them for a recovery code. The next time you sign in, you enter it with your password and then set up a new authenticator app." xml:space="preserve">
+    <value>An administrator reset your authenticator app. Ask them for a recovery code. The next time you sign in, you enter it with your password and then set up a new authenticator app.</value>
+  </data>
+  <data name="Enter your password to start setting up an authenticator app." xml:space="preserve">
+    <value>Enter your password to start setting up an authenticator app.</value>
+  </data>
+  <data name="Confirm your current authenticator" xml:space="preserve">
+    <value>Confirm your current authenticator</value>
+  </data>
+  <data name="Enter a code from the authenticator app you use now. It keeps working until the new one is confirmed." xml:space="preserve">
+    <value>Enter a code from the authenticator app you use now. It keeps working until the new one is confirmed.</value>
+  </data>
+  <data name="Scan the QR code" xml:space="preserve">
+    <value>Scan the QR code</value>
+  </data>
+  <data name="Scan this code with your authenticator app, or enter the setup key by hand. Then enter the 6-digit code the app shows." xml:space="preserve">
+    <value>Scan this code with your authenticator app, or enter the setup key by hand. Then enter the 6-digit code the app shows.</value>
+  </data>
+  <data name="Authenticator setup QR code" xml:space="preserve">
+    <value>Authenticator setup QR code</value>
+  </data>
+  <data name="Setup key" xml:space="preserve">
+    <value>Setup key</value>
+  </data>
+  <data name="Copy setup key" xml:space="preserve">
+    <value>Copy setup key</value>
+  </data>
+  <data name="Code from the new app" xml:space="preserve">
+    <value>Code from the new app</value>
+  </data>
+  <data name="Confirm authenticator" xml:space="preserve">
+    <value>Confirm authenticator</value>
+  </data>
+  <data name="Authenticator updated. Additional account verification is required before signing in." xml:space="preserve">
+    <value>Authenticator updated. Additional account verification is required before signing in.</value>
+  </data>
+  <data name="Additional account verification is required before the authenticator can be changed." xml:space="preserve">
+    <value>Additional account verification is required before the authenticator can be changed.</value>
+  </data>
+  <data name="Cancel setup" xml:space="preserve">
+    <value>Cancel setup</value>
+  </data>
+  <data name="You must set up two-factor authentication to continue" xml:space="preserve">
+    <value>You must set up two-factor authentication to continue</value>
+  </data>
+  <data name="Could not start two-factor setup. Please try again." xml:space="preserve">
+    <value>Could not start two-factor setup. Please try again.</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Retry</value>
+  </data>
+  <data name="Scan the QR code with your authenticator app, then enter the 6-digit code it shows to finish setup." xml:space="preserve">
+    <value>Scan the QR code with your authenticator app, then enter the 6-digit code it shows to finish setup.</value>
+  </data>
+  <data name="Two-factor authentication QR code" xml:space="preserve">
+    <value>Two-factor authentication QR code</value>
+  </data>
+  <data name="Can't scan it? Enter this key manually:" xml:space="preserve">
+    <value>Can't scan it? Enter this key manually:</value>
+  </data>
+  <data name="Code" xml:space="preserve">
+    <value>Code</value>
+  </data>
+  <data name="Verify" xml:space="preserve">
+    <value>Verify</value>
+  </data>
+  <data name="That password or code was not accepted. Try again." xml:space="preserve">
+    <value>That password or code was not accepted. Try again.</value>
+  </data>
+  <data name="Setup could not be confirmed. Sign in again to check which authenticator is active." xml:space="preserve">
+    <value>Setup could not be confirmed. Sign in again to check which authenticator is active.</value>
+  </data>
+  <data name="Enter your authenticator code" xml:space="preserve">
+    <value>Enter your authenticator code</value>
+  </data>
+  <data name="Open your authenticator app and enter the 6-digit code it shows for this account." xml:space="preserve">
+    <value>Open your authenticator app and enter the 6-digit code it shows for this account.</value>
+  </data>
+  <data name="Verifying…" xml:space="preserve">
+    <value>Verifying…</value>
+  </data>
+  <data name="Enter the code from your two-factor authentication app or browser extension below" xml:space="preserve">
+    <value>Enter the code from your two-factor authentication app or browser extension below</value>
+  </data>
+  <data name="Invalid code" xml:space="preserve">
+    <value>Invalid code</value>
+  </data>
+  <data name="Recover authenticator" xml:space="preserve">
+    <value>Recover authenticator</value>
+  </data>
+  <data name="Help a user recover their authenticator" xml:space="preserve">
+    <value>Help a user recover their authenticator</value>
+  </data>
+  <data name="First confirm the person's identity using your team's procedure. Record the support ticket or a short note below. Shift saves this note for audit but cannot verify whether it is true." xml:space="preserve">
+    <value>First confirm the person's identity using your team's procedure. Record the support ticket or a short note below. Shift saves this note for audit but cannot verify whether it is true.</value>
+  </data>
+  <data name="Issuing a recovery code disables the old authenticator. Local sign-in waits until the user completes recovery. The generated recovery code is separate from this note; give it to the verified person privately." xml:space="preserve">
+    <value>Issuing a recovery code disables the old authenticator. Local sign-in waits until the user completes recovery. The generated recovery code is separate from this note; give it to the verified person privately.</value>
+  </data>
+  <data name="Support ticket or identity-check note" xml:space="preserve">
+    <value>Support ticket or identity-check note</value>
+  </data>
+  <data name="Issue recovery code" xml:space="preserve">
+    <value>Issue recovery code</value>
+  </data>
+  <data name="Recovery code issued" xml:space="preserve">
+    <value>Recovery code issued</value>
+  </data>
+  <data name="Give this code to the verified person through your established private channel. It can be used once and expires at:" xml:space="preserve">
+    <value>Give this code to the verified person through your established private channel. It can be used once and expires at:</value>
+  </data>
+  <data name="Copied" xml:space="preserve">
+    <value>Copied</value>
+  </data>
+  <data name="Copy code" xml:space="preserve">
+    <value>Copy code</value>
+  </data>
+  <data name="The user signs in with their username and password." xml:space="preserve">
+    <value>The user signs in with their username and password.</value>
+  </data>
+  <data name="They enter their password again, with this code." xml:space="preserve">
+    <value>They enter their password again, with this code.</value>
+  </data>
+  <data name="They set up a new authenticator app." xml:space="preserve">
+    <value>They set up a new authenticator app.</value>
+  </data>
+  <data name="Hide code" xml:space="preserve">
+    <value>Hide code</value>
+  </data>
+  <data name="Sign in again before issuing a recovery code." xml:space="preserve">
+    <value>Sign in again before issuing a recovery code.</value>
+  </data>
+  <data name="You need the Manage MFA Recovery permission to issue a recovery code, and you cannot issue one for your own account." xml:space="preserve">
+    <value>You need the Manage MFA Recovery permission to issue a recovery code, and you cannot issue one for your own account.</value>
+  </data>
+  <data name="This account is inactive or deleted, so its authenticator cannot be recovered." xml:space="preserve">
+    <value>This account is inactive or deleted, so its authenticator cannot be recovered.</value>
+  </data>
+  <data name="This account changed meanwhile. Close this window, open the user again and retry." xml:space="preserve">
+    <value>This account changed meanwhile. Close this window, open the user again and retry.</value>
+  </data>
+  <data name="The recovery service is unavailable. Wait a moment and try again." xml:space="preserve">
+    <value>The recovery service is unavailable. Wait a moment and try again.</value>
+  </data>
+  <data name="Confirm your password when you are asked, then issue the code again." xml:space="preserve">
+    <value>Confirm your password when you are asked, then issue the code again.</value>
+  </data>
+  <data name="Recovery issuance could not be confirmed. Check your permission and sign in again. A lost response may require issuing a new code." xml:space="preserve">
+    <value>Recovery issuance could not be confirmed. Check your permission and sign in again. A lost response may require issuing a new code.</value>
+  </data>
+  <data name="Enroll Two Factor" xml:space="preserve">
+    <value>Enroll Two Factor</value>
+  </data>
+  <data name="Authenticator recovery is required. Contact your administrator." xml:space="preserve">
+    <value>Authenticator recovery is required. Contact your administrator.</value>
+  </data>
+  <data name="Authenticator" xml:space="preserve">
+    <value>Authenticator</value>
+  </data>
+  <data name="Replace authenticator" xml:space="preserve">
+    <value>Replace authenticator</value>
+  </data>
+  <data name="Set up authenticator" xml:space="preserve">
+    <value>Set up authenticator</value>
+  </data>
+  <data name="Send Email Verification" xml:space="preserve">
+    <value>Send Email Verification</value>
+  </data>
+  <data name="Authenticator App (TOTP)" xml:space="preserve">
+    <value>Authenticator App (TOTP)</value>
+  </data>
+  <data name="Recovery required" xml:space="preserve">
+    <value>Recovery required</value>
+  </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Enabled</value>
+  </data>
+  <data name="Not set up" xml:space="preserve">
+    <value>Not set up</value>
+  </data>
+  <data name="This user cannot sign in until they recover their authenticator app with a recovery code from an administrator." xml:space="preserve">
+    <value>This user cannot sign in until they recover their authenticator app with a recovery code from an administrator.</value>
+  </data>
+  <data name="View Effective Permissions" xml:space="preserve">
+    <value>View Effective Permissions</value>
+  </data>
+  <data name="Effective Permissions" xml:space="preserve">
+    <value>Effective Permissions</value>
+  </data>
+  <data name="Password Length" xml:space="preserve">
+    <value>Password Length</value>
+  </data>
+  <data name="Reset TOTP" xml:space="preserve">
+    <value>Reset TOTP</value>
+  </data>
+  <data name="TOTP" xml:space="preserve">
+    <value>TOTP</value>
+  </data>
+  <data name="Recovery required: this user cannot sign in until they recover their authenticator app" xml:space="preserve">
+    <value>Recovery required: this user cannot sign in until they recover their authenticator app</value>
+  </data>
+  <data name="Authenticator app (TOTP) is set up" xml:space="preserve">
+    <value>Authenticator app (TOTP) is set up</value>
+  </data>
+  <data name="No authenticator app (TOTP)" xml:space="preserve">
+    <value>No authenticator app (TOTP)</value>
+  </data>
+  <data name="Use 15–128 characters. Spaces and Unicode are allowed. Choose a different password that is not common or based on your username." xml:space="preserve">
+    <value>Use 15–128 characters. Spaces and Unicode are allowed. Choose a different password that is not common or based on your username.</value>
+  </data>
+  <data name="The password must be at least 15 characters long" xml:space="preserve">
+    <value>The password must be at least 15 characters long</value>
+  </data>
+  <data name="The password must not be longer than 128 characters" xml:space="preserve">
+    <value>The password must not be longer than 128 characters</value>
+  </data>
+  <data name="The password contains characters that are not allowed" xml:space="preserve">
+    <value>The password contains characters that are not allowed</value>
+  </data>
+  <data name="This password is too common or based on the username" xml:space="preserve">
+    <value>This password is too common or based on the username</value>
+  </data>
+  <data name="This field is required." xml:space="preserve">
+    <value>This field is required.</value>
+  </data>
+  <data name="This value is too short." xml:space="preserve">
+    <value>This value is too short.</value>
+  </data>
+  <data name="This value is too long." xml:space="preserve">
+    <value>This value is too long.</value>
+  </data>
+  <data name="This value is not valid." xml:space="preserve">
+    <value>This value is not valid.</value>
+  </data>
+  <data name="Passwords must match." xml:space="preserve">
+    <value>Passwords must match.</value>
+  </data>
+  <data name="Enter the code the app shows, using digits only." xml:space="preserve">
+    <value>Enter the code the app shows, using digits only.</value>
+  </data>
+  <data name="Choose a password different from your current password." xml:space="preserve">
+    <value>Choose a password different from your current password.</value>
+  </data>
+  <data name="This password is too common or based on your username. Choose another." xml:space="preserve">
+    <value>This password is too common or based on your username. Choose another.</value>
+  </data>
+  <data name="The operation could not be completed. Sign in again to check your password; a lost response may follow a completed change." xml:space="preserve">
+    <value>The operation could not be completed. Sign in again to check your password; a lost response may follow a completed change.</value>
+  </data>
+  <data name="Checking your link…" xml:space="preserve">
+    <value>Checking your link…</value>
+  </data>
+  <data name="For {0}" xml:space="preserve">
+    <value>For {0}</value>
+  </data>
+  <data name="Opening this page does not verify your email. Confirm that this email address belongs to you." xml:space="preserve">
+    <value>Opening this page does not verify your email. Confirm that this email address belongs to you.</value>
+  </data>
+  <data name="Verify my email" xml:space="preserve">
+    <value>Verify my email</value>
+  </data>
+  <data name="Your authenticator and recovery requirements still apply after resetting your password." xml:space="preserve">
+    <value>Your authenticator and recovery requirements still apply after resetting your password.</value>
+  </data>
+  <data name="Your email is verified. You can now return to login." xml:space="preserve">
+    <value>Your email is verified. You can now return to login.</value>
+  </data>
+  <data name="Return to login" xml:space="preserve">
+    <value>Return to login</value>
+  </data>
+  <data name="Request a new link" xml:space="preserve">
+    <value>Request a new link</value>
+  </data>
+  <data name="This link is invalid, expired or has been replaced. Request a new link." xml:space="preserve">
+    <value>This link is invalid, expired or has been replaced. Request a new link.</value>
+  </data>
+  <data name="The link could not be opened. Please reopen it and try again." xml:space="preserve">
+    <value>The link could not be opened. Please reopen it and try again.</value>
+  </data>
+  <data name="Choose a password that meets the password requirements and try again." xml:space="preserve">
+    <value>Choose a password that meets the password requirements and try again.</value>
+  </data>
+  <data name="Verification could not be confirmed. The link may have expired or been replaced. Request a new link." xml:space="preserve">
+    <value>Verification could not be confirmed. The link may have expired or been replaced. Request a new link.</value>
+  </data>
+  <data name="The change could not be confirmed. The link may have expired or been replaced. Request a new link; if you just reset your password, try signing in with the new password first." xml:space="preserve">
+    <value>The change could not be confirmed. The link may have expired or been replaced. Request a new link; if you just reset your password, try signing in with the new password first.</value>
+  </data>
+  <data name="Confirm your identity" xml:space="preserve">
+    <value>Confirm your identity</value>
+  </data>
+  <data name="Confirm your current administrator account to continue. Your edits and selection will stay here." xml:space="preserve">
+    <value>Confirm your current administrator account to continue. Your edits and selection will stay here.</value>
+  </data>
+  <data name="Your password" xml:space="preserve">
+    <value>Your password</value>
+  </data>
+  <data name="Authenticator code" xml:space="preserve">
+    <value>Authenticator code</value>
+  </data>
+  <data name="Confirm and continue" xml:space="preserve">
+    <value>Confirm and continue</value>
+  </data>
+  <data name="The password or authenticator code was not accepted. Check it and try again." xml:space="preserve">
+    <value>The password or authenticator code was not accepted. Check it and try again.</value>
+  </data>
+  <data name="Too many attempts. Cancel and try again later." xml:space="preserve">
+    <value>Too many attempts. Cancel and try again later.</value>
+  </data>
+  <data name="Confirmation could not be completed. Your action has not been retried. Cancel and try again later." xml:space="preserve">
+    <value>Confirmation could not be completed. Your action has not been retried. Cancel and try again later.</value>
+  </data>
+  <data name="Your session or account changed, or confirmation expired. Cancel and review your session before trying again." xml:space="preserve">
+    <value>Your session or account changed, or confirmation expired. Cancel and review your session before trying again.</value>
+  </data>
+  <data name="Send password reset link" xml:space="preserve">
+    <value>Send password reset link</value>
+  </data>
+  <data name="If the saved address is eligible, check its inbox. Wait before requesting another link." xml:space="preserve">
+    <value>If the saved address is eligible, check its inbox. Wait before requesting another link.</value>
+  </data>
+  <data name="The send could not be confirmed. Check the recipient's inbox, wait and request a fresh link." xml:space="preserve">
+    <value>The send could not be confirmed. Check the recipient's inbox, wait and request a fresh link.</value>
+  </data>
+  <data name="The request could not be completed. Check your session and Users write permission before sending links." xml:space="preserve">
+    <value>The request could not be completed. Check your session and Users write permission before sending links.</value>
+  </data>
+  <data name="Check your saved email inbox. Wait before requesting another link." xml:space="preserve">
+    <value>Check your saved email inbox. Wait before requesting another link.</value>
+  </data>
+  <data name="The send could not be confirmed. Check your inbox, wait and retry; sign in again if your session is no longer accepted." xml:space="preserve">
+    <value>The send could not be confirmed. Check your inbox, wait and retry; sign in again if your session is no longer accepted.</value>
+  </data>
+  <data name="The user was saved, but the verification send could not be confirmed. Check the recipient's inbox, wait and request a fresh link." xml:space="preserve">
+    <value>The user was saved, but the verification send could not be confirmed. Check the recipient's inbox, wait and request a fresh link.</value>
+  </data>
+  <data name="The Password for ({0}) users has been reseted." xml:space="preserve">
+    <value>The Password for ({0}) users has been reseted.</value>
+  </data>
+  <data name="Password Reset Results" xml:space="preserve">
+    <value>Password Reset Results</value>
+  </data>
+  <data name="An error occurred while resetting the password." xml:space="preserve">
+    <value>An error occurred while resetting the password.</value>
+  </data>
+  <data name="TOTP Authentication was reset for ({0}) users." xml:space="preserve">
+    <value>TOTP Authentication was reset for ({0}) users.</value>
+  </data>
+  <data name="An error occurred while resetting TOTP Authentication." xml:space="preserve">
+    <value>An error occurred while resetting TOTP Authentication.</value>
+  </data>
+  <data name="Verification links requested. Eligible recipients should check their saved email inboxes." xml:space="preserve">
+    <value>Verification links requested. Eligible recipients should check their saved email inboxes.</value>
+  </data>
+  <data name="The verification link send throw email for ({0}) users." xml:space="preserve">
+    <value>The verification link send throw email for ({0}) users.</value>
+  </data>
+  <data name="An error occurred while verifying the email." xml:space="preserve">
+    <value>An error occurred while verifying the email.</value>
+  </data>
+  <data name="The Phone for ({0}) users has been verified." xml:space="preserve">
+    <value>The Phone for ({0}) users has been verified.</value>
+  </data>
+  <data name="An error occurred while verifying the phone." xml:space="preserve">
+    <value>An error occurred while verifying the phone.</value>
+  </data>
+  <data name="Forbidden" xml:space="preserve">
+    <value>Forbidden</value>
+  </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>Not Found</value>
+  </data>
+  <data name="Conflict" xml:space="preserve">
+    <value>Conflict</value>
+  </data>
+  <data name="Unauthorized" xml:space="preserve">
+    <value>Unauthorized</value>
+  </data>
+  <data name="Use your own profile to change your own account." xml:space="preserve">
+    <value>Use your own profile to change your own account.</value>
+  </data>
+  <data name="User not found" xml:space="preserve">
+    <value>User not found</value>
+  </data>
+  <data name="This user changed meanwhile. Reload the user and try again." xml:space="preserve">
+    <value>This user changed meanwhile. Reload the user and try again.</value>
+  </data>
+  <data name="Another account already uses this email." xml:space="preserve">
+    <value>Another account already uses this email.</value>
+  </data>
+  <data name="Another account already uses this username." xml:space="preserve">
+    <value>Another account already uses this username.</value>
+  </data>
+  <data name="Check the entered value and try again." xml:space="preserve">
+    <value>Check the entered value and try again.</value>
+  </data>
+  <data name="The change could not be saved. Please wait and try again." xml:space="preserve">
+    <value>The change could not be saved. Please wait and try again.</value>
+  </data>
+  <data name="Sign in again before changing this account." xml:space="preserve">
+    <value>Sign in again before changing this account.</value>
+  </data>
+  <data name="Your sign-in is too old for this change. Sign in again and retry." xml:space="preserve">
+    <value>Your sign-in is too old for this change. Sign in again and retry.</value>
+  </data>
+  <data name="Confirm your password and applicable MFA to continue this change." xml:space="preserve">
+    <value>Confirm your password and applicable MFA to continue this change.</value>
+  </data>
+  <data name="Your account is not available for this change." xml:space="preserve">
+    <value>Your account is not available for this change.</value>
+  </data>
+  <data name="You do not have permission to change this account." xml:space="preserve">
+    <value>You do not have permission to change this account.</value>
+  </data>
+  <data name="Only an administrator can change your username." xml:space="preserve">
+    <value>Only an administrator can change your username.</value>
+  </data>
+  <data name="Additional authentication required" xml:space="preserve">
+    <value>Additional authentication required</value>
+  </data>
+  <data name="Use the contact change flow to change your email or phone." xml:space="preserve">
+    <value>Use the contact change flow to change your email or phone.</value>
+  </data>
+  <data name="Invalid token" xml:space="preserve">
+    <value>Invalid token</value>
+  </data>
+  <data name="Two Factor Code" xml:space="preserve">
+    <value>Two Factor Code</value>
+  </data>
+  <data name="The Integration ID {0} already exists" xml:space="preserve">
+    <value>The Integration ID {0} already exists</value>
+  </data>
+  <data name="Latitude must be between -90 and 90" xml:space="preserve">
+    <value>Latitude must be between -90 and 90</value>
+  </data>
+  <data name="Longitude must be between -180 and 180" xml:space="preserve">
+    <value>Longitude must be between -180 and 180</value>
+  </data>
+  <data name="Region Feature is locked" xml:space="preserve">
+    <value>Region Feature is locked</value>
+  </data>
+  <data name="Company Branch Feature is locked" xml:space="preserve">
+    <value>Company Branch Feature is locked</value>
+  </data>
+  <data name="Company Calendar feature is locked." xml:space="preserve">
+    <value>Company Calendar feature is locked.</value>
+  </data>
+  <data name="Access" xml:space="preserve">
+    <value>Access</value>
+  </data>
+  <data name="any row" xml:space="preserve">
+    <value>any row</value>
+  </data>
+  <data name="Actions" xml:space="preserve">
+    <value>Actions</value>
+  </data>
+  <data name="Text actions are not searchable" xml:space="preserve">
+    <value>Text actions are not searchable</value>
+  </data>
+  <data name="Combined permissions from the user's access trees and user-specific access." xml:space="preserve">
+    <value>Combined permissions from the user's access trees and user-specific access.</value>
+  </data>
+  <data name="An error occurred while loading the permissions" xml:space="preserve">
+    <value>An error occurred while loading the permissions</value>
+  </data>
+  <data name="Reverse TypeAuth Lookup" xml:space="preserve">
+    <value>Reverse TypeAuth Lookup</value>
+  </data>
+  <data name="Click an access level on any action below to list all active users who have that access." xml:space="preserve">
+    <value>Click an access level on any action below to list all active users who have that access.</value>
+  </data>
+  <data name="Matching users" xml:space="preserve">
+    <value>Matching users</value>
+  </data>
+  <data name="Matching access trees" xml:space="preserve">
+    <value>Matching access trees</value>
+  </data>
+  <data name="No results." xml:space="preserve">
+    <value>No results.</value>
+  </data>
+  <data name="No users match this access." xml:space="preserve">
+    <value>No users match this access.</value>
+  </data>
+  <data name="No access trees match this access." xml:space="preserve">
+    <value>No access trees match this access.</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="Granted By" xml:space="preserve">
+    <value>Granted By</value>
+  </data>
+  <data name="Assigned Users" xml:space="preserve">
+    <value>Assigned Users</value>
+  </data>
+  <data name="Export CSV" xml:space="preserve">
+    <value>Export CSV</value>
+  </data>
+  <data name="Request failed" xml:space="preserve">
+    <value>Request failed</value>
+  </data>
+  <data name="Direct" xml:space="preserve">
+    <value>Direct</value>
+  </data>
+  <data name="Calendar" xml:space="preserve">
+    <value>Calendar</value>
+  </data>
+  <data name="Calendar Entries" xml:space="preserve">
+    <value>Calendar Entries</value>
+  </data>
+  <data name="Pull Live Data" xml:space="preserve">
+    <value>Pull Live Data</value>
+  </data>
+  <data name="Display Order" xml:space="preserve">
+    <value>Display Order</value>
+  </data>
+  <data name="Phone Numbers" xml:space="preserve">
+    <value>Phone Numbers</value>
+  </data>
+  <data name="Tag" xml:space="preserve">
+    <value>Tag</value>
+  </data>
+  <data name="Tags" xml:space="preserve">
+    <value>Tags</value>
+  </data>
+  <data name="Add a Phone Number" xml:space="preserve">
+    <value>Add a Phone Number</value>
+  </data>
+  <data name="Email Addresses" xml:space="preserve">
+    <value>Email Addresses</value>
+  </data>
+  <data name="Add an Email" xml:space="preserve">
+    <value>Add an Email</value>
+  </data>
+  <data name="Company TerminationDate" xml:space="preserve">
+    <value>Company Termination Date</value>
+  </data>
+  <data name="Mobile App" xml:space="preserve">
+    <value>Mobile App</value>
+  </data>
+  <data name="Chat Bot" xml:space="preserve">
+    <value>Chat Bot</value>
+  </data>
+  <data name="Company Calendar Entry" xml:space="preserve">
+    <value>Company Calendar Entry</value>
+  </data>
+  <data name="Company Calendar Entries" xml:space="preserve">
+    <value>Company Calendar Entries</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Title</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="Entry Type" xml:space="preserve">
+    <value>Entry Type</value>
+  </data>
+  <data name="Workday" xml:space="preserve">
+    <value>Workday</value>
+  </data>
+  <data name="Holiday" xml:space="preserve">
+    <value>Holiday</value>
+  </data>
+  <data name="Start Date" xml:space="preserve">
+    <value>Start Date</value>
+  </data>
+  <data name="End Date" xml:space="preserve">
+    <value>End Date</value>
+  </data>
+  <data name="Priority" xml:space="preserve">
+    <value>Priority</value>
+  </data>
+  <data name="Shift Groups" xml:space="preserve">
+    <value>Shift Groups</value>
+  </data>
+  <data name="Shifts" xml:space="preserve">
+    <value>Shifts</value>
+  </data>
+  <data name="Shift Title" xml:space="preserve">
+    <value>Shift Title</value>
+  </data>
+  <data name="Start Time" xml:space="preserve">
+    <value>Start Time</value>
+  </data>
+  <data name="End Time" xml:space="preserve">
+    <value>End Time</value>
+  </data>
+  <data name="Weekend Groups" xml:space="preserve">
+    <value>Weekend Groups</value>
+  </data>
+  <data name="Weekend Rules" xml:space="preserve">
+    <value>Weekend Rules</value>
+  </data>
+  <data name="Day" xml:space="preserve">
+    <value>Day</value>
+  </data>
+  <data name="Days of Week" xml:space="preserve">
+    <value>Days of Week</value>
+  </data>
+  <data name="Repeat Every N Weeks" xml:space="preserve">
+    <value>Repeat Every N Weeks</value>
+  </data>
+  <data name="Skip Cycles" xml:space="preserve">
+    <value>Skip Cycles</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Today</value>
+  </data>
+  <data name="more" xml:space="preserve">
+    <value>more</value>
+  </data>
+  <data name="Sun" xml:space="preserve">
+    <value>Sun</value>
+  </data>
+  <data name="Mon" xml:space="preserve">
+    <value>Mon</value>
+  </data>
+  <data name="Tue" xml:space="preserve">
+    <value>Tue</value>
+  </data>
+  <data name="Wed" xml:space="preserve">
+    <value>Wed</value>
+  </data>
+  <data name="Thu" xml:space="preserve">
+    <value>Thu</value>
+  </data>
+  <data name="Fri" xml:space="preserve">
+    <value>Fri</value>
+  </data>
+  <data name="Sat" xml:space="preserve">
+    <value>Sat</value>
+  </data>
+  <data name="Turn off MFA" xml:space="preserve">
+    <value>Turn off MFA</value>
+  </data>
+  <data name="Turn off MFA for this user" xml:space="preserve">
+    <value>Turn off MFA for this user</value>
+  </data>
+  <data name="The user will sign in with their password only and is signed out on every device. They can set up an authenticator again from their profile." xml:space="preserve">
+    <value>The user will sign in with their password only and is signed out on every device. They can set up an authenticator again from their profile.</value>
+  </data>
+  <data name="This also ends the recovery the user is waiting for. A recovery code already given to them stops working." xml:space="preserve">
+    <value>This also ends the recovery the user is waiting for. A recovery code already given to them stops working.</value>
+  </data>
+  <data name="If the user lost or replaced their phone, use Recover authenticator instead: it keeps MFA on. Turn MFA off only when you have confirmed that the user asked for it. Record the support ticket or a short note below; Shift saves it for audit." xml:space="preserve">
+    <value>If the user lost or replaced their phone, use Recover authenticator instead: it keeps MFA on. Turn MFA off only when you have confirmed that the user asked for it. Record the support ticket or a short note below; Shift saves it for audit.</value>
+  </data>
+  <data name="MFA turned off" xml:space="preserve">
+    <value>MFA turned off</value>
+  </data>
+  <data name="MFA was already off" xml:space="preserve">
+    <value>MFA was already off</value>
+  </data>
+  <data name="The user now signs in with their password only." xml:space="preserve">
+    <value>The user now signs in with their password only.</value>
+  </data>
+  <data name="Sign in again before turning off MFA." xml:space="preserve">
+    <value>Sign in again before turning off MFA.</value>
+  </data>
+  <data name="MFA cannot be turned off here. It may be mandatory on this system, or you lack the Manage MFA Recovery permission. For your own account, use your profile." xml:space="preserve">
+    <value>MFA cannot be turned off here. It may be mandatory on this system, or you lack the Manage MFA Recovery permission. For your own account, use your profile.</value>
+  </data>
+  <data name="This account is deleted, so its MFA cannot be changed." xml:space="preserve">
+    <value>This account is deleted, so its MFA cannot be changed.</value>
+  </data>
+  <data name="The service is unavailable. Wait a moment and try again." xml:space="preserve">
+    <value>The service is unavailable. Wait a moment and try again.</value>
+  </data>
+  <data name="Confirm your password when you are asked, then turn off MFA again." xml:space="preserve">
+    <value>Confirm your password when you are asked, then turn off MFA again.</value>
+  </data>
+  <data name="Turning off MFA could not be confirmed. Open the user again to see whether it is still on." xml:space="preserve">
+    <value>Turning off MFA could not be confirmed. Open the user again to see whether it is still on.</value>
+  </data>
+  <data name="Opt out of MFA" xml:space="preserve">
+    <value>Opt out of MFA</value>
+  </data>
+  <data name="Enter a code from your authenticator app. After that you sign in with your password only, and you are signed out on your other devices." xml:space="preserve">
+    <value>Enter a code from your authenticator app. After that you sign in with your password only, and you are signed out on your other devices.</value>
+  </data>
+  <data name="Opt out" xml:space="preserve">
+    <value>Opt out</value>
+  </data>
+  <data name="MFA is off" xml:space="preserve">
+    <value>MFA is off</value>
+  </data>
+  <data name="Sign in again with your password to continue." xml:space="preserve">
+    <value>Sign in again with your password to continue.</value>
+  </data>
+  <data name="You now sign in with your password only. To use an authenticator again, choose Set up authenticator on your profile." xml:space="preserve">
+    <value>You now sign in with your password only. To use an authenticator again, choose Set up authenticator on your profile.</value>
+  </data>
+  <data name="That code was not accepted. Wait for a new code and try again." xml:space="preserve">
+    <value>That code was not accepted. Wait for a new code and try again.</value>
+  </data>
+  <data name="Too many attempts. Wait a few minutes and try again." xml:space="preserve">
+    <value>Too many attempts. Wait a few minutes and try again.</value>
+  </data>
+  <data name="MFA is required on this system, so it cannot be turned off." xml:space="preserve">
+    <value>MFA is required on this system, so it cannot be turned off.</value>
+  </data>
+  <data name="Opting out could not be confirmed. Sign in again to check whether MFA is still on." xml:space="preserve">
+    <value>Opting out could not be confirmed. Sign in again to check whether MFA is still on.</value>
+  </data>
 </root>

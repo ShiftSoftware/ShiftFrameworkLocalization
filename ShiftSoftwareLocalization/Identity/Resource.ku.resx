@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Website" xml:space="preserve">
-    <value />
+    <value>ماڵپەڕ</value>
   </data>
   <data name="Parent company and the child company should not be the same" xml:space="preserve">
-    <value />
+    <value>کۆمپانیای دایک و کۆمپانیای لق نابێت هەمان کۆمپانیا بن</value>
   </data>
   <data name="Circular reference is not allowed" xml:space="preserve">
-    <value />
+    <value>ئاماژەی بازنەیی ڕێگەپێنەدراوە</value>
   </data>
   <data name="Parent Company" xml:space="preserve">
-    <value />
+    <value>کۆمپانیای دایک</value>
   </data>
   <data name="TerminationDate" xml:space="preserve">
-    <value />
+    <value>بەرواری کۆتاییهاتن</value>
   </data>
   <data name="Permissions" xml:space="preserve">
     <value>دەسەڵاتەکان</value>
@@ -218,5 +218,1379 @@
   </data>
   <data name="The Redirect URI cannot end with / or /Auth/Token" xml:space="preserve">
     <value>بەستەری ئاراستەکردنەوە ناتوانێت بە / یان /Auth/Token کۆتایی بێت</value>
+  </data>
+  <data name="Can't access your account?" xml:space="preserve">
+    <value>ناتوانیت بچیتە ناو هەژمارەکەتەوە؟</value>
+  </data>
+  <data name="Choose how you'd like to get back in." xml:space="preserve">
+    <value>ڕێگایەک هەڵبژێرە بۆ گەڕانەوە بۆ ناو هەژمارەکەت.</value>
+  </data>
+  <data name="Forgot password" xml:space="preserve">
+    <value>وشەی نهێنیم لەبیرچووە</value>
+  </data>
+  <data name="Get a password reset link by email." xml:space="preserve">
+    <value>لینکی ڕێکخستنەوەی وشەی نهێنی لە ڕێگەی ئیمەیڵەوە وەربگرە.</value>
+  </data>
+  <data name="Recover your authenticator app" xml:space="preserve">
+    <value>ئەپی ناسینەوەکەت بگەڕێنەوە</value>
+  </data>
+  <data name="Restore two-factor authentication (MFA) using your current password and an admin recovery code." xml:space="preserve">
+    <value>ناسینەوەی دوو هەنگاوی (MFA) بگەڕێنەوە بە بەکارهێنانی وشەی نهێنیی ئێستات و کۆدێکی گەڕاندنەوە لە بەڕێوەبەرەوە.</value>
+  </data>
+  <data name="Verify your email" xml:space="preserve">
+    <value>ئیمەیڵەکەت پشتڕاست بکەرەوە</value>
+  </data>
+  <data name="Verify your saved email address before signing in." xml:space="preserve">
+    <value>پێش چوونەژوورەوە، ناونیشانی ئیمەیڵە پاشەکەوتکراوەکەت پشتڕاست بکەرەوە.</value>
+  </data>
+  <data name="Send email verification link" xml:space="preserve">
+    <value>لینکی پشتڕاستکردنەوەی ئیمەیڵ بنێرە</value>
+  </data>
+  <data name="Additional account verification is required before signing in." xml:space="preserve">
+    <value>پێش چوونەژوورەوە، پشتڕاستکردنەوەی زیاتری هەژمار پێویستە.</value>
+  </data>
+  <data name="Error reference" xml:space="preserve">
+    <value>کۆدی هەڵە</value>
+  </data>
+  <data name="Signing in…" xml:space="preserve">
+    <value>خەریکی چوونەژوورەوەیە…</value>
+  </data>
+  <data name="Authenticator recovery completed. Sign in with your password and a new code from your authenticator." xml:space="preserve">
+    <value>گەڕاندنەوەی ئەپی ناسینەوە تەواو بوو. بە وشەی نهێنییەکەت و کۆدێکی نوێ لە ئەپی ناسینەوەکەتەوە بچۆ ژوورەوە.</value>
+  </data>
+  <data name="Password reset. Sign in with your new password." xml:space="preserve">
+    <value>وشەی نهێنی ڕێکخرایەوە. بە وشەی نهێنییە نوێیەکەت بچۆ ژوورەوە.</value>
+  </data>
+  <data name="Cancellation could not be confirmed. Sign in again to check whether the security change completed." xml:space="preserve">
+    <value>هەڵوەشاندنەوەکە پشتڕاست نەکرایەوە. دووبارە بچۆ ژوورەوە بۆ ئەوەی بزانیت گۆڕانکارییە ئاسایشییەکە تەواو بووە یان نا.</value>
+  </data>
+  <data name="Sign-in could not be completed. Try again." xml:space="preserve">
+    <value>چوونەژوورەوە تەواو نەکرا. دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="We couldn't reach the sign-in service." xml:space="preserve">
+    <value>نەمانتوانی پەیوەندی بە خزمەتگوزاریی چوونەژوورەوەوە بکەین.</value>
+  </data>
+  <data name="Username or password is incorrect." xml:space="preserve">
+    <value>ناوی بەکارهێنەر یان وشەی نهێنی هەڵەیە.</value>
+  </data>
+  <data name="We couldn't sign you in." xml:space="preserve">
+    <value>نەمانتوانی چوونەژوورەوەکەت تەواو بکەین.</value>
+  </data>
+  <data name="Check your connection and try again in a moment." xml:space="preserve">
+    <value>پەیوەندیی ئینتەرنێتەکەت بپشکنە و دوای کەمێک دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Try again, or get help accessing your account." xml:space="preserve">
+    <value>دووبارە هەوڵ بدەرەوە، یان یارمەتی وەربگرە بۆ چوونە ناو هەژمارەکەت.</value>
+  </data>
+  <data name="Try again in a moment. If the problem continues, share this error reference with your administrator." xml:space="preserve">
+    <value>دوای کەمێک دووبارە هەوڵ بدەرەوە. ئەگەر کێشەکە بەردەوام بوو، ئەم کۆدی هەڵەیە بدە بە بەڕێوەبەرەکەت.</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>داخستن</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>گەڕانەوە</value>
+  </data>
+  <data name="Logo" xml:space="preserve">
+    <value>لۆگۆ</value>
+  </data>
+  <data name="Show" xml:space="preserve">
+    <value>پیشاندان</value>
+  </data>
+  <data name="Hide" xml:space="preserve">
+    <value>شاردنەوە</value>
+  </data>
+  <data name="Check your inbox" xml:space="preserve">
+    <value>سندووقی ئیمەیڵەکەت بپشکنە</value>
+  </data>
+  <data name="Look for a verification email in your inbox. It may take a few minutes to arrive. Check your spam folder too." xml:space="preserve">
+    <value>لە سندووقی ئیمەیڵەکەتدا بەدوای ئیمەیڵی پشتڕاستکردنەوەدا بگەڕێ. لەوانەیە چەند خولەکێک بخایەنێت تا بگات. فۆڵدەری سپامیش بپشکنە.</value>
+  </data>
+  <data name="Look for a password reset email in your inbox. It may take a few minutes to arrive. Check your spam folder too." xml:space="preserve">
+    <value>لە سندووقی ئیمەیڵەکەتدا بەدوای ئیمەیڵی ڕێکخستنەوەی وشەی نهێنیدا بگەڕێ. لەوانەیە چەند خولەکێک بخایەنێت تا بگات. فۆڵدەری سپامیش بپشکنە.</value>
+  </data>
+  <data name="Back to login" xml:space="preserve">
+    <value>گەڕانەوە بۆ چوونەژوورەوە</value>
+  </data>
+  <data name="Reset your password" xml:space="preserve">
+    <value>وشەی نهێنییەکەت ڕێکبخەرەوە</value>
+  </data>
+  <data name="Enter your username or saved email address." xml:space="preserve">
+    <value>ناوی بەکارهێنەر یان ناونیشانی ئیمەیڵە پاشەکەوتکراوەکەت بنووسە.</value>
+  </data>
+  <data name="Username or email" xml:space="preserve">
+    <value>ناوی بەکارهێنەر یان ئیمەیڵ</value>
+  </data>
+  <data name="Sending request…" xml:space="preserve">
+    <value>داواکارییەکە دەنێردرێت…</value>
+  </data>
+  <data name="Send verification link" xml:space="preserve">
+    <value>لینکی پشتڕاستکردنەوە بنێرە</value>
+  </data>
+  <data name="Send reset link" xml:space="preserve">
+    <value>لینکی ڕێکخستنەوە بنێرە</value>
+  </data>
+  <data name="Email requests are unavailable right now. Please wait and try again." xml:space="preserve">
+    <value>ئێستا داواکاریی ئیمەیڵ بەردەست نییە. تکایە چاوەڕێ بکە و دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="The request could not be completed. Please try again." xml:space="preserve">
+    <value>داواکارییەکە تەواو نەکرا. تکایە دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Enter your saved email address." xml:space="preserve">
+    <value>ناونیشانی ئیمەیڵە پاشەکەوتکراوەکەت بنووسە.</value>
+  </data>
+  <data name="Email verification is unavailable here." xml:space="preserve">
+    <value>پشتڕاستکردنەوەی ئیمەیڵ لێرە بەردەست نییە.</value>
+  </data>
+  <data name="Ask your administrator for a recovery code, then enter it with your current password to set up a new authenticator app for two-factor authentication (MFA). This does not reset your password." xml:space="preserve">
+    <value>داوای کۆدێکی گەڕاندنەوە لە بەڕێوەبەرەکەت بکە، پاشان لەگەڵ وشەی نهێنیی ئێستات بینووسە بۆ ئەوەی ئەپێکی نوێی ناسینەوە بۆ ناسینەوەی دوو هەنگاوی (MFA) ڕێکبخەیت. ئەمە وشەی نهێنییەکەت ڕێکناخاتەوە.</value>
+  </data>
+  <data name="Recovery code" xml:space="preserve">
+    <value>کۆدی گەڕاندنەوە</value>
+  </data>
+  <data name="Continue recovery" xml:space="preserve">
+    <value>گەڕاندنەوە بەردەوام بکە</value>
+  </data>
+  <data name="Recovery could not be verified. Check your password and recovery code, or ask the administrator for a new code." xml:space="preserve">
+    <value>گەڕاندنەوەکە پشتڕاست نەکرایەوە. وشەی نهێنی و کۆدی گەڕاندنەوەکەت بپشکنە، یان داوای کۆدێکی نوێ لە بەڕێوەبەر بکە.</value>
+  </data>
+  <data name="Password changed" xml:space="preserve">
+    <value>وشەی نهێنی گۆڕدرا</value>
+  </data>
+  <data name="You are still signed in on this device. Other devices will need to sign in again." xml:space="preserve">
+    <value>هێشتا لەسەر ئەم ئامێرە لە ژوورەوەیت. لەسەر ئامێرەکانی تر پێویستە دووبارە بچیتە ژوورەوە.</value>
+  </data>
+  <data name="Done" xml:space="preserve">
+    <value>تەواو</value>
+  </data>
+  <data name="Confirm it's you" xml:space="preserve">
+    <value>پشتڕاستی بکەرەوە کە خۆتیت</value>
+  </data>
+  <data name="Enter the 6-digit code from your authenticator app before you choose a new password." xml:space="preserve">
+    <value>پێش ئەوەی وشەی نهێنیی نوێ هەڵبژێریت، کۆدە 6 ژمارەییەکە لە ئەپی ناسینەوەکەتەوە بنووسە.</value>
+  </data>
+  <data name="Confirm your current password" xml:space="preserve">
+    <value>وشەی نهێنیی ئێستات پشتڕاست بکەرەوە</value>
+  </data>
+  <data name="Enter the password you use now. Then you can choose a new one." xml:space="preserve">
+    <value>ئەو وشەی نهێنییە بنووسە کە ئێستا بەکاری دەهێنیت. پاشان دەتوانیت یەکێکی نوێ هەڵبژێریت.</value>
+  </data>
+  <data name="Continue" xml:space="preserve">
+    <value>بەردەوام بە</value>
+  </data>
+  <data name="Choose a new password" xml:space="preserve">
+    <value>وشەی نهێنیی نوێ هەڵبژێرە</value>
+  </data>
+  <data name="Password changed. Additional account verification is required before signing in." xml:space="preserve">
+    <value>وشەی نهێنی گۆڕدرا. پێش چوونەژوورەوە، پشتڕاستکردنەوەی زیاتری هەژمار پێویستە.</value>
+  </data>
+  <data name="Additional account verification is required before the password can be changed." xml:space="preserve">
+    <value>پێش ئەوەی وشەی نهێنی بگۆڕدرێت، پشتڕاستکردنەوەی زیاتری هەژمار پێویستە.</value>
+  </data>
+  <data name="You must change your password" xml:space="preserve">
+    <value>دەبێت وشەی نهێنییەکەت بگۆڕیت</value>
+  </data>
+  <data name="Cancellation could not be confirmed. Sign in again to check whether the password change completed." xml:space="preserve">
+    <value>هەڵوەشاندنەوەکە پشتڕاست نەکرایەوە. دووبارە بچۆ ژوورەوە بۆ ئەوەی بزانیت گۆڕینی وشەی نهێنی تەواو بووە یان نا.</value>
+  </data>
+  <data name="Your session has expired. Please log in again." xml:space="preserve">
+    <value>دانیشتنەکەت بەسەرچووە. تکایە دووبارە بچۆ ژوورەوە.</value>
+  </data>
+  <data name="Replace your authenticator" xml:space="preserve">
+    <value>گۆڕینی ئەپی ناسینەوەکەت</value>
+  </data>
+  <data name="Set up your authenticator" xml:space="preserve">
+    <value>ڕێکخستنی ئەپی ناسینەوەکەت</value>
+  </data>
+  <data name="Authenticator replaced" xml:space="preserve">
+    <value>ئەپی ناسینەوە گۆڕدرا</value>
+  </data>
+  <data name="Authenticator set up" xml:space="preserve">
+    <value>ئەپی ناسینەوە ڕێکخرا</value>
+  </data>
+  <data name="Your old authenticator no longer works. From now on, use the new app when you sign in." xml:space="preserve">
+    <value>ئەپی ناسینەوە کۆنەکەت چیتر کار ناکات. لەمەودوا کاتێک دەچیتە ژوورەوە ئەپە نوێیەکە بەکاربهێنە.</value>
+  </data>
+  <data name="From now on, sign in with your password and a code from this app." xml:space="preserve">
+    <value>لەمەودوا بە وشەی نهێنییەکەت و کۆدێک لەم ئەپەوە بچۆ ژوورەوە.</value>
+  </data>
+  <data name="Authenticator recovery is required" xml:space="preserve">
+    <value>گەڕاندنەوەی ئەپی ناسینەوە پێویستە</value>
+  </data>
+  <data name="An administrator reset your authenticator app. Ask them for a recovery code. The next time you sign in, you enter it with your password and then set up a new authenticator app." xml:space="preserve">
+    <value>بەڕێوەبەرێک ئەپی ناسینەوەکەتی ڕێکخستەوە. داوای کۆدێکی گەڕاندنەوەی لێ بکە. جاری داهاتوو کە دەچیتە ژوورەوە، لەگەڵ وشەی نهێنییەکەت دەینووسیت و پاشان ئەپێکی نوێی ناسینەوە ڕێکدەخەیت.</value>
+  </data>
+  <data name="Enter your password to start setting up an authenticator app." xml:space="preserve">
+    <value>وشەی نهێنییەکەت بنووسە بۆ دەستپێکردنی ڕێکخستنی ئەپی ناسینەوە.</value>
+  </data>
+  <data name="Confirm your current authenticator" xml:space="preserve">
+    <value>ئەپی ناسینەوەی ئێستات پشتڕاست بکەرەوە</value>
+  </data>
+  <data name="Enter a code from the authenticator app you use now. It keeps working until the new one is confirmed." xml:space="preserve">
+    <value>کۆدێک لەو ئەپی ناسینەوەیەوە بنووسە کە ئێستا بەکاری دەهێنیت. تا ئەپە نوێیەکە پشتڕاست دەکرێتەوە، ئەم ئەپە هەر کار دەکات.</value>
+  </data>
+  <data name="Scan the QR code" xml:space="preserve">
+    <value>کۆدی QR سکان بکە</value>
+  </data>
+  <data name="Scan this code with your authenticator app, or enter the setup key by hand. Then enter the 6-digit code the app shows." xml:space="preserve">
+    <value>ئەم کۆدە بە ئەپی ناسینەوەکەت سکان بکە، یان کلیلی ڕێکخستن بە دەست بنووسە. پاشان ئەو کۆدە 6 ژمارەییە بنووسە کە ئەپەکە پیشانی دەدات.</value>
+  </data>
+  <data name="Authenticator setup QR code" xml:space="preserve">
+    <value>کۆدی QR بۆ ڕێکخستنی ئەپی ناسینەوە</value>
+  </data>
+  <data name="Setup key" xml:space="preserve">
+    <value>کلیلی ڕێکخستن</value>
+  </data>
+  <data name="Copy setup key" xml:space="preserve">
+    <value>کلیلی ڕێکخستن کۆپی بکە</value>
+  </data>
+  <data name="Code from the new app" xml:space="preserve">
+    <value>کۆدی ئەپە نوێیەکە</value>
+  </data>
+  <data name="Confirm authenticator" xml:space="preserve">
+    <value>ئەپی ناسینەوە پشتڕاست بکەرەوە</value>
+  </data>
+  <data name="Authenticator updated. Additional account verification is required before signing in." xml:space="preserve">
+    <value>ئەپی ناسینەوە نوێکرایەوە. پێش چوونەژوورەوە، پشتڕاستکردنەوەی زیاتری هەژمار پێویستە.</value>
+  </data>
+  <data name="Additional account verification is required before the authenticator can be changed." xml:space="preserve">
+    <value>پێش ئەوەی ئەپی ناسینەوە بگۆڕدرێت، پشتڕاستکردنەوەی زیاتری هەژمار پێویستە.</value>
+  </data>
+  <data name="Cancel setup" xml:space="preserve">
+    <value>ڕێکخستنەکە هەڵبوەشێنەوە</value>
+  </data>
+  <data name="You must set up two-factor authentication to continue" xml:space="preserve">
+    <value>بۆ بەردەوامبوون، دەبێت ناسینەوەی دوو هەنگاوی ڕێکبخەیت</value>
+  </data>
+  <data name="Could not start two-factor setup. Please try again." xml:space="preserve">
+    <value>نەتوانرا ڕێکخستنی ناسینەوەی دوو هەنگاوی دەست پێبکرێت. تکایە دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>دووبارە هەوڵ بدەرەوە</value>
+  </data>
+  <data name="Scan the QR code with your authenticator app, then enter the 6-digit code it shows to finish setup." xml:space="preserve">
+    <value>کۆدی QR بە ئەپی ناسینەوەکەت سکان بکە، پاشان ئەو کۆدە 6 ژمارەییە بنووسە کە پیشانی دەدات بۆ تەواوکردنی ڕێکخستن.</value>
+  </data>
+  <data name="Two-factor authentication QR code" xml:space="preserve">
+    <value>کۆدی QR بۆ ناسینەوەی دوو هەنگاوی</value>
+  </data>
+  <data name="Can't scan it? Enter this key manually:" xml:space="preserve">
+    <value>ناتوانیت سکانی بکەیت؟ ئەم کلیلە بە دەست بنووسە:</value>
+  </data>
+  <data name="Code" xml:space="preserve">
+    <value>کۆد</value>
+  </data>
+  <data name="Verify" xml:space="preserve">
+    <value>پشتڕاستی بکەرەوە</value>
+  </data>
+  <data name="That password or code was not accepted. Try again." xml:space="preserve">
+    <value>ئەو وشەی نهێنی یان کۆدە وەرنەگیرا. دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Setup could not be confirmed. Sign in again to check which authenticator is active." xml:space="preserve">
+    <value>ڕێکخستنەکە پشتڕاست نەکرایەوە. دووبارە بچۆ ژوورەوە بۆ ئەوەی بزانیت کام ئەپی ناسینەوە چالاکە.</value>
+  </data>
+  <data name="Enter your authenticator code" xml:space="preserve">
+    <value>کۆدی ئەپی ناسینەوەکەت بنووسە</value>
+  </data>
+  <data name="Open your authenticator app and enter the 6-digit code it shows for this account." xml:space="preserve">
+    <value>ئەپی ناسینەوەکەت بکەرەوە و ئەو کۆدە 6 ژمارەییە بنووسە کە بۆ ئەم هەژمارە پیشانی دەدات.</value>
+  </data>
+  <data name="Verifying…" xml:space="preserve">
+    <value>پشتڕاست دەکرێتەوە…</value>
+  </data>
+  <data name="Enter the code from your two-factor authentication app or browser extension below" xml:space="preserve">
+    <value>لە خوارەوە ئەو کۆدە بنووسە کە ئەپی ناسینەوەی دوو هەنگاوی یان پێوەکراوی وێبگەڕەکەت پیشانی دەدات</value>
+  </data>
+  <data name="Invalid code" xml:space="preserve">
+    <value>کۆدی نادروست</value>
+  </data>
+  <data name="Recover authenticator" xml:space="preserve">
+    <value>گەڕاندنەوەی ئەپی ناسینەوە</value>
+  </data>
+  <data name="Help a user recover their authenticator" xml:space="preserve">
+    <value>یارمەتی بەکارهێنەرێک بدە بۆ گەڕاندنەوەی ئەپی ناسینەوەکەی</value>
+  </data>
+  <data name="First confirm the person's identity using your team's procedure. Record the support ticket or a short note below. Shift saves this note for audit but cannot verify whether it is true." xml:space="preserve">
+    <value>سەرەتا بە پێی ڕێکاری تیمەکەت ناسنامەی کەسەکە پشتڕاست بکەرەوە. ژمارەی تیکێتی پشتگیری یان تێبینییەکی کورت لە خوارەوە تۆمار بکە. Shift ئەم تێبینییە بۆ وردبینی پاشەکەوت دەکات، بەڵام ناتوانێت پشتڕاستی بکاتەوە کە ڕاستە یان نا.</value>
+  </data>
+  <data name="Issuing a recovery code disables the old authenticator. Local sign-in waits until the user completes recovery. The generated recovery code is separate from this note; give it to the verified person privately." xml:space="preserve">
+    <value>دەرکردنی کۆدی گەڕاندنەوە ئەپی ناسینەوە کۆنەکە ناچالاک دەکات. چوونەژوورەوەی ناوخۆیی ڕادەوەستێت تا بەکارهێنەر گەڕاندنەوەکە تەواو دەکات. کۆدی گەڕاندنەوەی دروستکراو جیایە لەم تێبینییە؛ بە نهێنی بیدە بەو کەسەی ناسنامەکەی پشتڕاستکراوەتەوە.</value>
+  </data>
+  <data name="Support ticket or identity-check note" xml:space="preserve">
+    <value>تیکێتی پشتگیری یان تێبینیی پشکنینی ناسنامە</value>
+  </data>
+  <data name="Issue recovery code" xml:space="preserve">
+    <value>کۆدی گەڕاندنەوە دەربکە</value>
+  </data>
+  <data name="Recovery code issued" xml:space="preserve">
+    <value>کۆدی گەڕاندنەوە دەرکرا</value>
+  </data>
+  <data name="Give this code to the verified person through your established private channel. It can be used once and expires at:" xml:space="preserve">
+    <value>ئەم کۆدە لە ڕێگەی کەناڵە تایبەتە پەسەندکراوەکەتانەوە بدە بەو کەسەی ناسنامەکەی پشتڕاستکراوەتەوە. تەنها یەک جار بەکاردێت و لەم کاتەدا بەسەردەچێت:</value>
+  </data>
+  <data name="Copied" xml:space="preserve">
+    <value>کۆپی کرا</value>
+  </data>
+  <data name="Copy code" xml:space="preserve">
+    <value>کۆدەکە کۆپی بکە</value>
+  </data>
+  <data name="The user signs in with their username and password." xml:space="preserve">
+    <value>بەکارهێنەر بە ناوی بەکارهێنەر و وشەی نهێنییەکەی دەچێتە ژوورەوە.</value>
+  </data>
+  <data name="They enter their password again, with this code." xml:space="preserve">
+    <value>دووبارە وشەی نهێنییەکەی لەگەڵ ئەم کۆدە دەنووسێت.</value>
+  </data>
+  <data name="They set up a new authenticator app." xml:space="preserve">
+    <value>ئەپێکی نوێی ناسینەوە ڕێکدەخات.</value>
+  </data>
+  <data name="Hide code" xml:space="preserve">
+    <value>کۆدەکە بشارەوە</value>
+  </data>
+  <data name="Sign in again before issuing a recovery code." xml:space="preserve">
+    <value>پێش دەرکردنی کۆدی گەڕاندنەوە، دووبارە بچۆ ژوورەوە.</value>
+  </data>
+  <data name="You need the Manage MFA Recovery permission to issue a recovery code, and you cannot issue one for your own account." xml:space="preserve">
+    <value>بۆ دەرکردنی کۆدی گەڕاندنەوە پێویستت بە دەسەڵاتی Manage MFA Recovery هەیە، و ناتوانیت کۆد بۆ هەژماری خۆت دەربکەیت.</value>
+  </data>
+  <data name="This account is inactive or deleted, so its authenticator cannot be recovered." xml:space="preserve">
+    <value>ئەم هەژمارە ناچالاکە یان سڕاوەتەوە، بۆیە ناتوانرێت ئەپی ناسینەوەکەی بگەڕێندرێتەوە.</value>
+  </data>
+  <data name="This account changed meanwhile. Close this window, open the user again and retry." xml:space="preserve">
+    <value>ئەم هەژمارە لەم ماوەیەدا گۆڕاوە. ئەم پەنجەرەیە دابخە، بەکارهێنەرەکە دووبارە بکەرەوە و هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="The recovery service is unavailable. Wait a moment and try again." xml:space="preserve">
+    <value>خزمەتگوزاریی گەڕاندنەوە بەردەست نییە. کەمێک چاوەڕێ بکە و دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Confirm your password when you are asked, then issue the code again." xml:space="preserve">
+    <value>کاتێک داوات لێدەکرێت وشەی نهێنییەکەت پشتڕاست بکەرەوە، پاشان دووبارە کۆدەکە دەربکە.</value>
+  </data>
+  <data name="Recovery issuance could not be confirmed. Check your permission and sign in again. A lost response may require issuing a new code." xml:space="preserve">
+    <value>دەرکردنی کۆدی گەڕاندنەوە پشتڕاست نەکرایەوە. دەسەڵاتەکەت بپشکنە و دووبارە بچۆ ژوورەوە. ئەگەر وەڵامێک ون بووبێت، لەوانەیە پێویست بکات کۆدێکی نوێ دەربکەیت.</value>
+  </data>
+  <data name="Enroll Two Factor" xml:space="preserve">
+    <value>چالاککردنی ناسینەوەی دوو هەنگاوی</value>
+  </data>
+  <data name="Authenticator recovery is required. Contact your administrator." xml:space="preserve">
+    <value>گەڕاندنەوەی ئەپی ناسینەوە پێویستە. پەیوەندی بە بەڕێوەبەرەکەتەوە بکە.</value>
+  </data>
+  <data name="Authenticator" xml:space="preserve">
+    <value>ئەپی ناسینەوە</value>
+  </data>
+  <data name="Replace authenticator" xml:space="preserve">
+    <value>گۆڕینی ئەپی ناسینەوە</value>
+  </data>
+  <data name="Set up authenticator" xml:space="preserve">
+    <value>ڕێکخستنی ئەپی ناسینەوە</value>
+  </data>
+  <data name="Send Email Verification" xml:space="preserve">
+    <value>ناردنی پشتڕاستکردنەوەی ئیمەیڵ</value>
+  </data>
+  <data name="Authenticator App (TOTP)" xml:space="preserve">
+    <value>ئەپی ناسینەوە (TOTP)</value>
+  </data>
+  <data name="Recovery required" xml:space="preserve">
+    <value>گەڕاندنەوە پێویستە</value>
+  </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>چالاکە</value>
+  </data>
+  <data name="Not set up" xml:space="preserve">
+    <value>ڕێکنەخراوە</value>
+  </data>
+  <data name="This user cannot sign in until they recover their authenticator app with a recovery code from an administrator." xml:space="preserve">
+    <value>ئەم بەکارهێنەرە تا ئەپی ناسینەوەکەی بە کۆدێکی گەڕاندنەوە لە بەڕێوەبەرێکەوە نەگەڕێنێتەوە، ناتوانێت بچێتە ژوورەوە.</value>
+  </data>
+  <data name="View Effective Permissions" xml:space="preserve">
+    <value>بینینی دەسەڵاتە کارپێکراوەکان</value>
+  </data>
+  <data name="Effective Permissions" xml:space="preserve">
+    <value>دەسەڵاتە کارپێکراوەکان</value>
+  </data>
+  <data name="Password Length" xml:space="preserve">
+    <value>درێژیی وشەی نهێنی</value>
+  </data>
+  <data name="Reset TOTP" xml:space="preserve">
+    <value>ڕێکخستنەوەی TOTP</value>
+  </data>
+  <data name="TOTP" xml:space="preserve">
+    <value>TOTP</value>
+  </data>
+  <data name="Recovery required: this user cannot sign in until they recover their authenticator app" xml:space="preserve">
+    <value>گەڕاندنەوە پێویستە: ئەم بەکارهێنەرە تا ئەپی ناسینەوەکەی نەگەڕێنێتەوە ناتوانێت بچێتە ژوورەوە</value>
+  </data>
+  <data name="Authenticator app (TOTP) is set up" xml:space="preserve">
+    <value>ئەپی ناسینەوە (TOTP) ڕێکخراوە</value>
+  </data>
+  <data name="No authenticator app (TOTP)" xml:space="preserve">
+    <value>هیچ ئەپێکی ناسینەوە (TOTP) نییە</value>
+  </data>
+  <data name="The app is trying to access your account" xml:space="preserve">
+    <value>ئەپی '{0}' هەوڵ دەدات دەستی بگات بە هەژمارەکەت</value>
+  </data>
+  <data name="Allow" xml:space="preserve">
+    <value>ڕێگەپێدان</value>
+  </data>
+  <data name="Deny" xml:space="preserve">
+    <value>ڕەتکردنەوە</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>ناوی بەکارهێنەر</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>وشەی نهێنی</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>چوونەژوورەوە</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>پاشەکەوتکردن</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>هەڵوەشاندنەوە</value>
+  </data>
+  <data name="Change Password" xml:space="preserve">
+    <value>گۆڕینی وشەی نهێنی</value>
+  </data>
+  <data name="Current Password" xml:space="preserve">
+    <value>وشەی نهێنیی ئێستا</value>
+  </data>
+  <data name="New Password" xml:space="preserve">
+    <value>وشەی نهێنیی نوێ</value>
+  </data>
+  <data name="Confirm Password" xml:space="preserve">
+    <value>دووپاتکردنەوەی وشەی نهێنی</value>
+  </data>
+  <data name="Choose a strong password" xml:space="preserve">
+    <value>وشەیەکی نهێنیی بەهێز هەڵبژێرە</value>
+  </data>
+  <data name="Reset Password" xml:space="preserve">
+    <value>ڕێکخستنەوەی وشەی نهێنی</value>
+  </data>
+  <data name="Your password reseted successfully" xml:space="preserve">
+    <value>وشەی نهێنییەکەت بە سەرکەوتوویی ڕێکخرایەوە</value>
+  </data>
+  <data name="Email verification link sent successfully." xml:space="preserve">
+    <value>لینکی پشتڕاستکردنەوەی ئیمەیڵ بە سەرکەوتوویی نێردرا.</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>پرۆفایل</value>
+  </data>
+  <data name="Security" xml:space="preserve">
+    <value>ئاسایش</value>
+  </data>
+  <data name="Contacts" xml:space="preserve">
+    <value>پەیوەندییەکان</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>ئیمەیڵ</value>
+  </data>
+  <data name="Phone" xml:space="preserve">
+    <value>تەلەفۆن</value>
+  </data>
+  <data name="Full Name" xml:space="preserve">
+    <value>ناوی تەواو</value>
+  </data>
+  <data name="Birth Date" xml:space="preserve">
+    <value>بەرواری لەدایکبوون</value>
+  </data>
+  <data name="Signature" xml:space="preserve">
+    <value>واژۆ</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>بەکارهێنەر</value>
+  </data>
+  <data name="Company Branch" xml:space="preserve">
+    <value>لقی کۆمپانیا</value>
+  </data>
+  <data name="Active" xml:space="preserve">
+    <value>چالاک</value>
+  </data>
+  <data name="Access Trees" xml:space="preserve">
+    <value>درەختەکانی دەستگەیشتن</value>
+  </data>
+  <data name="User List" xml:space="preserve">
+    <value>لیستی بەکارهێنەران</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>ناو</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>کۆمپانیا</value>
+  </data>
+  <data name="Branch" xml:space="preserve">
+    <value>لق</value>
+  </data>
+  <data name="Last Seen" xml:space="preserve">
+    <value>دوایین بینین</value>
+  </data>
+  <data name="Import" xml:space="preserve">
+    <value>هاوردەکردن</value>
+  </data>
+  <data name="This phone number is verified" xml:space="preserve">
+    <value>ئەم ژمارە تەلەفۆنە پشتڕاستکراوەتەوە</value>
+  </data>
+  <data name="This email address is verified" xml:space="preserve">
+    <value>ئەم ناونیشانی ئیمەیڵە پشتڕاستکراوەتەوە</value>
+  </data>
+  <data name="Send login info to the user" xml:space="preserve">
+    <value>زانیاریی چوونەژوورەوە بۆ بەکارهێنەر بنێرە</value>
+  </data>
+  <data name="Assign Random Passwords" xml:space="preserve">
+    <value>دانانی وشەی نهێنیی هەڕەمەکی</value>
+  </data>
+  <data name="Verify Emails" xml:space="preserve">
+    <value>پشتڕاستکردنەوەی ئیمەیڵەکان</value>
+  </data>
+  <data name="Verify Phones" xml:space="preserve">
+    <value>پشتڕاستکردنەوەی ژمارە تەلەفۆنەکان</value>
+  </data>
+  <data name="Are you sure you want to randomly assign new passwords for the selected users?" xml:space="preserve">
+    <value>دڵنیایت کە دەتەوێت بە هەڕەمەکی وشەی نهێنیی نوێ بۆ بەکارهێنەرە هەڵبژێردراوەکان دابنێیت؟</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>بەڵێ</value>
+  </data>
+  <data name="Ok" xml:space="preserve">
+    <value>باشە</value>
+  </data>
+  <data name="Use 15–128 characters. Spaces and Unicode are allowed. Choose a different password that is not common or based on your username." xml:space="preserve">
+    <value>15 تا 128 پیت بەکاربهێنە. بۆشایی و پیتی Unicode ڕێگەپێدراون. وشەیەکی نهێنیی جیاواز هەڵبژێرە کە باو نەبێت و لەسەر ناوی بەکارهێنەرەکەت دروست نەکرابێت.</value>
+  </data>
+  <data name="The password must be at least 15 characters long" xml:space="preserve">
+    <value>وشەی نهێنی دەبێت لانیکەم 15 پیت بێت</value>
+  </data>
+  <data name="The password must not be longer than 128 characters" xml:space="preserve">
+    <value>وشەی نهێنی نابێت لە 128 پیت درێژتر بێت</value>
+  </data>
+  <data name="The password contains characters that are not allowed" xml:space="preserve">
+    <value>وشەی نهێنی پیتی ڕێگەپێنەدراوی تێدایە</value>
+  </data>
+  <data name="This password is too common or based on the username" xml:space="preserve">
+    <value>ئەم وشەی نهێنییە زۆر باوە یان لەسەر ناوی بەکارهێنەر دروستکراوە</value>
+  </data>
+  <data name="This field is required." xml:space="preserve">
+    <value>ئەم خانەیە پێویستە.</value>
+  </data>
+  <data name="This value is too short." xml:space="preserve">
+    <value>ئەم بەهایە زۆر کورتە.</value>
+  </data>
+  <data name="This value is too long." xml:space="preserve">
+    <value>ئەم بەهایە زۆر درێژە.</value>
+  </data>
+  <data name="This value is not valid." xml:space="preserve">
+    <value>ئەم بەهایە دروست نییە.</value>
+  </data>
+  <data name="Passwords must match." xml:space="preserve">
+    <value>دەبێت هەردوو وشە نهێنییەکە وەک یەک بن.</value>
+  </data>
+  <data name="Enter the code the app shows, using digits only." xml:space="preserve">
+    <value>ئەو کۆدە بنووسە کە ئەپەکە پیشانی دەدات، تەنها بە ژمارە.</value>
+  </data>
+  <data name="Choose a password different from your current password." xml:space="preserve">
+    <value>وشەیەکی نهێنی هەڵبژێرە کە جیاواز بێت لە وشەی نهێنیی ئێستات.</value>
+  </data>
+  <data name="This password is too common or based on your username. Choose another." xml:space="preserve">
+    <value>ئەم وشەی نهێنییە زۆر باوە یان لەسەر ناوی بەکارهێنەرەکەت دروستکراوە. یەکێکی تر هەڵبژێرە.</value>
+  </data>
+  <data name="The operation could not be completed. Sign in again to check your password; a lost response may follow a completed change." xml:space="preserve">
+    <value>کردارەکە تەواو نەکرا. دووبارە بچۆ ژوورەوە بۆ پشکنینی وشەی نهێنییەکەت؛ لەوانەیە وەڵامێکی ونبوو دوای گۆڕانکارییەکی تەواوبوو بێت.</value>
+  </data>
+  <data name="Checking your link…" xml:space="preserve">
+    <value>لینکەکەت دەپشکنرێت…</value>
+  </data>
+  <data name="For {0}" xml:space="preserve">
+    <value>بۆ {0}</value>
+  </data>
+  <data name="Opening this page does not verify your email. Confirm that this email address belongs to you." xml:space="preserve">
+    <value>کردنەوەی ئەم پەڕەیە ئیمەیڵەکەت پشتڕاست ناکاتەوە. پشتڕاستی بکەرەوە کە ئەم ناونیشانی ئیمەیڵە هی خۆتە.</value>
+  </data>
+  <data name="Verify my email" xml:space="preserve">
+    <value>ئیمەیڵەکەم پشتڕاست بکەرەوە</value>
+  </data>
+  <data name="Your authenticator and recovery requirements still apply after resetting your password." xml:space="preserve">
+    <value>دوای ڕێکخستنەوەی وشەی نهێنی، مەرجەکانی ئەپی ناسینەوە و گەڕاندنەوە هەر بەردەوام دەبن.</value>
+  </data>
+  <data name="Your email is verified. You can now return to login." xml:space="preserve">
+    <value>ئیمەیڵەکەت پشتڕاستکرایەوە. ئێستا دەتوانیت بگەڕێیتەوە بۆ چوونەژوورەوە.</value>
+  </data>
+  <data name="Return to login" xml:space="preserve">
+    <value>گەڕانەوە بۆ چوونەژوورەوە</value>
+  </data>
+  <data name="Request a new link" xml:space="preserve">
+    <value>داوای لینکێکی نوێ بکە</value>
+  </data>
+  <data name="This link is invalid, expired or has been replaced. Request a new link." xml:space="preserve">
+    <value>ئەم لینکە نادروستە، بەسەرچووە یان گۆڕدراوە. داوای لینکێکی نوێ بکە.</value>
+  </data>
+  <data name="The link could not be opened. Please reopen it and try again." xml:space="preserve">
+    <value>لینکەکە نەکرایەوە. تکایە دووبارە بیکەرەوە و هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Choose a password that meets the password requirements and try again." xml:space="preserve">
+    <value>وشەیەکی نهێنی هەڵبژێرە کە مەرجەکانی وشەی نهێنی تێدا بێت و دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Verification could not be confirmed. The link may have expired or been replaced. Request a new link." xml:space="preserve">
+    <value>پشتڕاستکردنەوەکە پشتڕاست نەکرایەوە. لەوانەیە لینکەکە بەسەرچووبێت یان گۆڕدرابێت. داوای لینکێکی نوێ بکە.</value>
+  </data>
+  <data name="The change could not be confirmed. The link may have expired or been replaced. Request a new link; if you just reset your password, try signing in with the new password first." xml:space="preserve">
+    <value>گۆڕانکارییەکە پشتڕاست نەکرایەوە. لەوانەیە لینکەکە بەسەرچووبێت یان گۆڕدرابێت. داوای لینکێکی نوێ بکە؛ ئەگەر تازە وشەی نهێنییەکەت ڕێکخستەوە، سەرەتا هەوڵ بدە بە وشەی نهێنییە نوێیەکە بچیتە ژوورەوە.</value>
+  </data>
+  <data name="Confirm your identity" xml:space="preserve">
+    <value>ناسنامەکەت پشتڕاست بکەرەوە</value>
+  </data>
+  <data name="Confirm your current administrator account to continue. Your edits and selection will stay here." xml:space="preserve">
+    <value>بۆ بەردەوامبوون هەژماری بەڕێوەبەریی ئێستات پشتڕاست بکەرەوە. دەستکارییەکان و هەڵبژاردنەکانت لێرە دەمێننەوە.</value>
+  </data>
+  <data name="Your password" xml:space="preserve">
+    <value>وشەی نهێنییەکەت</value>
+  </data>
+  <data name="Authenticator code" xml:space="preserve">
+    <value>کۆدی ئەپی ناسینەوە</value>
+  </data>
+  <data name="Confirm and continue" xml:space="preserve">
+    <value>پشتڕاست بکەرەوە و بەردەوام بە</value>
+  </data>
+  <data name="The password or authenticator code was not accepted. Check it and try again." xml:space="preserve">
+    <value>وشەی نهێنی یان کۆدی ئەپی ناسینەوە وەرنەگیرا. بیپشکنە و دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Too many attempts. Cancel and try again later." xml:space="preserve">
+    <value>هەوڵدانەکان زۆر بوون. هەڵیبوەشێنەوە و دواتر دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Confirmation could not be completed. Your action has not been retried. Cancel and try again later." xml:space="preserve">
+    <value>پشتڕاستکردنەوەکە تەواو نەکرا. کردارەکەت دووبارە نەکرایەوە. هەڵیبوەشێنەوە و دواتر دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Your session or account changed, or confirmation expired. Cancel and review your session before trying again." xml:space="preserve">
+    <value>دانیشتن یان هەژمارەکەت گۆڕاوە، یان کاتی پشتڕاستکردنەوە بەسەرچووە. هەڵیبوەشێنەوە و پێش هەوڵدانەوە دانیشتنەکەت بپشکنە.</value>
+  </data>
+  <data name="Send password reset link" xml:space="preserve">
+    <value>لینکی ڕێکخستنەوەی وشەی نهێنی بنێرە</value>
+  </data>
+  <data name="If the saved address is eligible, check its inbox. Wait before requesting another link." xml:space="preserve">
+    <value>ئەگەر ناونیشانە پاشەکەوتکراوەکە شیاو بێت، سندووقی ئیمەیڵەکەی بپشکنە. پێش داواکردنی لینکێکی تر چاوەڕێ بکە.</value>
+  </data>
+  <data name="The send could not be confirmed. Check the recipient's inbox, wait and request a fresh link." xml:space="preserve">
+    <value>ناردنەکە پشتڕاست نەکرایەوە. سندووقی ئیمەیڵی وەرگر بپشکنە، چاوەڕێ بکە و داوای لینکێکی نوێ بکە.</value>
+  </data>
+  <data name="The request could not be completed. Check your session and Users write permission before sending links." xml:space="preserve">
+    <value>داواکارییەکە تەواو نەکرا. پێش ناردنی لینک، دانیشتنەکەت و دەسەڵاتی نووسینی بەکارهێنەران بپشکنە.</value>
+  </data>
+  <data name="Check your saved email inbox. Wait before requesting another link." xml:space="preserve">
+    <value>سندووقی ئیمەیڵە پاشەکەوتکراوەکەت بپشکنە. پێش داواکردنی لینکێکی تر چاوەڕێ بکە.</value>
+  </data>
+  <data name="The send could not be confirmed. Check your inbox, wait and retry; sign in again if your session is no longer accepted." xml:space="preserve">
+    <value>ناردنەکە پشتڕاست نەکرایەوە. سندووقی ئیمەیڵەکەت بپشکنە، چاوەڕێ بکە و دووبارە هەوڵ بدەرەوە؛ ئەگەر دانیشتنەکەت چیتر وەرناگیرێت، دووبارە بچۆ ژوورەوە.</value>
+  </data>
+  <data name="The user was saved, but the verification send could not be confirmed. Check the recipient's inbox, wait and request a fresh link." xml:space="preserve">
+    <value>بەکارهێنەرەکە پاشەکەوت کرا، بەڵام ناردنی پشتڕاستکردنەوەکە پشتڕاست نەکرایەوە. سندووقی ئیمەیڵی وەرگر بپشکنە، چاوەڕێ بکە و داوای لینکێکی نوێ بکە.</value>
+  </data>
+  <data name="The Password for ({0}) users has been reseted." xml:space="preserve">
+    <value>وشەی نهێنیی ({0}) بەکارهێنەر ڕێکخرایەوە.</value>
+  </data>
+  <data name="Password Reset Results" xml:space="preserve">
+    <value>ئەنجامەکانی ڕێکخستنەوەی وشەی نهێنی</value>
+  </data>
+  <data name="An error occurred while resetting the password." xml:space="preserve">
+    <value>هەڵەیەک ڕوویدا لە کاتی ڕێکخستنەوەی وشەی نهێنی.</value>
+  </data>
+  <data name="TOTP Authentication was reset for ({0}) users." xml:space="preserve">
+    <value>ناسینەوەی TOTP بۆ ({0}) بەکارهێنەر ڕێکخرایەوە.</value>
+  </data>
+  <data name="An error occurred while resetting TOTP Authentication." xml:space="preserve">
+    <value>هەڵەیەک ڕوویدا لە کاتی ڕێکخستنەوەی ناسینەوەی TOTP.</value>
+  </data>
+  <data name="Verification links requested. Eligible recipients should check their saved email inboxes." xml:space="preserve">
+    <value>داوای لینکەکانی پشتڕاستکردنەوە کرا. وەرگرە شیاوەکان با سندووقی ئیمەیڵە پاشەکەوتکراوەکانیان بپشکنن.</value>
+  </data>
+  <data name="The verification link send throw email for ({0}) users." xml:space="preserve">
+    <value>لینکی پشتڕاستکردنەوە بە ئیمەیڵ بۆ ({0}) بەکارهێنەر نێردرا.</value>
+  </data>
+  <data name="An error occurred while verifying the email." xml:space="preserve">
+    <value>هەڵەیەک ڕوویدا لە کاتی پشتڕاستکردنەوەی ئیمەیڵ.</value>
+  </data>
+  <data name="The Phone for ({0}) users has been verified." xml:space="preserve">
+    <value>تەلەفۆنی ({0}) بەکارهێنەر پشتڕاستکرایەوە.</value>
+  </data>
+  <data name="An error occurred while verifying the phone." xml:space="preserve">
+    <value>هەڵەیەک ڕوویدا لە کاتی پشتڕاستکردنەوەی تەلەفۆن.</value>
+  </data>
+  <data name="Forbidden" xml:space="preserve">
+    <value>ڕێگەپێنەدراو</value>
+  </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>نەدۆزرایەوە</value>
+  </data>
+  <data name="Conflict" xml:space="preserve">
+    <value>ناکۆکی</value>
+  </data>
+  <data name="Unauthorized" xml:space="preserve">
+    <value>چوونەژوورەوە پێویستە</value>
+  </data>
+  <data name="Use your own profile to change your own account." xml:space="preserve">
+    <value>بۆ گۆڕینی هەژماری خۆت، پرۆفایلەکەی خۆت بەکاربهێنە.</value>
+  </data>
+  <data name="User not found" xml:space="preserve">
+    <value>بەکارهێنەر نەدۆزرایەوە</value>
+  </data>
+  <data name="This user changed meanwhile. Reload the user and try again." xml:space="preserve">
+    <value>ئەم بەکارهێنەرە لەم ماوەیەدا گۆڕاوە. بەکارهێنەرەکە دووبارە باربکەرەوە و هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Another account already uses this email." xml:space="preserve">
+    <value>هەژمارێکی تر پێشتر ئەم ئیمەیڵە بەکاردەهێنێت.</value>
+  </data>
+  <data name="Another account already uses this username." xml:space="preserve">
+    <value>هەژمارێکی تر پێشتر ئەم ناوی بەکارهێنەرە بەکاردەهێنێت.</value>
+  </data>
+  <data name="Check the entered value and try again." xml:space="preserve">
+    <value>بەهای نووسراو بپشکنە و دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="The change could not be saved. Please wait and try again." xml:space="preserve">
+    <value>گۆڕانکارییەکە پاشەکەوت نەکرا. تکایە چاوەڕێ بکە و دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Sign in again before changing this account." xml:space="preserve">
+    <value>پێش گۆڕینی ئەم هەژمارە دووبارە بچۆ ژوورەوە.</value>
+  </data>
+  <data name="Your sign-in is too old for this change. Sign in again and retry." xml:space="preserve">
+    <value>چوونەژوورەوەکەت بۆ ئەم گۆڕانکارییە زۆر کۆنە. دووبارە بچۆ ژوورەوە و هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Confirm your password and applicable MFA to continue this change." xml:space="preserve">
+    <value>بۆ بەردەوامبوونی ئەم گۆڕانکارییە وشەی نهێنی و ناسینەوەی دوو هەنگاوی (ئەگەر هەبێت) پشتڕاست بکەرەوە.</value>
+  </data>
+  <data name="Your account is not available for this change." xml:space="preserve">
+    <value>هەژمارەکەت بۆ ئەم گۆڕانکارییە بەردەست نییە.</value>
+  </data>
+  <data name="You do not have permission to change this account." xml:space="preserve">
+    <value>دەسەڵاتی گۆڕینی ئەم هەژمارەت نییە.</value>
+  </data>
+  <data name="Only an administrator can change your username." xml:space="preserve">
+    <value>تەنها بەڕێوەبەر دەتوانێت ناوی بەکارهێنەرەکەت بگۆڕێت.</value>
+  </data>
+  <data name="Additional authentication required" xml:space="preserve">
+    <value>ناسینەوەی زیاتر پێویستە</value>
+  </data>
+  <data name="Use the contact change flow to change your email or phone." xml:space="preserve">
+    <value>بۆ گۆڕینی ئیمەیڵ یان تەلەفۆنەکەت، ڕێکاری گۆڕینی پەیوەندی بەکاربهێنە.</value>
+  </data>
+  <data name="Invalid token" xml:space="preserve">
+    <value>تۆکنی نادروست</value>
+  </data>
+  <data name="Two Factor Code" xml:space="preserve">
+    <value>کۆدی ناسینەوەی دوو هەنگاوی</value>
+  </data>
+  <data name="The Integration ID {0} already exists" xml:space="preserve">
+    <value>ناسنامەی یەکخستنی {0} پێشتر هەیە</value>
+  </data>
+  <data name="Latitude must be between -90 and 90" xml:space="preserve">
+    <value>هێڵی پانی دەبێت لە نێوان -90 و 90 بێت</value>
+  </data>
+  <data name="Longitude must be between -180 and 180" xml:space="preserve">
+    <value>هێڵی درێژی دەبێت لە نێوان -180 و 180 بێت</value>
+  </data>
+  <data name="Region Feature is locked" xml:space="preserve">
+    <value>تایبەتمەندیی هەرێم قفڵکراوە</value>
+  </data>
+  <data name="Company Branch Feature is locked" xml:space="preserve">
+    <value>تایبەتمەندیی لقی کۆمپانیا قفڵکراوە</value>
+  </data>
+  <data name="Company Calendar feature is locked." xml:space="preserve">
+    <value>تایبەتمەندیی ڕۆژژمێری کۆمپانیا قفڵکراوە.</value>
+  </data>
+  <data name="Access" xml:space="preserve">
+    <value>دەستگەیشتن</value>
+  </data>
+  <data name="any row" xml:space="preserve">
+    <value>هەر ڕیزێک</value>
+  </data>
+  <data name="Actions" xml:space="preserve">
+    <value>کردارەکان</value>
+  </data>
+  <data name="Text actions are not searchable" xml:space="preserve">
+    <value>کردارە دەقییەکان ناگەڕدرێن</value>
+  </data>
+  <data name="Combined permissions from the user's access trees and user-specific access." xml:space="preserve">
+    <value>دەسەڵاتە کۆکراوەکان لە درەختەکانی دەستگەیشتنی بەکارهێنەر و دەستگەیشتنی تایبەت بە بەکارهێنەر.</value>
+  </data>
+  <data name="An error occurred while loading the permissions" xml:space="preserve">
+    <value>هەڵەیەک ڕوویدا لە کاتی بارکردنی دەسەڵاتەکان</value>
+  </data>
+  <data name="Reverse TypeAuth Lookup" xml:space="preserve">
+    <value>گەڕانی پێچەوانەی TypeAuth</value>
+  </data>
+  <data name="Click an access level on any action below to list all active users who have that access." xml:space="preserve">
+    <value>کلیک لە ئاستێکی دەستگەیشتن بکە لە هەر کردارێکی خوارەوە بۆ پیشاندانی هەموو ئەو بەکارهێنەرە چالاکانەی کە ئەو دەستگەیشتنەیان هەیە.</value>
+  </data>
+  <data name="Matching users" xml:space="preserve">
+    <value>بەکارهێنەرە هاوتاکان</value>
+  </data>
+  <data name="Matching access trees" xml:space="preserve">
+    <value>درەختە هاوتاکانی دەستگەیشتن</value>
+  </data>
+  <data name="No results." xml:space="preserve">
+    <value>هیچ ئەنجامێک نییە.</value>
+  </data>
+  <data name="No users match this access." xml:space="preserve">
+    <value>هیچ بەکارهێنەرێک لەگەڵ ئەم دەستگەیشتنە ناگونجێت.</value>
+  </data>
+  <data name="No access trees match this access." xml:space="preserve">
+    <value>هیچ درەختێکی دەستگەیشتن لەگەڵ ئەم دەستگەیشتنە ناگونجێت.</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>ناسنامە</value>
+  </data>
+  <data name="Granted By" xml:space="preserve">
+    <value>بەخشراوە لە ڕێگەی</value>
+  </data>
+  <data name="Assigned Users" xml:space="preserve">
+    <value>بەکارهێنەرە دیاریکراوەکان</value>
+  </data>
+  <data name="Export CSV" xml:space="preserve">
+    <value>هەناردەکردنی CSV</value>
+  </data>
+  <data name="Request failed" xml:space="preserve">
+    <value>داواکارییەکە سەرکەوتوو نەبوو</value>
+  </data>
+  <data name="Direct" xml:space="preserve">
+    <value>ڕاستەوخۆ</value>
+  </data>
+  <data name="Calendar" xml:space="preserve">
+    <value>ڕۆژژمێر</value>
+  </data>
+  <data name="Calendar Entries" xml:space="preserve">
+    <value>تۆمارەکانی ڕۆژژمێر</value>
+  </data>
+  <data name="Pull Live Data" xml:space="preserve">
+    <value>هێنانی داتای ڕاستەوخۆ</value>
+  </data>
+  <data name="Display Order" xml:space="preserve">
+    <value>ڕیزبەندیی پیشاندان</value>
+  </data>
+  <data name="Phone Numbers" xml:space="preserve">
+    <value>ژمارە تەلەفۆنەکان</value>
+  </data>
+  <data name="Tag" xml:space="preserve">
+    <value>تاگ</value>
+  </data>
+  <data name="Tags" xml:space="preserve">
+    <value>تاگەکان</value>
+  </data>
+  <data name="Add a Phone Number" xml:space="preserve">
+    <value>ژمارە تەلەفۆنێک زیاد بکە</value>
+  </data>
+  <data name="Email Addresses" xml:space="preserve">
+    <value>ناونیشانەکانی ئیمەیڵ</value>
+  </data>
+  <data name="Add an Email" xml:space="preserve">
+    <value>ئیمەیڵێک زیاد بکە</value>
+  </data>
+  <data name="Company TerminationDate" xml:space="preserve">
+    <value>بەرواری کۆتاییهاتنی کۆمپانیا</value>
+  </data>
+  <data name="Mobile App" xml:space="preserve">
+    <value>ئەپی مۆبایل</value>
+  </data>
+  <data name="Chat Bot" xml:space="preserve">
+    <value>چات بۆت</value>
+  </data>
+  <data name="Company Calendar Entry" xml:space="preserve">
+    <value>تۆماری ڕۆژژمێری کۆمپانیا</value>
+  </data>
+  <data name="Company Calendar Entries" xml:space="preserve">
+    <value>تۆمارەکانی ڕۆژژمێری کۆمپانیا</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>ناونیشان</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>جۆر</value>
+  </data>
+  <data name="Entry Type" xml:space="preserve">
+    <value>جۆری تۆمار</value>
+  </data>
+  <data name="Workday" xml:space="preserve">
+    <value>ڕۆژی کار</value>
+  </data>
+  <data name="Holiday" xml:space="preserve">
+    <value>پشوو</value>
+  </data>
+  <data name="Start Date" xml:space="preserve">
+    <value>بەرواری دەستپێک</value>
+  </data>
+  <data name="End Date" xml:space="preserve">
+    <value>بەرواری کۆتایی</value>
+  </data>
+  <data name="Priority" xml:space="preserve">
+    <value>پێشینەیی</value>
+  </data>
+  <data name="Shift Groups" xml:space="preserve">
+    <value>گرووپەکانی شیفت</value>
+  </data>
+  <data name="Shifts" xml:space="preserve">
+    <value>شیفتەکان</value>
+  </data>
+  <data name="Shift Title" xml:space="preserve">
+    <value>ناونیشانی شیفت</value>
+  </data>
+  <data name="Start Time" xml:space="preserve">
+    <value>کاتی دەستپێک</value>
+  </data>
+  <data name="End Time" xml:space="preserve">
+    <value>کاتی کۆتایی</value>
+  </data>
+  <data name="Weekend Groups" xml:space="preserve">
+    <value>گرووپەکانی پشووی هەفتانە</value>
+  </data>
+  <data name="Weekend Rules" xml:space="preserve">
+    <value>یاساکانی پشووی هەفتانە</value>
+  </data>
+  <data name="Day" xml:space="preserve">
+    <value>ڕۆژ</value>
+  </data>
+  <data name="Days of Week" xml:space="preserve">
+    <value>ڕۆژەکانی هەفتە</value>
+  </data>
+  <data name="Repeat Every N Weeks" xml:space="preserve">
+    <value>دووبارەبوونەوە هەموو N هەفتەیەک</value>
+  </data>
+  <data name="Skip Cycles" xml:space="preserve">
+    <value>تێپەڕاندنی خولەکان</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>ئەمڕۆ</value>
+  </data>
+  <data name="more" xml:space="preserve">
+    <value>زیاتر</value>
+  </data>
+  <data name="Sun" xml:space="preserve">
+    <value>یەکشەممە</value>
+  </data>
+  <data name="Mon" xml:space="preserve">
+    <value>دووشەممە</value>
+  </data>
+  <data name="Tue" xml:space="preserve">
+    <value>سێشەممە</value>
+  </data>
+  <data name="Wed" xml:space="preserve">
+    <value>چوارشەممە</value>
+  </data>
+  <data name="Thu" xml:space="preserve">
+    <value>پێنجشەممە</value>
+  </data>
+  <data name="Fri" xml:space="preserve">
+    <value>هەینی</value>
+  </data>
+  <data name="Sat" xml:space="preserve">
+    <value>شەممە</value>
+  </data>
+  <data name="Access Tree" xml:space="preserve">
+    <value>درەختی دەستگەیشتن</value>
+  </data>
+  <data name="Access Tree Feature is locked" xml:space="preserve">
+    <value>تایبەتمەندیی درەختی دەستگەیشتن قفڵکراوە</value>
+  </data>
+  <data name="Access Tree List" xml:space="preserve">
+    <value>لیستی درەختەکانی دەستگەیشتن</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>ناونیشان</value>
+  </data>
+  <data name="App" xml:space="preserve">
+    <value>ئەپ</value>
+  </data>
+  <data name="App Feature is locked" xml:space="preserve">
+    <value>تایبەتمەندیی ئەپ قفڵکراوە</value>
+  </data>
+  <data name="App Id" xml:space="preserve">
+    <value>ناسنامەی ئەپ</value>
+  </data>
+  <data name="Apps" xml:space="preserve">
+    <value>ئەپەکان</value>
+  </data>
+  <data name="Auth Code" xml:space="preserve">
+    <value>کۆدی ڕێگەپێدان</value>
+  </data>
+  <data name="Below Access Trees contain accesses that you can not grant" xml:space="preserve">
+    <value>ئەم درەختانەی دەستگەیشتنی خوارەوە دەستگەیشتنێکیان تێدایە کە تۆ ناتوانیت بیبەخشیت</value>
+  </data>
+  <data name="Branches" xml:space="preserve">
+    <value>لقەکان</value>
+  </data>
+  <data name="Brand" xml:space="preserve">
+    <value>براند</value>
+  </data>
+  <data name="Brand Feature is locked" xml:space="preserve">
+    <value>تایبەتمەندیی براند قفڵکراوە</value>
+  </data>
+  <data name="Brand List" xml:space="preserve">
+    <value>لیستی براندەکان</value>
+  </data>
+  <data name="Brands" xml:space="preserve">
+    <value>براندەکان</value>
+  </data>
+  <data name="Built-In Data can't be modified." xml:space="preserve">
+    <value>داتای بنەڕەتی ناگۆڕدرێت.</value>
+  </data>
+  <data name="Calling Code" xml:space="preserve">
+    <value>کۆدی پەیوەندیکردن</value>
+  </data>
+  <data name="Cities" xml:space="preserve">
+    <value>شارەکان</value>
+  </data>
+  <data name="City" xml:space="preserve">
+    <value>شار</value>
+  </data>
+  <data name="City Feature is locked" xml:space="preserve">
+    <value>تایبەتمەندیی شار قفڵکراوە</value>
+  </data>
+  <data name="City List" xml:space="preserve">
+    <value>لیستی شارەکان</value>
+  </data>
+  <data name="Code Challenge" xml:space="preserve">
+    <value>تەحەدای کۆد</value>
+  </data>
+  <data name="Code Verifier" xml:space="preserve">
+    <value>پشتڕاستکەرەوەی کۆد</value>
+  </data>
+  <data name="Companies" xml:space="preserve">
+    <value>کۆمپانیاکان</value>
+  </data>
+  <data name="Company Branch List" xml:space="preserve">
+    <value>لیستی لقەکانی کۆمپانیا</value>
+  </data>
+  <data name="Company Feature is locked" xml:space="preserve">
+    <value>تایبەتمەندیی کۆمپانیا قفڵکراوە</value>
+  </data>
+  <data name="Company List" xml:space="preserve">
+    <value>لیستی کۆمپانیاکان</value>
+  </data>
+  <data name="Company Type" xml:space="preserve">
+    <value>جۆری کۆمپانیا</value>
+  </data>
+  <data name="Company and Region can not be changed after creation." xml:space="preserve">
+    <value>کۆمپانیا و هەرێم دوای دروستکردن ناگۆڕدرێن.</value>
+  </data>
+  <data name="Countries" xml:space="preserve">
+    <value>وڵاتەکان</value>
+  </data>
+  <data name="Country" xml:space="preserve">
+    <value>وڵات</value>
+  </data>
+  <data name="Country Feature is locked" xml:space="preserve">
+    <value>تایبەتمەندیی وڵات قفڵکراوە</value>
+  </data>
+  <data name="Country List" xml:space="preserve">
+    <value>لیستی وڵاتەکان</value>
+  </data>
+  <data name="Country can not be changed after creation." xml:space="preserve">
+    <value>وڵات دوای دروستکردن ناگۆڕدرێت.</value>
+  </data>
+  <data name="Current Password is incorrect" xml:space="preserve">
+    <value>وشەی نهێنیی ئێستا هەڵەیە</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>سڕینەوە</value>
+  </data>
+  <data name="Department" xml:space="preserve">
+    <value>بەش</value>
+  </data>
+  <data name="Department Feature is locked" xml:space="preserve">
+    <value>تایبەتمەندیی بەش قفڵکراوە</value>
+  </data>
+  <data name="Department List" xml:space="preserve">
+    <value>لیستی بەشەکان</value>
+  </data>
+  <data name="Departments" xml:space="preserve">
+    <value>بەشەکان</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>وەسف</value>
+  </data>
+  <data name="Display Name" xml:space="preserve">
+    <value>ناوی پیشاندان</value>
+  </data>
+  <data name="Duplicate" xml:space="preserve">
+    <value>دووبارە</value>
+  </data>
+  <data name="Duplicate users are not allowed." xml:space="preserve">
+    <value>بەکارهێنەری دووبارە ڕێگەپێنەدراوە.</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>هەڵە</value>
+  </data>
+  <data name="Failed to genearate auth-code" xml:space="preserve">
+    <value>دروستکردنی کۆدی ڕێگەپێدان سەرکەوتوو نەبوو</value>
+  </data>
+  <data name="Failed to genearate token" xml:space="preserve">
+    <value>دروستکردنی تۆکن سەرکەوتوو نەبوو</value>
+  </data>
+  <data name="Flag" xml:space="preserve">
+    <value>ئاڵا</value>
+  </data>
+  <data name="General" xml:space="preserve">
+    <value>گشتی</value>
+  </data>
+  <data name="HQ Address" xml:space="preserve">
+    <value>ناونیشانی بارەگای سەرەکی</value>
+  </data>
+  <data name="HQ Email" xml:space="preserve">
+    <value>ئیمەیڵی بارەگای سەرەکی</value>
+  </data>
+  <data name="HQ Phone" xml:space="preserve">
+    <value>تەلەفۆنی بارەگای سەرەکی</value>
+  </data>
+  <data name="Import User From CSV" xml:space="preserve">
+    <value>هاوردەکردنی بەکارهێنەر لە فایلی CSV</value>
+  </data>
+  <data name="Integration ID" xml:space="preserve">
+    <value>ناسنامەی یەکخستن</value>
+  </data>
+  <data name="Invalid Email Address" xml:space="preserve">
+    <value>ناونیشانی ئیمەیڵ نادروستە</value>
+  </data>
+  <data name="Invalid Phone Number" xml:space="preserve">
+    <value>ژمارەی تەلەفۆن نادروستە</value>
+  </data>
+  <data name="Invalid refresh token" xml:space="preserve">
+    <value>تۆکنی نوێکردنەوە نادروستە</value>
+  </data>
+  <data name="Latitude" xml:space="preserve">
+    <value>هێڵی پانی</value>
+  </data>
+  <data name="Legal Name" xml:space="preserve">
+    <value>ناوی یاسایی</value>
+  </data>
+  <data name="Longitude" xml:space="preserve">
+    <value>هێڵی درێژی</value>
+  </data>
+  <data name="Max" xml:space="preserve">
+    <value>زۆرترین</value>
+  </data>
+  <data name="Mobile Photos" xml:space="preserve">
+    <value>وێنەکانی مۆبایل</value>
+  </data>
+  <data name="New Password and Confirm Password do not match" xml:space="preserve">
+    <value>وشەی نهێنیی نوێ و دووپاتکردنەوەکەی وەک یەک نین</value>
+  </data>
+  <data name="New Password can not be the same as the current password" xml:space="preserve">
+    <value>وشەی نهێنیی نوێ ناتوانێت هەمان وشەی نهێنیی ئێستا بێت</value>
+  </data>
+  <data name="No Items found." xml:space="preserve">
+    <value>هیچ شتێک نەدۆزرایەوە.</value>
+  </data>
+  <data name="Password can not be empty." xml:space="preserve">
+    <value>وشەی نهێنی ناتوانێت بەتاڵ بێت.</value>
+  </data>
+  <data name="Photos" xml:space="preserve">
+    <value>وێنەکان</value>
+  </data>
+  <data name="Please enter a name" xml:space="preserve">
+    <value>تکایە ناوێک بنووسە</value>
+  </data>
+  <data name="Please provide" xml:space="preserve">
+    <value>تکایە {0} بنووسە</value>
+  </data>
+  <data name="Please provide a valid date" xml:space="preserve">
+    <value>تکایە بەروارێکی دروست بنووسە</value>
+  </data>
+  <data name="Please select" xml:space="preserve">
+    <value>تکایە {0} هەڵبژێرە</value>
+  </data>
+  <data name="Please select an action from the options" xml:space="preserve">
+    <value>تکایە کردارێک لە هەڵبژاردنەکان هەڵبژێرە</value>
+  </data>
+  <data name="Presentation" xml:space="preserve">
+    <value>پیشاندان</value>
+  </data>
+  <data name="Publish Targets" xml:space="preserve">
+    <value>شوێنەکانی بڵاوکردنەوە</value>
+  </data>
+  <data name="Read" xml:space="preserve">
+    <value>خوێندنەوە</value>
+  </data>
+  <data name="Redirect URI" xml:space="preserve">
+    <value>بەستەری ئاراستەکردنەوە</value>
+  </data>
+  <data name="Refresh Token" xml:space="preserve">
+    <value>تۆکنی نوێکردنەوە</value>
+  </data>
+  <data name="Region" xml:space="preserve">
+    <value>هەرێم</value>
+  </data>
+  <data name="Region List" xml:space="preserve">
+    <value>لیستی هەرێمەکان</value>
+  </data>
+  <data name="Regions" xml:space="preserve">
+    <value>هەرێمەکان</value>
+  </data>
+  <data name="Select All" xml:space="preserve">
+    <value>هەمووی هەڵبژێرە</value>
+  </data>
+  <data name="Select CSV File" xml:space="preserve">
+    <value>فایلی CSV هەڵبژێرە</value>
+  </data>
+  <data name="Service" xml:space="preserve">
+    <value>خزمەتگوزاری</value>
+  </data>
+  <data name="Service Feature is locked" xml:space="preserve">
+    <value>تایبەتمەندیی خزمەتگوزاری قفڵکراوە</value>
+  </data>
+  <data name="Service List" xml:space="preserve">
+    <value>لیستی خزمەتگوزارییەکان</value>
+  </data>
+  <data name="Services" xml:space="preserve">
+    <value>خزمەتگوزارییەکان</value>
+  </data>
+  <data name="Short Code" xml:space="preserve">
+    <value>کۆدی کورت</value>
+  </data>
+  <data name="Short Phone" xml:space="preserve">
+    <value>ژمارەی کورت</value>
+  </data>
+  <data name="Standard Working Day" xml:space="preserve">
+    <value>ڕۆژی کاری ستاندارد</value>
+  </data>
+  <data name="Standard Working Hours" xml:space="preserve">
+    <value>کاتژمێرەکانی کاری ستاندارد</value>
+  </data>
+  <data name="Team" xml:space="preserve">
+    <value>تیم</value>
+  </data>
+  <data name="Team Feature is locked" xml:space="preserve">
+    <value>تایبەتمەندیی تیم قفڵکراوە</value>
+  </data>
+  <data name="Team List" xml:space="preserve">
+    <value>لیستی تیمەکان</value>
+  </data>
+  <data name="Team Name" xml:space="preserve">
+    <value>ناوی تیم</value>
+  </data>
+  <data name="Teams" xml:space="preserve">
+    <value>تیمەکان</value>
+  </data>
+  <data name="The App ID {0} already exists." xml:space="preserve">
+    <value>ناسنامەی ئەپی {0} پێشتر هەیە.</value>
+  </data>
+  <data name="The email {0} exist" xml:space="preserve">
+    <value>ئیمەیڵی {0} پێشتر هەیە</value>
+  </data>
+  <data name="The password cannot be the same as the Current Password" xml:space="preserve">
+    <value>وشەی نهێنی ناتوانێت هەمان وشەی نهێنیی ئێستا بێت</value>
+  </data>
+  <data name="The password must be at least n characters long" xml:space="preserve">
+    <value>وشەی نهێنی دەبێت لانیکەم {0} پیت بێت</value>
+  </data>
+  <data name="The password must contain at least 3 unique characters" xml:space="preserve">
+    <value>وشەی نهێنی دەبێت لانیکەم 3 پیتی جیاوازی تێدا بێت</value>
+  </data>
+  <data name="The password must contain at least one digit" xml:space="preserve">
+    <value>وشەی نهێنی دەبێت لانیکەم یەک ژمارەی تێدا بێت</value>
+  </data>
+  <data name="The phone {0} exist" xml:space="preserve">
+    <value>تەلەفۆنی {0} پێشتر هەیە</value>
+  </data>
+  <data name="The user is deactivated" xml:space="preserve">
+    <value>بەکارهێنەرەکە ناچالاک کراوە</value>
+  </data>
+  <data name="The user will be redirected to" xml:space="preserve">
+    <value>بەکارهێنەر ئاراستە دەکرێتەوە بۆ</value>
+  </data>
+  <data name="The username {0} exist" xml:space="preserve">
+    <value>ناوی بەکارهێنەری {0} پێشتر هەیە</value>
+  </data>
+  <data name="User Feature is locked" xml:space="preserve">
+    <value>تایبەتمەندیی بەکارهێنەر قفڵکراوە</value>
+  </data>
+  <data name="User is lockdown for {0} minutes" xml:space="preserve">
+    <value>بەکارهێنەر بۆ ماوەی {0} خولەک قفڵ کراوە</value>
+  </data>
+  <data name="Username or password is incorrect" xml:space="preserve">
+    <value>ناوی بەکارهێنەر یان وشەی نهێنی هەڵەیە</value>
+  </data>
+  <data name="Users" xml:space="preserve">
+    <value>بەکارهێنەران</value>
+  </data>
+  <data name="Validation Error" xml:space="preserve">
+    <value>هەڵەی پشتڕاستکردنەوە</value>
+  </data>
+  <data name="Write" xml:space="preserve">
+    <value>نووسین</value>
+  </data>
+  <data name="Your input cannot be more than 255 characters" xml:space="preserve">
+    <value>نووسینەکەت ناتوانێت لە 255 پیت زیاتر بێت</value>
+  </data>
+  <data name="Your input cannot be more than 4000 characters" xml:space="preserve">
+    <value>نووسینەکەت ناتوانێت لە 4000 پیت زیاتر بێت</value>
+  </data>
+  <data name="the access tree name {0} already exists." xml:space="preserve">
+    <value>ناوی درەختی دەستگەیشتنی {0} پێشتر هەیە.</value>
+  </data>
+  <data name="Turn off MFA" xml:space="preserve">
+    <value>کوژاندنەوەی ناسینەوەی دوو هەنگاوی</value>
+  </data>
+  <data name="Turn off MFA for this user" xml:space="preserve">
+    <value>کوژاندنەوەی ناسینەوەی دوو هەنگاوی بۆ ئەم بەکارهێنەرە</value>
+  </data>
+  <data name="The user will sign in with their password only and is signed out on every device. They can set up an authenticator again from their profile." xml:space="preserve">
+    <value>بەکارهێنەرەکە تەنها بە وشەی نهێنی دەچێتە ژوورەوە و لە هەموو ئامێرەکان دەکرێتە دەرەوە. دەتوانێت لە پرۆفایلەکەیەوە دووبارە ئەپی ناسینەوە ڕێکبخات.</value>
+  </data>
+  <data name="This also ends the recovery the user is waiting for. A recovery code already given to them stops working." xml:space="preserve">
+    <value>ئەمە ئەو گەڕاندنەوەیەش کۆتایی پێدەهێنێت کە بەکارهێنەرەکە چاوەڕێی دەکات. ئەو کۆدی گەڕاندنەوەیەی پێشتر پێی دراوە چیتر کار ناکات.</value>
+  </data>
+  <data name="If the user lost or replaced their phone, use Recover authenticator instead: it keeps MFA on. Turn MFA off only when you have confirmed that the user asked for it. Record the support ticket or a short note below; Shift saves it for audit." xml:space="preserve">
+    <value>ئەگەر بەکارهێنەرەکە مۆبایلەکەی ون کردووە یان گۆڕیویەتی، لە جیاتی ئەمە «گەڕاندنەوەی ئەپی ناسینەوە» بەکاربهێنە، چونکە ناسینەوەی دوو هەنگاوی چالاک دەهێڵێتەوە. تەنها کاتێک ناسینەوەی دوو هەنگاوی بکوژێنەوە کە دڵنیا بوویت بەکارهێنەرەکە خۆی داوای کردووە. تیکێتی پشتگیری یان تێبینییەکی کورت لە خوارەوە تۆمار بکە؛ Shift بۆ وردبینی هەڵیدەگرێت.</value>
+  </data>
+  <data name="MFA turned off" xml:space="preserve">
+    <value>ناسینەوەی دوو هەنگاوی کوژێنرایەوە</value>
+  </data>
+  <data name="MFA was already off" xml:space="preserve">
+    <value>ناسینەوەی دوو هەنگاوی پێشتر کوژابووەوە</value>
+  </data>
+  <data name="The user now signs in with their password only." xml:space="preserve">
+    <value>بەکارهێنەرەکە ئێستا تەنها بە وشەی نهێنی دەچێتە ژوورەوە.</value>
+  </data>
+  <data name="Sign in again before turning off MFA." xml:space="preserve">
+    <value>پێش کوژاندنەوەی ناسینەوەی دوو هەنگاوی، دووبارە بچۆ ژوورەوە.</value>
+  </data>
+  <data name="MFA cannot be turned off here. It may be mandatory on this system, or you lack the Manage MFA Recovery permission. For your own account, use your profile." xml:space="preserve">
+    <value>لێرە ناتوانرێت ناسینەوەی دوو هەنگاوی بکوژێنرێتەوە. لەوانەیە لەم سیستەمەدا ناچاری بێت، یان پێویستت بە دەسەڵاتی Manage MFA Recovery هەیە. بۆ هەژماری خۆت، پرۆفایلەکەت بەکاربهێنە.</value>
+  </data>
+  <data name="This account is deleted, so its MFA cannot be changed." xml:space="preserve">
+    <value>ئەم هەژمارە سڕاوەتەوە، بۆیە ناسینەوەی دوو هەنگاوییەکەی ناگۆڕدرێت.</value>
+  </data>
+  <data name="The service is unavailable. Wait a moment and try again." xml:space="preserve">
+    <value>خزمەتگوزارییەکە بەردەست نییە. کەمێک چاوەڕێ بکە و دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Confirm your password when you are asked, then turn off MFA again." xml:space="preserve">
+    <value>کاتێک داوات لێدەکرێت وشەی نهێنییەکەت پشتڕاست بکەرەوە، پاشان دووبارە ناسینەوەی دوو هەنگاوی بکوژێنەوە.</value>
+  </data>
+  <data name="Turning off MFA could not be confirmed. Open the user again to see whether it is still on." xml:space="preserve">
+    <value>کوژاندنەوەی ناسینەوەی دوو هەنگاوی پشتڕاست نەکرایەوە. بەکارهێنەرەکە دووبارە بکەرەوە بۆ ئەوەی بزانیت هێشتا چالاکە یان نا.</value>
+  </data>
+  <data name="Opt out of MFA" xml:space="preserve">
+    <value>ناچالاککردنی ناسینەوەی دوو هەنگاوی</value>
+  </data>
+  <data name="Enter a code from your authenticator app. After that you sign in with your password only, and you are signed out on your other devices." xml:space="preserve">
+    <value>کۆدێک لە ئەپی ناسینەوەکەتەوە بنووسە. دوای ئەوە تەنها بە وشەی نهێنی دەچیتە ژوورەوە، و لە ئامێرەکانی ترت دەکرێیتە دەرەوە.</value>
+  </data>
+  <data name="Opt out" xml:space="preserve">
+    <value>ناچالاککردن</value>
+  </data>
+  <data name="MFA is off" xml:space="preserve">
+    <value>ناسینەوەی دوو هەنگاوی ناچالاکە</value>
+  </data>
+  <data name="Sign in again with your password to continue." xml:space="preserve">
+    <value>بۆ بەردەوامبوون، دووبارە بە وشەی نهێنییەکەت بچۆ ژوورەوە.</value>
+  </data>
+  <data name="You now sign in with your password only. To use an authenticator again, choose Set up authenticator on your profile." xml:space="preserve">
+    <value>ئێستا تەنها بە وشەی نهێنی دەچیتە ژوورەوە. بۆ ئەوەی دووبارە ئەپی ناسینەوە بەکاربهێنیت، لە پرۆفایلەکەت «ڕێکخستنی ئەپی ناسینەوە» هەڵبژێرە.</value>
+  </data>
+  <data name="That code was not accepted. Wait for a new code and try again." xml:space="preserve">
+    <value>ئەو کۆدە وەرنەگیرا. چاوەڕێی کۆدێکی نوێ بکە و دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Too many attempts. Wait a few minutes and try again." xml:space="preserve">
+    <value>هەوڵدانەکان زۆر بوون. چەند خولەکێک چاوەڕێ بکە و دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="MFA is required on this system, so it cannot be turned off." xml:space="preserve">
+    <value>ناسینەوەی دوو هەنگاوی لەم سیستەمەدا ناچارییە، بۆیە ناتوانرێت بکوژێنرێتەوە.</value>
+  </data>
+  <data name="Opting out could not be confirmed. Sign in again to check whether MFA is still on." xml:space="preserve">
+    <value>ناچالاککردنەکە پشتڕاست نەکرایەوە. دووبارە بچۆ ژوورەوە بۆ ئەوەی بزانیت ناسینەوەی دوو هەنگاوی هێشتا چالاکە یان نا.</value>
   </data>
 </root>

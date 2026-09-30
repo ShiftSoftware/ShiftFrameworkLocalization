@@ -127,11 +127,11 @@
     <value>Список доступов</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Access Trees" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Access Trees" xml:space="preserve">
+    <value>Уровни доступа</value>
   </data>
-  <data name="Action Tree" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Action Tree" xml:space="preserve">
+    <value>Дерево действий</value>
   </data>
   <data name="Active" xml:space="preserve">
     <value>Активный</value>
@@ -323,7 +323,7 @@
     <value>Юридическое название</value>
   </data>
   <data name="Login" xml:space="preserve">
-    <value>Логин</value>
+    <value>Войти</value>
   </data>
   <data name="Longitude" xml:space="preserve">
     <value>Долгота</value>
@@ -690,5 +690,926 @@
   </data>
   <data name="The Redirect URI cannot end with / or /Auth/Token" xml:space="preserve">
     <value>Ссылка для перенаправления не может заканчиваться на / или /Auth/Token</value>
+  </data>
+  <data name="Can't access your account?" xml:space="preserve">
+    <value>Не удаётся войти в аккаунт?</value>
+  </data>
+  <data name="Choose how you'd like to get back in." xml:space="preserve">
+    <value>Выберите способ восстановить доступ.</value>
+  </data>
+  <data name="Forgot password" xml:space="preserve">
+    <value>Забыли пароль</value>
+  </data>
+  <data name="Get a password reset link by email." xml:space="preserve">
+    <value>Получите ссылку для сброса пароля по электронной почте.</value>
+  </data>
+  <data name="Recover your authenticator app" xml:space="preserve">
+    <value>Восстановить приложение-аутентификатор</value>
+  </data>
+  <data name="Restore two-factor authentication (MFA) using your current password and an admin recovery code." xml:space="preserve">
+    <value>Восстановите двухфакторную аутентификацию (MFA) с помощью текущего пароля и кода восстановления от администратора.</value>
+  </data>
+  <data name="Verify your email" xml:space="preserve">
+    <value>Подтвердите адрес электронной почты</value>
+  </data>
+  <data name="Verify your saved email address before signing in." xml:space="preserve">
+    <value>Перед входом подтвердите сохранённый адрес электронной почты.</value>
+  </data>
+  <data name="Send email verification link" xml:space="preserve">
+    <value>Отправить ссылку для подтверждения почты</value>
+  </data>
+  <data name="Additional account verification is required before signing in." xml:space="preserve">
+    <value>Перед входом требуется дополнительная проверка аккаунта.</value>
+  </data>
+  <data name="Error reference" xml:space="preserve">
+    <value>Код ошибки</value>
+  </data>
+  <data name="Signing in…" xml:space="preserve">
+    <value>Выполняется вход…</value>
+  </data>
+  <data name="Authenticator recovery completed. Sign in with your password and a new code from your authenticator." xml:space="preserve">
+    <value>Восстановление аутентификатора завершено. Войдите с паролем и новым кодом из аутентификатора.</value>
+  </data>
+  <data name="Password reset. Sign in with your new password." xml:space="preserve">
+    <value>Пароль сброшен. Войдите с новым паролем.</value>
+  </data>
+  <data name="Cancellation could not be confirmed. Sign in again to check whether the security change completed." xml:space="preserve">
+    <value>Не удалось подтвердить отмену. Войдите снова, чтобы проверить, завершилось ли изменение настроек безопасности.</value>
+  </data>
+  <data name="Sign-in could not be completed. Try again." xml:space="preserve">
+    <value>Не удалось завершить вход. Попробуйте ещё раз.</value>
+  </data>
+  <data name="We couldn't reach the sign-in service." xml:space="preserve">
+    <value>Не удалось связаться со службой входа.</value>
+  </data>
+  <data name="Username or password is incorrect." xml:space="preserve">
+    <value>Неверное имя пользователя или пароль.</value>
+  </data>
+  <data name="We couldn't sign you in." xml:space="preserve">
+    <value>Не удалось выполнить вход.</value>
+  </data>
+  <data name="Check your connection and try again in a moment." xml:space="preserve">
+    <value>Проверьте подключение и попробуйте ещё раз чуть позже.</value>
+  </data>
+  <data name="Try again, or get help accessing your account." xml:space="preserve">
+    <value>Попробуйте ещё раз или получите помощь с доступом к аккаунту.</value>
+  </data>
+  <data name="Try again in a moment. If the problem continues, share this error reference with your administrator." xml:space="preserve">
+    <value>Попробуйте ещё раз чуть позже. Если проблема сохраняется, сообщите этот код ошибки администратору.</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Назад</value>
+  </data>
+  <data name="Logo" xml:space="preserve">
+    <value>Логотип</value>
+  </data>
+  <data name="Show" xml:space="preserve">
+    <value>Показать</value>
+  </data>
+  <data name="Hide" xml:space="preserve">
+    <value>Скрыть</value>
+  </data>
+  <data name="Check your inbox" xml:space="preserve">
+    <value>Проверьте почту</value>
+  </data>
+  <data name="Look for a verification email in your inbox. It may take a few minutes to arrive. Check your spam folder too." xml:space="preserve">
+    <value>Найдите во входящих письмо для подтверждения. Оно может прийти в течение нескольких минут. Проверьте также папку «Спам».</value>
+  </data>
+  <data name="Look for a password reset email in your inbox. It may take a few minutes to arrive. Check your spam folder too." xml:space="preserve">
+    <value>Найдите во входящих письмо для сброса пароля. Оно может прийти в течение нескольких минут. Проверьте также папку «Спам».</value>
+  </data>
+  <data name="Back to login" xml:space="preserve">
+    <value>Вернуться ко входу</value>
+  </data>
+  <data name="Reset your password" xml:space="preserve">
+    <value>Сброс пароля</value>
+  </data>
+  <data name="Enter your username or saved email address." xml:space="preserve">
+    <value>Введите имя пользователя или сохранённый адрес электронной почты.</value>
+  </data>
+  <data name="Username or email" xml:space="preserve">
+    <value>Имя пользователя или почта</value>
+  </data>
+  <data name="Sending request…" xml:space="preserve">
+    <value>Отправка запроса…</value>
+  </data>
+  <data name="Send verification link" xml:space="preserve">
+    <value>Отправить ссылку для подтверждения</value>
+  </data>
+  <data name="Send reset link" xml:space="preserve">
+    <value>Отправить ссылку для сброса</value>
+  </data>
+  <data name="Email requests are unavailable right now. Please wait and try again." xml:space="preserve">
+    <value>Запросы по электронной почте сейчас недоступны. Подождите и попробуйте ещё раз.</value>
+  </data>
+  <data name="The request could not be completed. Please try again." xml:space="preserve">
+    <value>Не удалось выполнить запрос. Попробуйте ещё раз.</value>
+  </data>
+  <data name="Enter your saved email address." xml:space="preserve">
+    <value>Введите сохранённый адрес электронной почты.</value>
+  </data>
+  <data name="Email verification is unavailable here." xml:space="preserve">
+    <value>Подтверждение электронной почты здесь недоступно.</value>
+  </data>
+  <data name="Ask your administrator for a recovery code, then enter it with your current password to set up a new authenticator app for two-factor authentication (MFA). This does not reset your password." xml:space="preserve">
+    <value>Попросите у администратора код восстановления, затем введите его вместе с текущим паролем, чтобы настроить новое приложение-аутентификатор для двухфакторной аутентификации (MFA). Пароль при этом не сбрасывается.</value>
+  </data>
+  <data name="Recovery code" xml:space="preserve">
+    <value>Код восстановления</value>
+  </data>
+  <data name="Continue recovery" xml:space="preserve">
+    <value>Продолжить восстановление</value>
+  </data>
+  <data name="Recovery could not be verified. Check your password and recovery code, or ask the administrator for a new code." xml:space="preserve">
+    <value>Не удалось подтвердить восстановление. Проверьте пароль и код восстановления или попросите у администратора новый код.</value>
+  </data>
+  <data name="Password changed" xml:space="preserve">
+    <value>Пароль изменён</value>
+  </data>
+  <data name="You are still signed in on this device. Other devices will need to sign in again." xml:space="preserve">
+    <value>Вы по-прежнему в системе на этом устройстве. На других устройствах потребуется войти снова.</value>
+  </data>
+  <data name="Done" xml:space="preserve">
+    <value>Готово</value>
+  </data>
+  <data name="Confirm it's you" xml:space="preserve">
+    <value>Подтвердите, что это вы</value>
+  </data>
+  <data name="Enter the 6-digit code from your authenticator app before you choose a new password." xml:space="preserve">
+    <value>Прежде чем выбрать новый пароль, введите 6-значный код из приложения-аутентификатора.</value>
+  </data>
+  <data name="Confirm your current password" xml:space="preserve">
+    <value>Подтвердите текущий пароль</value>
+  </data>
+  <data name="Enter the password you use now. Then you can choose a new one." xml:space="preserve">
+    <value>Введите пароль, который используете сейчас. Затем вы сможете выбрать новый.</value>
+  </data>
+  <data name="Continue" xml:space="preserve">
+    <value>Продолжить</value>
+  </data>
+  <data name="Choose a new password" xml:space="preserve">
+    <value>Выберите новый пароль</value>
+  </data>
+  <data name="Password changed. Additional account verification is required before signing in." xml:space="preserve">
+    <value>Пароль изменён. Перед входом требуется дополнительная проверка аккаунта.</value>
+  </data>
+  <data name="Additional account verification is required before the password can be changed." xml:space="preserve">
+    <value>Прежде чем изменить пароль, требуется дополнительная проверка аккаунта.</value>
+  </data>
+  <data name="You must change your password" xml:space="preserve">
+    <value>Необходимо сменить пароль</value>
+  </data>
+  <data name="Cancellation could not be confirmed. Sign in again to check whether the password change completed." xml:space="preserve">
+    <value>Не удалось подтвердить отмену. Войдите снова, чтобы проверить, завершилась ли смена пароля.</value>
+  </data>
+  <data name="Your session has expired. Please log in again." xml:space="preserve">
+    <value>Срок действия сеанса истёк. Войдите снова.</value>
+  </data>
+  <data name="Replace your authenticator" xml:space="preserve">
+    <value>Замена аутентификатора</value>
+  </data>
+  <data name="Set up your authenticator" xml:space="preserve">
+    <value>Настройка аутентификатора</value>
+  </data>
+  <data name="Authenticator replaced" xml:space="preserve">
+    <value>Аутентификатор заменён</value>
+  </data>
+  <data name="Authenticator set up" xml:space="preserve">
+    <value>Аутентификатор настроен</value>
+  </data>
+  <data name="Your old authenticator no longer works. From now on, use the new app when you sign in." xml:space="preserve">
+    <value>Старый аутентификатор больше не работает. Теперь при входе используйте новое приложение.</value>
+  </data>
+  <data name="From now on, sign in with your password and a code from this app." xml:space="preserve">
+    <value>Теперь входите с паролем и кодом из этого приложения.</value>
+  </data>
+  <data name="Authenticator recovery is required" xml:space="preserve">
+    <value>Требуется восстановление аутентификатора</value>
+  </data>
+  <data name="An administrator reset your authenticator app. Ask them for a recovery code. The next time you sign in, you enter it with your password and then set up a new authenticator app." xml:space="preserve">
+    <value>Администратор сбросил ваше приложение-аутентификатор. Попросите у него код восстановления. При следующем входе вы введёте его вместе с паролем, а затем настроите новое приложение-аутентификатор.</value>
+  </data>
+  <data name="Enter your password to start setting up an authenticator app." xml:space="preserve">
+    <value>Введите пароль, чтобы начать настройку приложения-аутентификатора.</value>
+  </data>
+  <data name="Confirm your current authenticator" xml:space="preserve">
+    <value>Подтвердите текущий аутентификатор</value>
+  </data>
+  <data name="Enter a code from the authenticator app you use now. It keeps working until the new one is confirmed." xml:space="preserve">
+    <value>Введите код из приложения-аутентификатора, которым пользуетесь сейчас. Оно продолжит работать, пока новое не будет подтверждено.</value>
+  </data>
+  <data name="Scan the QR code" xml:space="preserve">
+    <value>Отсканируйте QR-код</value>
+  </data>
+  <data name="Scan this code with your authenticator app, or enter the setup key by hand. Then enter the 6-digit code the app shows." xml:space="preserve">
+    <value>Отсканируйте этот код приложением-аутентификатором или введите ключ настройки вручную. Затем введите 6-значный код, который покажет приложение.</value>
+  </data>
+  <data name="Authenticator setup QR code" xml:space="preserve">
+    <value>QR-код для настройки аутентификатора</value>
+  </data>
+  <data name="Setup key" xml:space="preserve">
+    <value>Ключ настройки</value>
+  </data>
+  <data name="Copy setup key" xml:space="preserve">
+    <value>Скопировать ключ настройки</value>
+  </data>
+  <data name="Code from the new app" xml:space="preserve">
+    <value>Код из нового приложения</value>
+  </data>
+  <data name="Confirm authenticator" xml:space="preserve">
+    <value>Подтвердить аутентификатор</value>
+  </data>
+  <data name="Authenticator updated. Additional account verification is required before signing in." xml:space="preserve">
+    <value>Аутентификатор обновлён. Перед входом требуется дополнительная проверка аккаунта.</value>
+  </data>
+  <data name="Additional account verification is required before the authenticator can be changed." xml:space="preserve">
+    <value>Прежде чем изменить аутентификатор, требуется дополнительная проверка аккаунта.</value>
+  </data>
+  <data name="Cancel setup" xml:space="preserve">
+    <value>Отменить настройку</value>
+  </data>
+  <data name="You must set up two-factor authentication to continue" xml:space="preserve">
+    <value>Для продолжения необходимо настроить двухфакторную аутентификацию</value>
+  </data>
+  <data name="Could not start two-factor setup. Please try again." xml:space="preserve">
+    <value>Не удалось начать настройку двухфакторной аутентификации. Попробуйте ещё раз.</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Повторить</value>
+  </data>
+  <data name="Scan the QR code with your authenticator app, then enter the 6-digit code it shows to finish setup." xml:space="preserve">
+    <value>Отсканируйте QR-код приложением-аутентификатором, затем введите показанный 6-значный код, чтобы завершить настройку.</value>
+  </data>
+  <data name="Two-factor authentication QR code" xml:space="preserve">
+    <value>QR-код двухфакторной аутентификации</value>
+  </data>
+  <data name="Can't scan it? Enter this key manually:" xml:space="preserve">
+    <value>Не удаётся отсканировать? Введите этот ключ вручную:</value>
+  </data>
+  <data name="Code" xml:space="preserve">
+    <value>Код</value>
+  </data>
+  <data name="Verify" xml:space="preserve">
+    <value>Подтвердить</value>
+  </data>
+  <data name="That password or code was not accepted. Try again." xml:space="preserve">
+    <value>Пароль или код не приняты. Попробуйте ещё раз.</value>
+  </data>
+  <data name="Setup could not be confirmed. Sign in again to check which authenticator is active." xml:space="preserve">
+    <value>Не удалось подтвердить настройку. Войдите снова, чтобы проверить, какой аутентификатор активен.</value>
+  </data>
+  <data name="Enter your authenticator code" xml:space="preserve">
+    <value>Введите код аутентификатора</value>
+  </data>
+  <data name="Open your authenticator app and enter the 6-digit code it shows for this account." xml:space="preserve">
+    <value>Откройте приложение-аутентификатор и введите 6-значный код, который оно показывает для этого аккаунта.</value>
+  </data>
+  <data name="Verifying…" xml:space="preserve">
+    <value>Проверка…</value>
+  </data>
+  <data name="Enter the code from your two-factor authentication app or browser extension below" xml:space="preserve">
+    <value>Введите ниже код из приложения двухфакторной аутентификации или расширения браузера</value>
+  </data>
+  <data name="Invalid code" xml:space="preserve">
+    <value>Неверный код</value>
+  </data>
+  <data name="Recover authenticator" xml:space="preserve">
+    <value>Восстановить аутентификатор</value>
+  </data>
+  <data name="Help a user recover their authenticator" xml:space="preserve">
+    <value>Помогите пользователю восстановить аутентификатор</value>
+  </data>
+  <data name="First confirm the person's identity using your team's procedure. Record the support ticket or a short note below. Shift saves this note for audit but cannot verify whether it is true." xml:space="preserve">
+    <value>Сначала подтвердите личность человека по процедуре вашей команды. Укажите ниже номер обращения в поддержку или короткую заметку. Shift сохраняет эту заметку для аудита, но не может проверить её достоверность.</value>
+  </data>
+  <data name="Issuing a recovery code disables the old authenticator. Local sign-in waits until the user completes recovery. The generated recovery code is separate from this note; give it to the verified person privately." xml:space="preserve">
+    <value>Выдача кода восстановления отключает старый аутентификатор. Локальный вход будет недоступен, пока пользователь не завершит восстановление. Сгенерированный код восстановления не относится к этой заметке; передайте его проверенному человеку конфиденциально.</value>
+  </data>
+  <data name="Support ticket or identity-check note" xml:space="preserve">
+    <value>Номер обращения или заметка о проверке личности</value>
+  </data>
+  <data name="Issue recovery code" xml:space="preserve">
+    <value>Выдать код восстановления</value>
+  </data>
+  <data name="Recovery code issued" xml:space="preserve">
+    <value>Код восстановления выдан</value>
+  </data>
+  <data name="Give this code to the verified person through your established private channel. It can be used once and expires at:" xml:space="preserve">
+    <value>Передайте этот код проверенному человеку по установленному закрытому каналу. Его можно использовать один раз, срок действия истекает в:</value>
+  </data>
+  <data name="Copied" xml:space="preserve">
+    <value>Скопировано</value>
+  </data>
+  <data name="Copy code" xml:space="preserve">
+    <value>Скопировать код</value>
+  </data>
+  <data name="The user signs in with their username and password." xml:space="preserve">
+    <value>Пользователь входит со своим именем пользователя и паролем.</value>
+  </data>
+  <data name="They enter their password again, with this code." xml:space="preserve">
+    <value>Снова вводит пароль вместе с этим кодом.</value>
+  </data>
+  <data name="They set up a new authenticator app." xml:space="preserve">
+    <value>Настраивает новое приложение-аутентификатор.</value>
+  </data>
+  <data name="Hide code" xml:space="preserve">
+    <value>Скрыть код</value>
+  </data>
+  <data name="Sign in again before issuing a recovery code." xml:space="preserve">
+    <value>Войдите снова, прежде чем выдавать код восстановления.</value>
+  </data>
+  <data name="You need the Manage MFA Recovery permission to issue a recovery code, and you cannot issue one for your own account." xml:space="preserve">
+    <value>Для выдачи кода восстановления нужно разрешение Manage MFA Recovery; для собственного аккаунта выдать код нельзя.</value>
+  </data>
+  <data name="This account is inactive or deleted, so its authenticator cannot be recovered." xml:space="preserve">
+    <value>Этот аккаунт неактивен или удалён, поэтому его аутентификатор нельзя восстановить.</value>
+  </data>
+  <data name="This account changed meanwhile. Close this window, open the user again and retry." xml:space="preserve">
+    <value>За это время аккаунт изменился. Закройте это окно, снова откройте пользователя и повторите попытку.</value>
+  </data>
+  <data name="The recovery service is unavailable. Wait a moment and try again." xml:space="preserve">
+    <value>Служба восстановления недоступна. Подождите немного и попробуйте ещё раз.</value>
+  </data>
+  <data name="Confirm your password when you are asked, then issue the code again." xml:space="preserve">
+    <value>Подтвердите пароль, когда появится запрос, затем выдайте код снова.</value>
+  </data>
+  <data name="Recovery issuance could not be confirmed. Check your permission and sign in again. A lost response may require issuing a new code." xml:space="preserve">
+    <value>Не удалось подтвердить выдачу кода восстановления. Проверьте разрешение и войдите снова. Если ответ был потерян, может потребоваться выдать новый код.</value>
+  </data>
+  <data name="Enroll Two Factor" xml:space="preserve">
+    <value>Подключить двухфакторную аутентификацию</value>
+  </data>
+  <data name="Authenticator recovery is required. Contact your administrator." xml:space="preserve">
+    <value>Требуется восстановление аутентификатора. Обратитесь к администратору.</value>
+  </data>
+  <data name="Authenticator" xml:space="preserve">
+    <value>Аутентификатор</value>
+  </data>
+  <data name="Replace authenticator" xml:space="preserve">
+    <value>Заменить аутентификатор</value>
+  </data>
+  <data name="Set up authenticator" xml:space="preserve">
+    <value>Настроить аутентификатор</value>
+  </data>
+  <data name="Send Email Verification" xml:space="preserve">
+    <value>Отправить подтверждение почты</value>
+  </data>
+  <data name="Authenticator App (TOTP)" xml:space="preserve">
+    <value>Приложение-аутентификатор (TOTP)</value>
+  </data>
+  <data name="Recovery required" xml:space="preserve">
+    <value>Требуется восстановление</value>
+  </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Включено</value>
+  </data>
+  <data name="Not set up" xml:space="preserve">
+    <value>Не настроено</value>
+  </data>
+  <data name="This user cannot sign in until they recover their authenticator app with a recovery code from an administrator." xml:space="preserve">
+    <value>Этот пользователь не сможет войти, пока не восстановит приложение-аутентификатор с помощью кода восстановления от администратора.</value>
+  </data>
+  <data name="View Effective Permissions" xml:space="preserve">
+    <value>Показать действующие разрешения</value>
+  </data>
+  <data name="Effective Permissions" xml:space="preserve">
+    <value>Действующие разрешения</value>
+  </data>
+  <data name="Password Length" xml:space="preserve">
+    <value>Длина пароля</value>
+  </data>
+  <data name="Reset TOTP" xml:space="preserve">
+    <value>Сбросить TOTP</value>
+  </data>
+  <data name="TOTP" xml:space="preserve">
+    <value>TOTP</value>
+  </data>
+  <data name="Recovery required: this user cannot sign in until they recover their authenticator app" xml:space="preserve">
+    <value>Требуется восстановление: этот пользователь не сможет войти, пока не восстановит приложение-аутентификатор</value>
+  </data>
+  <data name="Authenticator app (TOTP) is set up" xml:space="preserve">
+    <value>Приложение-аутентификатор (TOTP) настроено</value>
+  </data>
+  <data name="No authenticator app (TOTP)" xml:space="preserve">
+    <value>Нет приложения-аутентификатора (TOTP)</value>
+  </data>
+  <data name="Use 15–128 characters. Spaces and Unicode are allowed. Choose a different password that is not common or based on your username." xml:space="preserve">
+    <value>Используйте от 15 до 128 символов. Допускаются пробелы и символы Unicode. Выберите другой пароль — не распространённый и не основанный на вашем имени пользователя.</value>
+  </data>
+  <data name="The password must be at least 15 characters long" xml:space="preserve">
+    <value>Пароль должен содержать не менее 15 символов</value>
+  </data>
+  <data name="The password must not be longer than 128 characters" xml:space="preserve">
+    <value>Пароль должен содержать не более 128 символов</value>
+  </data>
+  <data name="The password contains characters that are not allowed" xml:space="preserve">
+    <value>Пароль содержит недопустимые символы</value>
+  </data>
+  <data name="This password is too common or based on the username" xml:space="preserve">
+    <value>Этот пароль слишком распространён или основан на имени пользователя</value>
+  </data>
+  <data name="This field is required." xml:space="preserve">
+    <value>Это поле обязательно.</value>
+  </data>
+  <data name="This value is too short." xml:space="preserve">
+    <value>Слишком короткое значение.</value>
+  </data>
+  <data name="This value is too long." xml:space="preserve">
+    <value>Слишком длинное значение.</value>
+  </data>
+  <data name="This value is not valid." xml:space="preserve">
+    <value>Недопустимое значение.</value>
+  </data>
+  <data name="Passwords must match." xml:space="preserve">
+    <value>Пароли должны совпадать.</value>
+  </data>
+  <data name="Enter the code the app shows, using digits only." xml:space="preserve">
+    <value>Введите код, который показывает приложение, только цифрами.</value>
+  </data>
+  <data name="Choose a password different from your current password." xml:space="preserve">
+    <value>Выберите пароль, отличный от текущего.</value>
+  </data>
+  <data name="This password is too common or based on your username. Choose another." xml:space="preserve">
+    <value>Этот пароль слишком распространён или основан на вашем имени пользователя. Выберите другой.</value>
+  </data>
+  <data name="The operation could not be completed. Sign in again to check your password; a lost response may follow a completed change." xml:space="preserve">
+    <value>Не удалось завершить операцию. Войдите снова, чтобы проверить пароль: изменение могло завершиться, даже если ответ потерялся.</value>
+  </data>
+  <data name="Checking your link…" xml:space="preserve">
+    <value>Проверка ссылки…</value>
+  </data>
+  <data name="For {0}" xml:space="preserve">
+    <value>Для {0}</value>
+  </data>
+  <data name="Opening this page does not verify your email. Confirm that this email address belongs to you." xml:space="preserve">
+    <value>Открытие этой страницы не подтверждает адрес. Подтвердите, что этот адрес электронной почты принадлежит вам.</value>
+  </data>
+  <data name="Verify my email" xml:space="preserve">
+    <value>Подтвердить мой адрес</value>
+  </data>
+  <data name="Your authenticator and recovery requirements still apply after resetting your password." xml:space="preserve">
+    <value>Требования к аутентификатору и восстановлению сохраняются и после сброса пароля.</value>
+  </data>
+  <data name="Your email is verified. You can now return to login." xml:space="preserve">
+    <value>Адрес электронной почты подтверждён. Теперь можно вернуться ко входу.</value>
+  </data>
+  <data name="Return to login" xml:space="preserve">
+    <value>Вернуться ко входу</value>
+  </data>
+  <data name="Request a new link" xml:space="preserve">
+    <value>Запросить новую ссылку</value>
+  </data>
+  <data name="This link is invalid, expired or has been replaced. Request a new link." xml:space="preserve">
+    <value>Эта ссылка недействительна, устарела или заменена. Запросите новую ссылку.</value>
+  </data>
+  <data name="The link could not be opened. Please reopen it and try again." xml:space="preserve">
+    <value>Не удалось открыть ссылку. Откройте её снова и попробуйте ещё раз.</value>
+  </data>
+  <data name="Choose a password that meets the password requirements and try again." xml:space="preserve">
+    <value>Выберите пароль, соответствующий требованиям, и попробуйте ещё раз.</value>
+  </data>
+  <data name="Verification could not be confirmed. The link may have expired or been replaced. Request a new link." xml:space="preserve">
+    <value>Не удалось подтвердить адрес. Возможно, ссылка устарела или была заменена. Запросите новую ссылку.</value>
+  </data>
+  <data name="The change could not be confirmed. The link may have expired or been replaced. Request a new link; if you just reset your password, try signing in with the new password first." xml:space="preserve">
+    <value>Не удалось подтвердить изменение. Возможно, ссылка устарела или была заменена. Запросите новую ссылку; если вы только что сбросили пароль, сначала попробуйте войти с новым паролем.</value>
+  </data>
+  <data name="Confirm your identity" xml:space="preserve">
+    <value>Подтвердите личность</value>
+  </data>
+  <data name="Confirm your current administrator account to continue. Your edits and selection will stay here." xml:space="preserve">
+    <value>Чтобы продолжить, подтвердите текущую учётную запись администратора. Ваши правки и выбор сохранятся.</value>
+  </data>
+  <data name="Your password" xml:space="preserve">
+    <value>Ваш пароль</value>
+  </data>
+  <data name="Authenticator code" xml:space="preserve">
+    <value>Код аутентификатора</value>
+  </data>
+  <data name="Confirm and continue" xml:space="preserve">
+    <value>Подтвердить и продолжить</value>
+  </data>
+  <data name="The password or authenticator code was not accepted. Check it and try again." xml:space="preserve">
+    <value>Пароль или код аутентификатора не приняты. Проверьте и попробуйте ещё раз.</value>
+  </data>
+  <data name="Too many attempts. Cancel and try again later." xml:space="preserve">
+    <value>Слишком много попыток. Отмените и попробуйте позже.</value>
+  </data>
+  <data name="Confirmation could not be completed. Your action has not been retried. Cancel and try again later." xml:space="preserve">
+    <value>Не удалось завершить подтверждение. Действие не было повторено. Отмените и попробуйте позже.</value>
+  </data>
+  <data name="Your session or account changed, or confirmation expired. Cancel and review your session before trying again." xml:space="preserve">
+    <value>Сеанс или аккаунт изменились, либо срок подтверждения истёк. Отмените и проверьте сеанс, прежде чем пробовать снова.</value>
+  </data>
+  <data name="Send password reset link" xml:space="preserve">
+    <value>Отправить ссылку для сброса пароля</value>
+  </data>
+  <data name="If the saved address is eligible, check its inbox. Wait before requesting another link." xml:space="preserve">
+    <value>Если сохранённый адрес подходит, проверьте его почтовый ящик. Подождите, прежде чем запрашивать новую ссылку.</value>
+  </data>
+  <data name="The send could not be confirmed. Check the recipient's inbox, wait and request a fresh link." xml:space="preserve">
+    <value>Не удалось подтвердить отправку. Проверьте почтовый ящик получателя, подождите и запросите новую ссылку.</value>
+  </data>
+  <data name="The request could not be completed. Check your session and Users write permission before sending links." xml:space="preserve">
+    <value>Не удалось выполнить запрос. Перед отправкой ссылок проверьте сеанс и разрешение на запись пользователей.</value>
+  </data>
+  <data name="Check your saved email inbox. Wait before requesting another link." xml:space="preserve">
+    <value>Проверьте почту на сохранённом адресе. Подождите, прежде чем запрашивать новую ссылку.</value>
+  </data>
+  <data name="The send could not be confirmed. Check your inbox, wait and retry; sign in again if your session is no longer accepted." xml:space="preserve">
+    <value>Не удалось подтвердить отправку. Проверьте почту, подождите и повторите попытку; если сеанс больше не принимается, войдите снова.</value>
+  </data>
+  <data name="The user was saved, but the verification send could not be confirmed. Check the recipient's inbox, wait and request a fresh link." xml:space="preserve">
+    <value>Пользователь сохранён, но отправку письма для подтверждения подтвердить не удалось. Проверьте почтовый ящик получателя, подождите и запросите новую ссылку.</value>
+  </data>
+  <data name="The Password for ({0}) users has been reseted." xml:space="preserve">
+    <value>Пароль сброшен у пользователей: {0}.</value>
+  </data>
+  <data name="Password Reset Results" xml:space="preserve">
+    <value>Результаты сброса паролей</value>
+  </data>
+  <data name="An error occurred while resetting the password." xml:space="preserve">
+    <value>Произошла ошибка при сбросе пароля.</value>
+  </data>
+  <data name="TOTP Authentication was reset for ({0}) users." xml:space="preserve">
+    <value>TOTP-аутентификация сброшена у пользователей: {0}.</value>
+  </data>
+  <data name="An error occurred while resetting TOTP Authentication." xml:space="preserve">
+    <value>Произошла ошибка при сбросе TOTP-аутентификации.</value>
+  </data>
+  <data name="Verification links requested. Eligible recipients should check their saved email inboxes." xml:space="preserve">
+    <value>Ссылки для подтверждения запрошены. Получателям, которым они положены, следует проверить почту на сохранённых адресах.</value>
+  </data>
+  <data name="The verification link send throw email for ({0}) users." xml:space="preserve">
+    <value>Ссылка для подтверждения отправлена по почте пользователям: {0}.</value>
+  </data>
+  <data name="An error occurred while verifying the email." xml:space="preserve">
+    <value>Произошла ошибка при подтверждении электронной почты.</value>
+  </data>
+  <data name="The Phone for ({0}) users has been verified." xml:space="preserve">
+    <value>Номер телефона подтверждён у пользователей: {0}.</value>
+  </data>
+  <data name="An error occurred while verifying the phone." xml:space="preserve">
+    <value>Произошла ошибка при подтверждении номера телефона.</value>
+  </data>
+  <data name="Forbidden" xml:space="preserve">
+    <value>Доступ запрещён</value>
+  </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>Не найдено</value>
+  </data>
+  <data name="Conflict" xml:space="preserve">
+    <value>Конфликт</value>
+  </data>
+  <data name="Unauthorized" xml:space="preserve">
+    <value>Требуется вход</value>
+  </data>
+  <data name="Use your own profile to change your own account." xml:space="preserve">
+    <value>Чтобы изменить собственный аккаунт, используйте свой профиль.</value>
+  </data>
+  <data name="User not found" xml:space="preserve">
+    <value>Пользователь не найден</value>
+  </data>
+  <data name="This user changed meanwhile. Reload the user and try again." xml:space="preserve">
+    <value>За это время пользователь изменился. Обновите пользователя и попробуйте ещё раз.</value>
+  </data>
+  <data name="Another account already uses this email." xml:space="preserve">
+    <value>Этот адрес электронной почты уже используется другим аккаунтом.</value>
+  </data>
+  <data name="Another account already uses this username." xml:space="preserve">
+    <value>Это имя пользователя уже используется другим аккаунтом.</value>
+  </data>
+  <data name="Check the entered value and try again." xml:space="preserve">
+    <value>Проверьте введённое значение и попробуйте ещё раз.</value>
+  </data>
+  <data name="The change could not be saved. Please wait and try again." xml:space="preserve">
+    <value>Не удалось сохранить изменение. Подождите и попробуйте ещё раз.</value>
+  </data>
+  <data name="Sign in again before changing this account." xml:space="preserve">
+    <value>Войдите снова, прежде чем изменять этот аккаунт.</value>
+  </data>
+  <data name="Your sign-in is too old for this change. Sign in again and retry." xml:space="preserve">
+    <value>Вход выполнен слишком давно для этого изменения. Войдите снова и повторите попытку.</value>
+  </data>
+  <data name="Confirm your password and applicable MFA to continue this change." xml:space="preserve">
+    <value>Чтобы продолжить это изменение, подтвердите пароль и, если требуется, MFA.</value>
+  </data>
+  <data name="Your account is not available for this change." xml:space="preserve">
+    <value>Ваш аккаунт недоступен для этого изменения.</value>
+  </data>
+  <data name="You do not have permission to change this account." xml:space="preserve">
+    <value>У вас нет разрешения изменять этот аккаунт.</value>
+  </data>
+  <data name="Only an administrator can change your username." xml:space="preserve">
+    <value>Изменить имя пользователя может только администратор.</value>
+  </data>
+  <data name="Additional authentication required" xml:space="preserve">
+    <value>Требуется дополнительная аутентификация</value>
+  </data>
+  <data name="Use the contact change flow to change your email or phone." xml:space="preserve">
+    <value>Чтобы изменить адрес электронной почты или телефон, используйте процедуру смены контактов.</value>
+  </data>
+  <data name="Invalid token" xml:space="preserve">
+    <value>Недействительный токен</value>
+  </data>
+  <data name="Two Factor Code" xml:space="preserve">
+    <value>Код двухфакторной аутентификации</value>
+  </data>
+  <data name="The Integration ID {0} already exists" xml:space="preserve">
+    <value>Интеграционный ID {0} уже существует</value>
+  </data>
+  <data name="Latitude must be between -90 and 90" xml:space="preserve">
+    <value>Широта должна быть от -90 до 90</value>
+  </data>
+  <data name="Longitude must be between -180 and 180" xml:space="preserve">
+    <value>Долгота должна быть от -180 до 180</value>
+  </data>
+  <data name="Region Feature is locked" xml:space="preserve">
+    <value>Функция Регион заблокирована</value>
+  </data>
+  <data name="Company Branch Feature is locked" xml:space="preserve">
+    <value>Функция Филиал компании заблокирована</value>
+  </data>
+  <data name="Company Calendar feature is locked." xml:space="preserve">
+    <value>Функция Календарь компании заблокирована.</value>
+  </data>
+  <data name="Access" xml:space="preserve">
+    <value>Доступ</value>
+  </data>
+  <data name="any row" xml:space="preserve">
+    <value>любая строка</value>
+  </data>
+  <data name="Actions" xml:space="preserve">
+    <value>Действия</value>
+  </data>
+  <data name="Text actions are not searchable" xml:space="preserve">
+    <value>Текстовые действия не участвуют в поиске</value>
+  </data>
+  <data name="Combined permissions from the user's access trees and user-specific access." xml:space="preserve">
+    <value>Совокупные разрешения из уровней доступа пользователя и его личного доступа.</value>
+  </data>
+  <data name="An error occurred while loading the permissions" xml:space="preserve">
+    <value>Произошла ошибка при загрузке разрешений</value>
+  </data>
+  <data name="Reverse TypeAuth Lookup" xml:space="preserve">
+    <value>Обратный поиск TypeAuth</value>
+  </data>
+  <data name="Click an access level on any action below to list all active users who have that access." xml:space="preserve">
+    <value>Нажмите на уровень доступа у любого действия ниже, чтобы увидеть всех активных пользователей с этим доступом.</value>
+  </data>
+  <data name="Matching users" xml:space="preserve">
+    <value>Подходящие пользователи</value>
+  </data>
+  <data name="Matching access trees" xml:space="preserve">
+    <value>Подходящие уровни доступа</value>
+  </data>
+  <data name="No results." xml:space="preserve">
+    <value>Нет результатов.</value>
+  </data>
+  <data name="No users match this access." xml:space="preserve">
+    <value>Нет пользователей с таким доступом.</value>
+  </data>
+  <data name="No access trees match this access." xml:space="preserve">
+    <value>Нет уровней доступа с таким доступом.</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="Granted By" xml:space="preserve">
+    <value>Предоставлено через</value>
+  </data>
+  <data name="Assigned Users" xml:space="preserve">
+    <value>Назначенные пользователи</value>
+  </data>
+  <data name="Export CSV" xml:space="preserve">
+    <value>Экспорт в CSV</value>
+  </data>
+  <data name="Request failed" xml:space="preserve">
+    <value>Запрос не выполнен</value>
+  </data>
+  <data name="Direct" xml:space="preserve">
+    <value>Напрямую</value>
+  </data>
+  <data name="Calendar" xml:space="preserve">
+    <value>Календарь</value>
+  </data>
+  <data name="Calendar Entries" xml:space="preserve">
+    <value>Записи календаря</value>
+  </data>
+  <data name="Pull Live Data" xml:space="preserve">
+    <value>Загрузить актуальные данные</value>
+  </data>
+  <data name="Display Order" xml:space="preserve">
+    <value>Порядок отображения</value>
+  </data>
+  <data name="Phone Numbers" xml:space="preserve">
+    <value>Номера телефонов</value>
+  </data>
+  <data name="Tag" xml:space="preserve">
+    <value>Метка</value>
+  </data>
+  <data name="Tags" xml:space="preserve">
+    <value>Метки</value>
+  </data>
+  <data name="Add a Phone Number" xml:space="preserve">
+    <value>Добавить номер телефона</value>
+  </data>
+  <data name="Email Addresses" xml:space="preserve">
+    <value>Адреса электронной почты</value>
+  </data>
+  <data name="Add an Email" xml:space="preserve">
+    <value>Добавить адрес электронной почты</value>
+  </data>
+  <data name="Company TerminationDate" xml:space="preserve">
+    <value>Дата прекращения деятельности компании</value>
+  </data>
+  <data name="Mobile App" xml:space="preserve">
+    <value>Мобильное приложение</value>
+  </data>
+  <data name="Chat Bot" xml:space="preserve">
+    <value>Чат-бот</value>
+  </data>
+  <data name="Company Calendar Entry" xml:space="preserve">
+    <value>Запись календаря компании</value>
+  </data>
+  <data name="Company Calendar Entries" xml:space="preserve">
+    <value>Записи календаря компании</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Название</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Тип</value>
+  </data>
+  <data name="Entry Type" xml:space="preserve">
+    <value>Тип записи</value>
+  </data>
+  <data name="Workday" xml:space="preserve">
+    <value>Рабочий день</value>
+  </data>
+  <data name="Holiday" xml:space="preserve">
+    <value>Выходной</value>
+  </data>
+  <data name="Start Date" xml:space="preserve">
+    <value>Дата начала</value>
+  </data>
+  <data name="End Date" xml:space="preserve">
+    <value>Дата окончания</value>
+  </data>
+  <data name="Priority" xml:space="preserve">
+    <value>Приоритет</value>
+  </data>
+  <data name="Shift Groups" xml:space="preserve">
+    <value>Группы смен</value>
+  </data>
+  <data name="Shifts" xml:space="preserve">
+    <value>Смены</value>
+  </data>
+  <data name="Shift Title" xml:space="preserve">
+    <value>Название смены</value>
+  </data>
+  <data name="Start Time" xml:space="preserve">
+    <value>Время начала</value>
+  </data>
+  <data name="End Time" xml:space="preserve">
+    <value>Время окончания</value>
+  </data>
+  <data name="Weekend Groups" xml:space="preserve">
+    <value>Группы выходных</value>
+  </data>
+  <data name="Weekend Rules" xml:space="preserve">
+    <value>Правила выходных</value>
+  </data>
+  <data name="Day" xml:space="preserve">
+    <value>День</value>
+  </data>
+  <data name="Days of Week" xml:space="preserve">
+    <value>Дни недели</value>
+  </data>
+  <data name="Repeat Every N Weeks" xml:space="preserve">
+    <value>Повторять каждые N недель</value>
+  </data>
+  <data name="Skip Cycles" xml:space="preserve">
+    <value>Пропуск циклов</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Сегодня</value>
+  </data>
+  <data name="more" xml:space="preserve">
+    <value>ещё</value>
+  </data>
+  <data name="Sun" xml:space="preserve">
+    <value>Вс</value>
+  </data>
+  <data name="Mon" xml:space="preserve">
+    <value>Пн</value>
+  </data>
+  <data name="Tue" xml:space="preserve">
+    <value>Вт</value>
+  </data>
+  <data name="Wed" xml:space="preserve">
+    <value>Ср</value>
+  </data>
+  <data name="Thu" xml:space="preserve">
+    <value>Чт</value>
+  </data>
+  <data name="Fri" xml:space="preserve">
+    <value>Пт</value>
+  </data>
+  <data name="Sat" xml:space="preserve">
+    <value>Сб</value>
+  </data>
+  <data name="General" xml:space="preserve">
+    <value>Общее</value>
+  </data>
+  <data name="Mobile Photos" xml:space="preserve">
+    <value>Фото для мобильного приложения</value>
+  </data>
+  <data name="Presentation" xml:space="preserve">
+    <value>Отображение</value>
+  </data>
+  <data name="Publish Targets" xml:space="preserve">
+    <value>Каналы публикации</value>
+  </data>
+  <data name="Select All" xml:space="preserve">
+    <value>Выбрать все</value>
+  </data>
+  <data name="TerminationDate" xml:space="preserve">
+    <value>Дата прекращения деятельности</value>
+  </data>
+  <data name="Turn off MFA" xml:space="preserve">
+    <value>Отключить MFA</value>
+  </data>
+  <data name="Turn off MFA for this user" xml:space="preserve">
+    <value>Отключить MFA для этого пользователя</value>
+  </data>
+  <data name="The user will sign in with their password only and is signed out on every device. They can set up an authenticator again from their profile." xml:space="preserve">
+    <value>Пользователь будет входить только с паролем, и его сеансы на всех устройствах завершатся. Он сможет снова настроить аутентификатор в своём профиле.</value>
+  </data>
+  <data name="This also ends the recovery the user is waiting for. A recovery code already given to them stops working." xml:space="preserve">
+    <value>Это также завершает восстановление, которого ждёт пользователь. Уже выданный ему код восстановления перестанет действовать.</value>
+  </data>
+  <data name="If the user lost or replaced their phone, use Recover authenticator instead: it keeps MFA on. Turn MFA off only when you have confirmed that the user asked for it. Record the support ticket or a short note below; Shift saves it for audit." xml:space="preserve">
+    <value>Если пользователь потерял или сменил телефон, используйте вместо этого «Восстановить аутентификатор»: MFA останется включённой. Отключайте MFA, только убедившись, что пользователь сам об этом попросил. Укажите ниже номер обращения или короткую заметку; Shift сохранит её для аудита.</value>
+  </data>
+  <data name="MFA turned off" xml:space="preserve">
+    <value>MFA отключена</value>
+  </data>
+  <data name="MFA was already off" xml:space="preserve">
+    <value>MFA уже была отключена</value>
+  </data>
+  <data name="The user now signs in with their password only." xml:space="preserve">
+    <value>Теперь пользователь входит только с паролем.</value>
+  </data>
+  <data name="Sign in again before turning off MFA." xml:space="preserve">
+    <value>Войдите снова, прежде чем отключать MFA.</value>
+  </data>
+  <data name="MFA cannot be turned off here. It may be mandatory on this system, or you lack the Manage MFA Recovery permission. For your own account, use your profile." xml:space="preserve">
+    <value>Здесь нельзя отключить MFA. Возможно, в этой системе она обязательна, или у вас нет разрешения Manage MFA Recovery. Для своего аккаунта используйте профиль.</value>
+  </data>
+  <data name="This account is deleted, so its MFA cannot be changed." xml:space="preserve">
+    <value>Этот аккаунт удалён, поэтому его MFA изменить нельзя.</value>
+  </data>
+  <data name="The service is unavailable. Wait a moment and try again." xml:space="preserve">
+    <value>Служба недоступна. Подождите немного и попробуйте ещё раз.</value>
+  </data>
+  <data name="Confirm your password when you are asked, then turn off MFA again." xml:space="preserve">
+    <value>Подтвердите пароль, когда появится запрос, затем снова отключите MFA.</value>
+  </data>
+  <data name="Turning off MFA could not be confirmed. Open the user again to see whether it is still on." xml:space="preserve">
+    <value>Не удалось подтвердить отключение MFA. Откройте пользователя снова, чтобы проверить, включена ли она ещё.</value>
+  </data>
+  <data name="Opt out of MFA" xml:space="preserve">
+    <value>Отказаться от MFA</value>
+  </data>
+  <data name="Enter a code from your authenticator app. After that you sign in with your password only, and you are signed out on your other devices." xml:space="preserve">
+    <value>Введите код из приложения-аутентификатора. После этого вы будете входить только с паролем, а сеансы на других ваших устройствах завершатся.</value>
+  </data>
+  <data name="Opt out" xml:space="preserve">
+    <value>Отказаться</value>
+  </data>
+  <data name="MFA is off" xml:space="preserve">
+    <value>MFA отключена</value>
+  </data>
+  <data name="Sign in again with your password to continue." xml:space="preserve">
+    <value>Чтобы продолжить, войдите снова с паролем.</value>
+  </data>
+  <data name="You now sign in with your password only. To use an authenticator again, choose Set up authenticator on your profile." xml:space="preserve">
+    <value>Теперь вы входите только с паролем. Чтобы снова использовать аутентификатор, выберите «Настроить аутентификатор» в профиле.</value>
+  </data>
+  <data name="That code was not accepted. Wait for a new code and try again." xml:space="preserve">
+    <value>Код не принят. Дождитесь нового кода и попробуйте ещё раз.</value>
+  </data>
+  <data name="Too many attempts. Wait a few minutes and try again." xml:space="preserve">
+    <value>Слишком много попыток. Подождите несколько минут и попробуйте ещё раз.</value>
+  </data>
+  <data name="MFA is required on this system, so it cannot be turned off." xml:space="preserve">
+    <value>В этой системе MFA обязательна, поэтому её нельзя отключить.</value>
+  </data>
+  <data name="Opting out could not be confirmed. Sign in again to check whether MFA is still on." xml:space="preserve">
+    <value>Не удалось подтвердить отказ. Войдите снова, чтобы проверить, включена ли ещё MFA.</value>
   </data>
 </root>
