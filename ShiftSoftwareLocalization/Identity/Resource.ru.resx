@@ -1399,9 +1399,6 @@
   <data name="Calendar Entries" xml:space="preserve">
     <value>Записи календаря</value>
   </data>
-  <data name="Pull Live Data" xml:space="preserve">
-    <value>Загрузить актуальные данные</value>
-  </data>
   <data name="Display Order" xml:space="preserve">
     <value>Порядок отображения</value>
   </data>

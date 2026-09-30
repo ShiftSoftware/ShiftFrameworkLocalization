@@ -1398,9 +1398,6 @@
   <data name="Calendar Entries" xml:space="preserve">
     <value>إدخالات التقويم</value>
   </data>
-  <data name="Pull Live Data" xml:space="preserve">
-    <value>جلب البيانات المباشرة</value>
-  </data>
   <data name="Display Order" xml:space="preserve">
     <value>ترتيب العرض</value>
   </data>
