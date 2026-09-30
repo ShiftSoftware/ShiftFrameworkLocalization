@@ -1612,4 +1612,13 @@
   <data name="Opting out could not be confirmed. Sign in again to check whether MFA is still on." xml:space="preserve">
     <value>Не удалось подтвердить отказ. Войдите снова, чтобы проверить, включена ли ещё MFA.</value>
   </data>
+  <data name="Sign-in details" xml:space="preserve">
+    <value>Данные для входа</value>
+  </data>
+  <data name="Username, password and account access" xml:space="preserve">
+    <value>Имя пользователя, пароль и доступ к учётной записи</value>
+  </data>
+  <data name="Email actions" xml:space="preserve">
+    <value>Действия с электронной почтой</value>
+  </data>
 </root>

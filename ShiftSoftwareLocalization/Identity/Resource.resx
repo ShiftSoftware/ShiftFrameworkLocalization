@@ -1611,4 +1611,13 @@
   <data name="Opting out could not be confirmed. Sign in again to check whether MFA is still on." xml:space="preserve">
     <value>Opting out could not be confirmed. Sign in again to check whether MFA is still on.</value>
   </data>
+  <data name="Sign-in details" xml:space="preserve">
+    <value>Sign-in details</value>
+  </data>
+  <data name="Username, password and account access" xml:space="preserve">
+    <value>Username, password and account access</value>
+  </data>
+  <data name="Email actions" xml:space="preserve">
+    <value>Email actions</value>
+  </data>
 </root>

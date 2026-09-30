@@ -1593,4 +1593,13 @@
   <data name="Opting out could not be confirmed. Sign in again to check whether MFA is still on." xml:space="preserve">
     <value>ناچالاککردنەکە پشتڕاست نەکرایەوە. دووبارە بچۆ ژوورەوە بۆ ئەوەی بزانیت ناسینەوەی دوو هەنگاوی هێشتا چالاکە یان نا.</value>
   </data>
+  <data name="Sign-in details" xml:space="preserve">
+    <value>وردەکارییەکانی چوونەژوورەوە</value>
+  </data>
+  <data name="Username, password and account access" xml:space="preserve">
+    <value>ناوی بەکارهێنەر، وشەی نهێنی و دەستگەیشتن بە هەژمار</value>
+  </data>
+  <data name="Email actions" xml:space="preserve">
+    <value>کردارەکانی ئیمەیڵ</value>
+  </data>
 </root>
