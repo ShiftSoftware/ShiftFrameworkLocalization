@@ -1617,4 +1617,19 @@
   <data name="Email actions" xml:space="preserve">
     <value>Email actions</value>
   </data>
+  <data name="Email verified" xml:space="preserve">
+    <value>Email verified</value>
+  </data>
+  <data name="This link can't be used" xml:space="preserve">
+    <value>This link can't be used</value>
+  </data>
+  <data name="Resetting password…" xml:space="preserve">
+    <value>Resetting password…</value>
+  </data>
+  <data name="Go to login" xml:space="preserve">
+    <value>Go to login</value>
+  </data>
+  <data name="Your email is verified. You can now sign in." xml:space="preserve">
+    <value>Your email is verified. You can now sign in.</value>
+  </data>
 </root>

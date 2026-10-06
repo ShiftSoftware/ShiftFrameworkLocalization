@@ -1618,4 +1618,19 @@
   <data name="Email actions" xml:space="preserve">
     <value>Действия с электронной почтой</value>
   </data>
+  <data name="Email verified" xml:space="preserve">
+    <value>Адрес подтверждён</value>
+  </data>
+  <data name="This link can't be used" xml:space="preserve">
+    <value>Эту ссылку нельзя использовать</value>
+  </data>
+  <data name="Resetting password…" xml:space="preserve">
+    <value>Сброс пароля…</value>
+  </data>
+  <data name="Go to login" xml:space="preserve">
+    <value>Перейти ко входу</value>
+  </data>
+  <data name="Your email is verified. You can now sign in." xml:space="preserve">
+    <value>Ваш адрес подтверждён. Теперь вы можете войти.</value>
+  </data>
 </root>

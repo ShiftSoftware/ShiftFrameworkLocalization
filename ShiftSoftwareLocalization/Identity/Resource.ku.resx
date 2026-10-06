@@ -1599,4 +1599,19 @@
   <data name="Email actions" xml:space="preserve">
     <value>کردارەکانی ئیمەیڵ</value>
   </data>
+  <data name="Email verified" xml:space="preserve">
+    <value>ئیمەیڵ پشتڕاستکرایەوە</value>
+  </data>
+  <data name="This link can't be used" xml:space="preserve">
+    <value>ناتوانرێت ئەم بەستەرە بەکاربهێنرێت</value>
+  </data>
+  <data name="Resetting password…" xml:space="preserve">
+    <value>وشەی نهێنی ڕێکدەخرێتەوە…</value>
+  </data>
+  <data name="Go to login" xml:space="preserve">
+    <value>بڕۆ بۆ چوونەژوورەوە</value>
+  </data>
+  <data name="Your email is verified. You can now sign in." xml:space="preserve">
+    <value>ئیمەیڵەکەت پشتڕاستکرایەوە. ئێستا دەتوانیت بچیتە ژوورەوە.</value>
+  </data>
 </root>
