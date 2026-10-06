@@ -1633,4 +1633,52 @@
   <data name="Your email is verified. You can now sign in." xml:space="preserve">
     <value>Ваш адрес подтверждён. Теперь вы можете войти.</value>
   </data>
+  <data name="or" xml:space="preserve">
+    <value>или</value>
+  </data>
+  <data name="Sign in with Microsoft" xml:space="preserve">
+    <value>Войти через Microsoft</value>
+  </data>
+  <data name="No account uses this Microsoft account's email." xml:space="preserve">
+    <value>Нет аккаунта с адресом электронной почты этой учётной записи Microsoft.</value>
+  </data>
+  <data name="Microsoft didn't confirm this account's email." xml:space="preserve">
+    <value>Microsoft не подтвердил адрес электронной почты этой учётной записи.</value>
+  </data>
+  <data name="This account can't sign in." xml:space="preserve">
+    <value>Этот аккаунт не может войти.</value>
+  </data>
+  <data name="Microsoft sign-in didn't complete." xml:space="preserve">
+    <value>Вход через Microsoft не завершён.</value>
+  </data>
+  <data name="Sign in with your username and password, or ask your administrator to put this email on your account." xml:space="preserve">
+    <value>Войдите с именем пользователя и паролем или попросите администратора указать этот адрес в вашем аккаунте.</value>
+  </data>
+  <data name="Sign in with your username and password instead." xml:space="preserve">
+    <value>Войдите с именем пользователя и паролем.</value>
+  </data>
+  <data name="Contact your administrator." xml:space="preserve">
+    <value>Обратитесь к администратору.</value>
+  </data>
+  <data name="Try again. If the problem continues, share this error reference with your administrator." xml:space="preserve">
+    <value>Попробуйте ещё раз. Если проблема сохраняется, сообщите этот код ошибки администратору.</value>
+  </data>
+  <data name="Microsoft sign-in" xml:space="preserve">
+    <value>Вход через Microsoft</value>
+  </data>
+  <data name="A Microsoft account with this account's email can sign in without the password. Changing the email stops it." xml:space="preserve">
+    <value>Учётная запись Microsoft с адресом этого аккаунта может входить без пароля. Смена адреса прекращает это.</value>
+  </data>
+  <data name="No Microsoft account has signed in yet." xml:space="preserve">
+    <value>Учётные записи Microsoft ещё не входили.</value>
+  </data>
+  <data name="Personal account" xml:space="preserve">
+    <value>Личная учётная запись</value>
+  </data>
+  <data name="Work or school account" xml:space="preserve">
+    <value>Рабочая или учебная учётная запись</value>
+  </data>
+  <data name="Last used" xml:space="preserve">
+    <value>Последнее использование</value>
+  </data>
 </root>

@@ -1614,4 +1614,52 @@
   <data name="Your email is verified. You can now sign in." xml:space="preserve">
     <value>ئیمەیڵەکەت پشتڕاستکرایەوە. ئێستا دەتوانیت بچیتە ژوورەوە.</value>
   </data>
+  <data name="or" xml:space="preserve">
+    <value>یان</value>
+  </data>
+  <data name="Sign in with Microsoft" xml:space="preserve">
+    <value>چوونەژوورەوە بە Microsoft</value>
+  </data>
+  <data name="No account uses this Microsoft account's email." xml:space="preserve">
+    <value>هیچ هەژمارێک ئیمەیڵی ئەم هەژمارەی Microsoft بەکارناهێنێت.</value>
+  </data>
+  <data name="Microsoft didn't confirm this account's email." xml:space="preserve">
+    <value>Microsoft ئیمەیڵی ئەم هەژمارەی پشتڕاست نەکردەوە.</value>
+  </data>
+  <data name="This account can't sign in." xml:space="preserve">
+    <value>ئەم هەژمارە ناتوانێت بچێتە ژوورەوە.</value>
+  </data>
+  <data name="Microsoft sign-in didn't complete." xml:space="preserve">
+    <value>چوونەژوورەوە بە Microsoft تەواو نەبوو.</value>
+  </data>
+  <data name="Sign in with your username and password, or ask your administrator to put this email on your account." xml:space="preserve">
+    <value>بە ناوی بەکارهێنەر و وشەی نهێنی بچۆ ژوورەوە، یان داوا لە بەڕێوەبەرەکەت بکە ئەم ئیمەیڵە بخاتە سەر هەژمارەکەت.</value>
+  </data>
+  <data name="Sign in with your username and password instead." xml:space="preserve">
+    <value>لە جیاتی ئەوە بە ناوی بەکارهێنەر و وشەی نهێنی بچۆ ژوورەوە.</value>
+  </data>
+  <data name="Contact your administrator." xml:space="preserve">
+    <value>پەیوەندی بە بەڕێوەبەرەکەتەوە بکە.</value>
+  </data>
+  <data name="Try again. If the problem continues, share this error reference with your administrator." xml:space="preserve">
+    <value>دووبارە هەوڵ بدەرەوە. ئەگەر کێشەکە بەردەوام بوو، ئەم کۆدی هەڵەیە بدە بە بەڕێوەبەرەکەت.</value>
+  </data>
+  <data name="Microsoft sign-in" xml:space="preserve">
+    <value>چوونەژوورەوە بە Microsoft</value>
+  </data>
+  <data name="A Microsoft account with this account's email can sign in without the password. Changing the email stops it." xml:space="preserve">
+    <value>هەژمارێکی Microsoft کە ئیمەیڵی ئەم هەژمارەی هەیە دەتوانێت بەبێ وشەی نهێنی بچێتە ژوورەوە. گۆڕینی ئیمەیڵەکە ئەمە ڕادەگرێت.</value>
+  </data>
+  <data name="No Microsoft account has signed in yet." xml:space="preserve">
+    <value>هێشتا هیچ هەژمارێکی Microsoft نەچووەتە ژوورەوە.</value>
+  </data>
+  <data name="Personal account" xml:space="preserve">
+    <value>هەژماری کەسی</value>
+  </data>
+  <data name="Work or school account" xml:space="preserve">
+    <value>هەژماری کار یان خوێندنگە</value>
+  </data>
+  <data name="Last used" xml:space="preserve">
+    <value>دوایین بەکارهێنان</value>
+  </data>
 </root>

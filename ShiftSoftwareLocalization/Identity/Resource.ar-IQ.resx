@@ -1632,4 +1632,52 @@
   <data name="Your email is verified. You can now sign in." xml:space="preserve">
     <value>تم تأكيد بريدك الإلكتروني. يمكنك الآن تسجيل الدخول.</value>
   </data>
+  <data name="or" xml:space="preserve">
+    <value>أو</value>
+  </data>
+  <data name="Sign in with Microsoft" xml:space="preserve">
+    <value>تسجيل الدخول باستخدام Microsoft</value>
+  </data>
+  <data name="No account uses this Microsoft account's email." xml:space="preserve">
+    <value>لا يوجد حساب يستخدم البريد الإلكتروني لحساب Microsoft هذا.</value>
+  </data>
+  <data name="Microsoft didn't confirm this account's email." xml:space="preserve">
+    <value>لم تؤكد Microsoft البريد الإلكتروني لهذا الحساب.</value>
+  </data>
+  <data name="This account can't sign in." xml:space="preserve">
+    <value>لا يمكن لهذا الحساب تسجيل الدخول.</value>
+  </data>
+  <data name="Microsoft sign-in didn't complete." xml:space="preserve">
+    <value>لم يكتمل تسجيل الدخول باستخدام Microsoft.</value>
+  </data>
+  <data name="Sign in with your username and password, or ask your administrator to put this email on your account." xml:space="preserve">
+    <value>سجّل الدخول باسم المستخدم وكلمة المرور، أو اطلب من المسؤول إضافة هذا البريد الإلكتروني إلى حسابك.</value>
+  </data>
+  <data name="Sign in with your username and password instead." xml:space="preserve">
+    <value>سجّل الدخول باسم المستخدم وكلمة المرور بدلاً من ذلك.</value>
+  </data>
+  <data name="Contact your administrator." xml:space="preserve">
+    <value>تواصل مع المسؤول.</value>
+  </data>
+  <data name="Try again. If the problem continues, share this error reference with your administrator." xml:space="preserve">
+    <value>حاول مرة أخرى. إذا استمرت المشكلة، فشارك رمز الخطأ هذا مع المسؤول.</value>
+  </data>
+  <data name="Microsoft sign-in" xml:space="preserve">
+    <value>تسجيل الدخول باستخدام Microsoft</value>
+  </data>
+  <data name="A Microsoft account with this account's email can sign in without the password. Changing the email stops it." xml:space="preserve">
+    <value>يمكن لحساب Microsoft الذي يحمل البريد الإلكتروني لهذا الحساب تسجيل الدخول بدون كلمة المرور. تغيير البريد الإلكتروني يوقف ذلك.</value>
+  </data>
+  <data name="No Microsoft account has signed in yet." xml:space="preserve">
+    <value>لم يسجّل أي حساب Microsoft الدخول بعد.</value>
+  </data>
+  <data name="Personal account" xml:space="preserve">
+    <value>حساب شخصي</value>
+  </data>
+  <data name="Work or school account" xml:space="preserve">
+    <value>حساب عمل أو مؤسسة تعليمية</value>
+  </data>
+  <data name="Last used" xml:space="preserve">
+    <value>آخر استخدام</value>
+  </data>
 </root>

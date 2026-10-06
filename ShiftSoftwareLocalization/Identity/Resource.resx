@@ -1632,4 +1632,52 @@
   <data name="Your email is verified. You can now sign in." xml:space="preserve">
     <value>Your email is verified. You can now sign in.</value>
   </data>
+  <data name="or" xml:space="preserve">
+    <value>or</value>
+  </data>
+  <data name="Sign in with Microsoft" xml:space="preserve">
+    <value>Sign in with Microsoft</value>
+  </data>
+  <data name="No account uses this Microsoft account's email." xml:space="preserve">
+    <value>No account uses this Microsoft account's email.</value>
+  </data>
+  <data name="Microsoft didn't confirm this account's email." xml:space="preserve">
+    <value>Microsoft didn't confirm this account's email.</value>
+  </data>
+  <data name="This account can't sign in." xml:space="preserve">
+    <value>This account can't sign in.</value>
+  </data>
+  <data name="Microsoft sign-in didn't complete." xml:space="preserve">
+    <value>Microsoft sign-in didn't complete.</value>
+  </data>
+  <data name="Sign in with your username and password, or ask your administrator to put this email on your account." xml:space="preserve">
+    <value>Sign in with your username and password, or ask your administrator to put this email on your account.</value>
+  </data>
+  <data name="Sign in with your username and password instead." xml:space="preserve">
+    <value>Sign in with your username and password instead.</value>
+  </data>
+  <data name="Contact your administrator." xml:space="preserve">
+    <value>Contact your administrator.</value>
+  </data>
+  <data name="Try again. If the problem continues, share this error reference with your administrator." xml:space="preserve">
+    <value>Try again. If the problem continues, share this error reference with your administrator.</value>
+  </data>
+  <data name="Microsoft sign-in" xml:space="preserve">
+    <value>Microsoft sign-in</value>
+  </data>
+  <data name="A Microsoft account with this account's email can sign in without the password. Changing the email stops it." xml:space="preserve">
+    <value>A Microsoft account with this account's email can sign in without the password. Changing the email stops it.</value>
+  </data>
+  <data name="No Microsoft account has signed in yet." xml:space="preserve">
+    <value>No Microsoft account has signed in yet.</value>
+  </data>
+  <data name="Personal account" xml:space="preserve">
+    <value>Personal account</value>
+  </data>
+  <data name="Work or school account" xml:space="preserve">
+    <value>Work or school account</value>
+  </data>
+  <data name="Last used" xml:space="preserve">
+    <value>Last used</value>
+  </data>
 </root>
