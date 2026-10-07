@@ -1659,6 +1659,42 @@
   <data name="Work or school account" xml:space="preserve">
     <value>هەژماری کار یان خوێندنگە</value>
   </data>
+  <data name="Sign in with Google" xml:space="preserve">
+    <value>چوونەژوورەوە بە Google</value>
+  </data>
+  <data name="No account uses this Google account's email." xml:space="preserve">
+    <value>هیچ هەژمارێک ئیمەیڵی ئەم هەژمارەی Google بەکارناهێنێت.</value>
+  </data>
+  <data name="Google can't confirm this account's email." xml:space="preserve">
+    <value>Google ناتوانێت ئیمەیڵی ئەم هەژمارە پشتڕاست بکاتەوە.</value>
+  </data>
+  <data name="Google sign-in didn't complete." xml:space="preserve">
+    <value>چوونەژوورەوە بە Google تەواو نەبوو.</value>
+  </data>
+  <data name="Google sign-in" xml:space="preserve">
+    <value>چوونەژوورەوە بە Google</value>
+  </data>
+  <data name="Linked sign-in accounts" xml:space="preserve">
+    <value>هەژمارە بەستراوەکانی چوونەژوورەوە</value>
+  </data>
+  <data name="A Google account with this account's email can sign in without the password. Changing the email stops it." xml:space="preserve">
+    <value>هەژمارێکی Google کە ئیمەیڵی ئەم هەژمارەی هەیە دەتوانێت بەبێ وشەی نهێنی بچێتە ژوورەوە. گۆڕینی ئیمەیڵەکە ئەمە ڕادەگرێت.</value>
+  </data>
+  <data name="A Microsoft or Google account with this account's email can sign in without the password. Changing the email stops it." xml:space="preserve">
+    <value>هەژمارێکی Microsoft یان Google کە ئیمەیڵی ئەم هەژمارەی هەیە دەتوانێت بەبێ وشەی نهێنی بچێتە ژوورەوە. گۆڕینی ئیمەیڵەکە ئەمە ڕادەگرێت.</value>
+  </data>
+  <data name="No Google account has signed in yet." xml:space="preserve">
+    <value>هێشتا هیچ هەژمارێکی Google نەچووەتە ژوورەوە.</value>
+  </data>
+  <data name="No Microsoft or Google account has signed in yet." xml:space="preserve">
+    <value>هێشتا هیچ هەژمارێکی Microsoft یان Google نەچووەتە ژوورەوە.</value>
+  </data>
+  <data name="Google" xml:space="preserve">
+    <value>Google</value>
+  </data>
+  <data name="Microsoft" xml:space="preserve">
+    <value>Microsoft</value>
+  </data>
   <data name="Last used" xml:space="preserve">
     <value>دوایین بەکارهێنان</value>
   </data>

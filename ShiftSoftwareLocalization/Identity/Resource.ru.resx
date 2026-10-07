@@ -1678,6 +1678,42 @@
   <data name="Work or school account" xml:space="preserve">
     <value>Рабочая или учебная учётная запись</value>
   </data>
+  <data name="Sign in with Google" xml:space="preserve">
+    <value>Войти через Google</value>
+  </data>
+  <data name="No account uses this Google account's email." xml:space="preserve">
+    <value>Нет аккаунта с адресом электронной почты этой учётной записи Google.</value>
+  </data>
+  <data name="Google can't confirm this account's email." xml:space="preserve">
+    <value>Google не может подтвердить адрес электронной почты этой учётной записи.</value>
+  </data>
+  <data name="Google sign-in didn't complete." xml:space="preserve">
+    <value>Вход через Google не завершён.</value>
+  </data>
+  <data name="Google sign-in" xml:space="preserve">
+    <value>Вход через Google</value>
+  </data>
+  <data name="Linked sign-in accounts" xml:space="preserve">
+    <value>Связанные учётные записи для входа</value>
+  </data>
+  <data name="A Google account with this account's email can sign in without the password. Changing the email stops it." xml:space="preserve">
+    <value>Учётная запись Google с адресом этого аккаунта может входить без пароля. Смена адреса прекращает это.</value>
+  </data>
+  <data name="A Microsoft or Google account with this account's email can sign in without the password. Changing the email stops it." xml:space="preserve">
+    <value>Учётная запись Microsoft или Google с адресом этого аккаунта может входить без пароля. Смена адреса прекращает это.</value>
+  </data>
+  <data name="No Google account has signed in yet." xml:space="preserve">
+    <value>Учётные записи Google ещё не входили.</value>
+  </data>
+  <data name="No Microsoft or Google account has signed in yet." xml:space="preserve">
+    <value>Учётные записи Microsoft и Google ещё не входили.</value>
+  </data>
+  <data name="Google" xml:space="preserve">
+    <value>Google</value>
+  </data>
+  <data name="Microsoft" xml:space="preserve">
+    <value>Microsoft</value>
+  </data>
   <data name="Last used" xml:space="preserve">
     <value>Последнее использование</value>
   </data>

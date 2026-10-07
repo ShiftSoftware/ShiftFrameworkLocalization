@@ -1677,6 +1677,42 @@
   <data name="Work or school account" xml:space="preserve">
     <value>Work or school account</value>
   </data>
+  <data name="Sign in with Google" xml:space="preserve">
+    <value>Sign in with Google</value>
+  </data>
+  <data name="No account uses this Google account's email." xml:space="preserve">
+    <value>No account uses this Google account's email.</value>
+  </data>
+  <data name="Google can't confirm this account's email." xml:space="preserve">
+    <value>Google can't confirm this account's email.</value>
+  </data>
+  <data name="Google sign-in didn't complete." xml:space="preserve">
+    <value>Google sign-in didn't complete.</value>
+  </data>
+  <data name="Google sign-in" xml:space="preserve">
+    <value>Google sign-in</value>
+  </data>
+  <data name="Linked sign-in accounts" xml:space="preserve">
+    <value>Linked sign-in accounts</value>
+  </data>
+  <data name="A Google account with this account's email can sign in without the password. Changing the email stops it." xml:space="preserve">
+    <value>A Google account with this account's email can sign in without the password. Changing the email stops it.</value>
+  </data>
+  <data name="A Microsoft or Google account with this account's email can sign in without the password. Changing the email stops it." xml:space="preserve">
+    <value>A Microsoft or Google account with this account's email can sign in without the password. Changing the email stops it.</value>
+  </data>
+  <data name="No Google account has signed in yet." xml:space="preserve">
+    <value>No Google account has signed in yet.</value>
+  </data>
+  <data name="No Microsoft or Google account has signed in yet." xml:space="preserve">
+    <value>No Microsoft or Google account has signed in yet.</value>
+  </data>
+  <data name="Google" xml:space="preserve">
+    <value>Google</value>
+  </data>
+  <data name="Microsoft" xml:space="preserve">
+    <value>Microsoft</value>
+  </data>
   <data name="Last used" xml:space="preserve">
     <value>Last used</value>
   </data>

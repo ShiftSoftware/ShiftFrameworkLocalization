@@ -1677,6 +1677,42 @@
   <data name="Work or school account" xml:space="preserve">
     <value>حساب عمل أو مؤسسة تعليمية</value>
   </data>
+  <data name="Sign in with Google" xml:space="preserve">
+    <value>تسجيل الدخول باستخدام Google</value>
+  </data>
+  <data name="No account uses this Google account's email." xml:space="preserve">
+    <value>لا يوجد حساب يستخدم البريد الإلكتروني لحساب Google هذا.</value>
+  </data>
+  <data name="Google can't confirm this account's email." xml:space="preserve">
+    <value>لا يمكن لـ Google تأكيد البريد الإلكتروني لهذا الحساب.</value>
+  </data>
+  <data name="Google sign-in didn't complete." xml:space="preserve">
+    <value>لم يكتمل تسجيل الدخول باستخدام Google.</value>
+  </data>
+  <data name="Google sign-in" xml:space="preserve">
+    <value>تسجيل الدخول باستخدام Google</value>
+  </data>
+  <data name="Linked sign-in accounts" xml:space="preserve">
+    <value>حسابات تسجيل الدخول المرتبطة</value>
+  </data>
+  <data name="A Google account with this account's email can sign in without the password. Changing the email stops it." xml:space="preserve">
+    <value>يمكن لحساب Google الذي يحمل البريد الإلكتروني لهذا الحساب تسجيل الدخول بدون كلمة المرور. تغيير البريد الإلكتروني يوقف ذلك.</value>
+  </data>
+  <data name="A Microsoft or Google account with this account's email can sign in without the password. Changing the email stops it." xml:space="preserve">
+    <value>يمكن لحساب Microsoft أو Google الذي يحمل البريد الإلكتروني لهذا الحساب تسجيل الدخول بدون كلمة المرور. تغيير البريد الإلكتروني يوقف ذلك.</value>
+  </data>
+  <data name="No Google account has signed in yet." xml:space="preserve">
+    <value>لم يسجّل أي حساب Google الدخول بعد.</value>
+  </data>
+  <data name="No Microsoft or Google account has signed in yet." xml:space="preserve">
+    <value>لم يسجّل أي حساب Microsoft أو Google الدخول بعد.</value>
+  </data>
+  <data name="Google" xml:space="preserve">
+    <value>Google</value>
+  </data>
+  <data name="Microsoft" xml:space="preserve">
+    <value>Microsoft</value>
+  </data>
   <data name="Last used" xml:space="preserve">
     <value>آخر استخدام</value>
   </data>
