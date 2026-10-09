@@ -1818,4 +1818,7 @@
   <data name="Not asked for while device sign-in is allowed." xml:space="preserve">
     <value>Not asked for while device sign-in is allowed.</value>
   </data>
+  <data name="Accounts that allow device sign-in can't be asked to change their password at next sign-in." xml:space="preserve">
+    <value>Accounts that allow device sign-in can't be asked to change their password at next sign-in.</value>
+  </data>
 </root>

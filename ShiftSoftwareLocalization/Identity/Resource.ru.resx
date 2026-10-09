@@ -1819,4 +1819,7 @@
   <data name="Not asked for while device sign-in is allowed." xml:space="preserve">
     <value>Не запрашивается, пока разрешён вход на устройствах.</value>
   </data>
+  <data name="Accounts that allow device sign-in can't be asked to change their password at next sign-in." xml:space="preserve">
+    <value>Аккаунты, которым разрешён вход на устройствах, нельзя попросить сменить пароль при следующем входе.</value>
+  </data>
 </root>

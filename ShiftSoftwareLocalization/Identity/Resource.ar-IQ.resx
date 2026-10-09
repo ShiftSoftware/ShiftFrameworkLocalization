@@ -1818,4 +1818,7 @@
   <data name="Not asked for while device sign-in is allowed." xml:space="preserve">
     <value>لا يُطلب ما دام تسجيل دخول الأجهزة مسموحًا به.</value>
   </data>
+  <data name="Accounts that allow device sign-in can't be asked to change their password at next sign-in." xml:space="preserve">
+    <value>لا يمكن مطالبة الحسابات التي تسمح بتسجيل دخول الأجهزة بتغيير كلمة المرور عند تسجيل الدخول التالي.</value>
+  </data>
 </root>
