@@ -1716,4 +1716,106 @@
   <data name="Last used" xml:space="preserve">
     <value>آخر استخدام</value>
   </data>
+  <data name="Checking the code…" xml:space="preserve">
+    <value>جارٍ التحقق من الرمز…</value>
+  </data>
+  <data name="Signing in a device is unavailable here." xml:space="preserve">
+    <value>تسجيل دخول الأجهزة غير متاح هنا.</value>
+  </data>
+  <data name="Sign in a device" xml:space="preserve">
+    <value>تسجيل دخول جهاز</value>
+  </data>
+  <data name="Enter the code shown on the device." xml:space="preserve">
+    <value>أدخل الرمز الظاهر على الجهاز.</value>
+  </data>
+  <data name="{0} is asking to sign in." xml:space="preserve">
+    <value>يطلب {0} تسجيل الدخول.</value>
+  </data>
+  <data name="Only continue if you're in front of it and it shows this code:" xml:space="preserve">
+    <value>لا تتابع إلا إذا كنت أمامه وكان يعرض هذا الرمز:</value>
+  </data>
+  <data name="Never use a code someone sent you in a message, an email or a call." xml:space="preserve">
+    <value>لا تستخدم أبدًا رمزًا أرسله إليك أحد في رسالة أو بريد إلكتروني، أو أخبرك به في مكالمة.</value>
+  </data>
+  <data name="This isn't it" xml:space="preserve">
+    <value>ليس هذا الجهاز</value>
+  </data>
+  <data name="Which account should {0} use?" xml:space="preserve">
+    <value>أي حساب سيستخدمه {0}؟</value>
+  </data>
+  <data name="The device gets this account's full access: everything it can see and do, in every app, not just on this device. It stays signed in until the account's password changes or device sign-in is turned off for it." xml:space="preserve">
+    <value>يحصل الجهاز على كامل صلاحيات هذا الحساب: كل ما يستطيع الحساب رؤيته وفعله في جميع التطبيقات، وليس على الجهاز وحده. ويبقى مسجّل الدخول حتى تتغير كلمة مرور الحساب أو يُوقَف تسجيل دخول الأجهزة له.</value>
+  </data>
+  <data name="Sign in the device" xml:space="preserve">
+    <value>تسجيل دخول الجهاز</value>
+  </data>
+  <data name="{0} is signed in as {1}." xml:space="preserve">
+    <value>تم تسجيل دخول {0} بحساب {1}.</value>
+  </data>
+  <data name="Nothing changed on your phone." xml:space="preserve">
+    <value>لم يتغير شيء على هاتفك.</value>
+  </data>
+  <data name="Device not signed in" xml:space="preserve">
+    <value>لم يتم تسجيل دخول الجهاز</value>
+  </data>
+  <data name="The device will not be signed in with this code." xml:space="preserve">
+    <value>لن يتم تسجيل دخول الجهاز بهذا الرمز.</value>
+  </data>
+  <data name="This code can't be used" xml:space="preserve">
+    <value>لا يمكن استخدام هذا الرمز</value>
+  </data>
+  <data name="Enter another code" xml:space="preserve">
+    <value>إدخال رمز آخر</value>
+  </data>
+  <data name="Try again" xml:space="preserve">
+    <value>إعادة المحاولة</value>
+  </data>
+  <data name="That code is not complete. Enter the 8 letters shown on the device." xml:space="preserve">
+    <value>هذا الرمز غير مكتمل. أدخل الأحرف الثمانية الظاهرة على الجهاز.</value>
+  </data>
+  <data name="This code was already used to sign the device in." xml:space="preserve">
+    <value>سبق استخدام هذا الرمز لتسجيل دخول الجهاز.</value>
+  </data>
+  <data name="This code was refused. Start again on the device." xml:space="preserve">
+    <value>تم رفض هذا الرمز. ابدأ من جديد على الجهاز.</value>
+  </data>
+  <data name="This code has expired. Start again on the device." xml:space="preserve">
+    <value>انتهت صلاحية هذا الرمز. ابدأ من جديد على الجهاز.</value>
+  </data>
+  <data name="We couldn't find that code. Check the code on the device and try again." xml:space="preserve">
+    <value>لم نعثر على هذا الرمز. تحقق من الرمز على الجهاز وحاول مرة أخرى.</value>
+  </data>
+  <data name="This device can't be signed in here." xml:space="preserve">
+    <value>لا يمكن تسجيل دخول هذا الجهاز هنا.</value>
+  </data>
+  <data name="Enter the password." xml:space="preserve">
+    <value>أدخل كلمة المرور.</value>
+  </data>
+  <data name="This account can't be used to sign in devices. An administrator can allow it." xml:space="preserve">
+    <value>لا يمكن استخدام هذا الحساب لتسجيل دخول الأجهزة. يمكن للمسؤول السماح بذلك.</value>
+  </data>
+  <data name="This account has a step to finish first. Sign in with it normally once, then try again." xml:space="preserve">
+    <value>على هذا الحساب خطوة يجب إكمالها أولًا. سجّل الدخول به بالطريقة المعتادة مرة واحدة، ثم حاول مرة أخرى.</value>
+  </data>
+  <data name="We couldn't reach the sign-in service. Try again." xml:space="preserve">
+    <value>تعذر الوصول إلى خدمة تسجيل الدخول. حاول مرة أخرى.</value>
+  </data>
+  <data name="Enter the username." xml:space="preserve">
+    <value>أدخل اسم المستخدم.</value>
+  </data>
+  <data name="Device sign-in" xml:space="preserve">
+    <value>تسجيل دخول الأجهزة</value>
+  </data>
+  <data name="For TVs and other devices that sign in with a code" xml:space="preserve">
+    <value>لأجهزة التلفاز والأجهزة الأخرى التي تسجّل الدخول برمز</value>
+  </data>
+  <data name="Allow device sign-in" xml:space="preserve">
+    <value>السماح بتسجيل دخول الأجهزة</value>
+  </data>
+  <data name="A device shows a code, and someone types this account's username and password on their phone. The device gets this account's full access. Accounts with this on are never asked for MFA. Turning it off signs the account out everywhere. Use it only for accounts made for devices." xml:space="preserve">
+    <value>يعرض الجهاز رمزًا، ويكتب شخص ما اسم المستخدم وكلمة المرور لهذا الحساب على هاتفه. يحصل الجهاز على كامل صلاحيات هذا الحساب. لا تُطلب المصادقة الثنائية أبدًا من الحسابات التي فُعّل لها هذا الخيار. إيقافه يسجّل خروج الحساب من كل مكان. استخدمه فقط للحسابات المخصصة للأجهزة.</value>
+  </data>
+  <data name="Not asked for while device sign-in is allowed." xml:space="preserve">
+    <value>لا يُطلب ما دام تسجيل دخول الأجهزة مسموحًا به.</value>
+  </data>
 </root>

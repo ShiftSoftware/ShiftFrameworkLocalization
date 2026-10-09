@@ -1698,4 +1698,106 @@
   <data name="Last used" xml:space="preserve">
     <value>دوایین بەکارهێنان</value>
   </data>
+  <data name="Checking the code…" xml:space="preserve">
+    <value>کۆدەکە دەپشکنرێت…</value>
+  </data>
+  <data name="Signing in a device is unavailable here." xml:space="preserve">
+    <value>چوونەژوورەوەی ئامێر لێرە بەردەست نییە.</value>
+  </data>
+  <data name="Sign in a device" xml:space="preserve">
+    <value>چوونەژوورەوەی ئامێرێک</value>
+  </data>
+  <data name="Enter the code shown on the device." xml:space="preserve">
+    <value>ئەو کۆدە بنووسە کە لەسەر ئامێرەکە پیشان دەدرێت.</value>
+  </data>
+  <data name="{0} is asking to sign in." xml:space="preserve">
+    <value>{0} داوای چوونەژوورەوە دەکات.</value>
+  </data>
+  <data name="Only continue if you're in front of it and it shows this code:" xml:space="preserve">
+    <value>تەنها ئەگەر لەبەردەمیدایت و ئەم کۆدە پیشان دەدات، بەردەوام بە:</value>
+  </data>
+  <data name="Never use a code someone sent you in a message, an email or a call." xml:space="preserve">
+    <value>هەرگیز ئەو کۆدە بەکارمەهێنە کە کەسێک لە نامە یان ئیمەیڵدا بۆی ناردوویت یان لە پەیوەندییەکی تەلەفۆنیدا پێی گوتوویت.</value>
+  </data>
+  <data name="This isn't it" xml:space="preserve">
+    <value>ئەمە ئامێرەکە نییە</value>
+  </data>
+  <data name="Which account should {0} use?" xml:space="preserve">
+    <value>{0} کام هەژمار بەکاربهێنێت؟</value>
+  </data>
+  <data name="The device gets this account's full access: everything it can see and do, in every app, not just on this device. It stays signed in until the account's password changes or device sign-in is turned off for it." xml:space="preserve">
+    <value>ئامێرەکە هەموو دەسەڵاتەکانی ئەم هەژمارە وەردەگرێت: هەرچی هەژمارەکە دەتوانێت ببینێت و بیکات، لە هەموو ئەپەکاندا، نەک تەنها لەسەر ئامێرەکە. ئامێرەکە لە ژوورەوە دەمێنێتەوە تا ئەو کاتەی وشەی نهێنیی هەژمارەکە دەگۆڕدرێت یان چوونەژوورەوەی ئامێری بۆ دەکوژێنرێتەوە.</value>
+  </data>
+  <data name="Sign in the device" xml:space="preserve">
+    <value>چوونەژوورەوەی ئامێرەکە</value>
+  </data>
+  <data name="{0} is signed in as {1}." xml:space="preserve">
+    <value>{0} بە هەژماری {1} چووەتە ژوورەوە.</value>
+  </data>
+  <data name="Nothing changed on your phone." xml:space="preserve">
+    <value>هیچ شتێک لەسەر مۆبایلەکەت نەگۆڕا.</value>
+  </data>
+  <data name="Device not signed in" xml:space="preserve">
+    <value>ئامێرەکە نەچووەتە ژوورەوە</value>
+  </data>
+  <data name="The device will not be signed in with this code." xml:space="preserve">
+    <value>ئامێرەکە بەم کۆدە ناچێتە ژوورەوە.</value>
+  </data>
+  <data name="This code can't be used" xml:space="preserve">
+    <value>ئەم کۆدە ناتوانرێت بەکاربهێنرێت</value>
+  </data>
+  <data name="Enter another code" xml:space="preserve">
+    <value>کۆدێکی تر بنووسە</value>
+  </data>
+  <data name="Try again" xml:space="preserve">
+    <value>دووبارە هەوڵ بدەرەوە</value>
+  </data>
+  <data name="That code is not complete. Enter the 8 letters shown on the device." xml:space="preserve">
+    <value>ئەو کۆدە تەواو نییە. ئەو 8 پیتە بنووسە کە لەسەر ئامێرەکە پیشان دەدرێن.</value>
+  </data>
+  <data name="This code was already used to sign the device in." xml:space="preserve">
+    <value>ئەم کۆدە پێشتر بۆ چوونەژوورەوەی ئامێرەکە بەکارهێنراوە.</value>
+  </data>
+  <data name="This code was refused. Start again on the device." xml:space="preserve">
+    <value>ئەم کۆدە ڕەتکرایەوە. لەسەر ئامێرەکە لە سەرەتاوە دەست پێبکەرەوە.</value>
+  </data>
+  <data name="This code has expired. Start again on the device." xml:space="preserve">
+    <value>ئەم کۆدە بەسەرچووە. لەسەر ئامێرەکە لە سەرەتاوە دەست پێبکەرەوە.</value>
+  </data>
+  <data name="We couldn't find that code. Check the code on the device and try again." xml:space="preserve">
+    <value>ئەو کۆدەمان نەدۆزییەوە. کۆدەکە لەسەر ئامێرەکە بپشکنە و دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="This device can't be signed in here." xml:space="preserve">
+    <value>ئەم ئامێرە ناتوانێت لێرە بچێتە ژوورەوە.</value>
+  </data>
+  <data name="Enter the password." xml:space="preserve">
+    <value>وشەی نهێنی بنووسە.</value>
+  </data>
+  <data name="This account can't be used to sign in devices. An administrator can allow it." xml:space="preserve">
+    <value>ئەم هەژمارە ناتوانرێت بۆ چوونەژوورەوەی ئامێرەکان بەکاربهێنرێت. بەڕێوەبەرێک دەتوانێت ڕێگەی پێبدات.</value>
+  </data>
+  <data name="This account has a step to finish first. Sign in with it normally once, then try again." xml:space="preserve">
+    <value>ئەم هەژمارە هەنگاوێکی ماوە کە سەرەتا دەبێت تەواو بکرێت. جارێک بە شێوەی ئاسایی پێی بچۆ ژوورەوە، پاشان دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="We couldn't reach the sign-in service. Try again." xml:space="preserve">
+    <value>نەمانتوانی پەیوەندی بە خزمەتگوزاریی چوونەژوورەوەوە بکەین. دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="Enter the username." xml:space="preserve">
+    <value>ناوی بەکارهێنەر بنووسە.</value>
+  </data>
+  <data name="Device sign-in" xml:space="preserve">
+    <value>چوونەژوورەوەی ئامێر</value>
+  </data>
+  <data name="For TVs and other devices that sign in with a code" xml:space="preserve">
+    <value>بۆ تەلەفزیۆن و ئامێرەکانی تر کە بە کۆد دەچنە ژوورەوە</value>
+  </data>
+  <data name="Allow device sign-in" xml:space="preserve">
+    <value>ڕێگەدان بە چوونەژوورەوەی ئامێر</value>
+  </data>
+  <data name="A device shows a code, and someone types this account's username and password on their phone. The device gets this account's full access. Accounts with this on are never asked for MFA. Turning it off signs the account out everywhere. Use it only for accounts made for devices." xml:space="preserve">
+    <value>ئامێرێک کۆدێک پیشان دەدات، و کەسێک ناوی بەکارهێنەر و وشەی نهێنیی ئەم هەژمارە لەسەر مۆبایلەکەی دەنووسێت. ئامێرەکە هەموو دەسەڵاتەکانی ئەم هەژمارە وەردەگرێت. ئەو هەژمارانەی ئەمەیان بۆ چالاکە هەرگیز داوای ناسینەوەی دوو هەنگاوییان لێ ناکرێت. بە کوژاندنەوەی، هەژمارەکە لە هەموو شوێنێک دەکرێتە دەرەوە. تەنها بۆ ئەو هەژمارانە بەکاری بهێنە کە بۆ ئامێرەکان دروستکراون.</value>
+  </data>
+  <data name="Not asked for while device sign-in is allowed." xml:space="preserve">
+    <value>مادام چوونەژوورەوەی ئامێر ڕێگەپێدراوە، داوا ناکرێت.</value>
+  </data>
 </root>
