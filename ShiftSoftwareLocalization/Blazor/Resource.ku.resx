@@ -241,4 +241,19 @@
   <data name="SearchNotFound" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
+  <data name="Reveal" xml:space="preserve">
+    <value>پیشاندان</value>
+  </data>
+  <data name="Reveal {0}" xml:space="preserve">
+    <value>پیشاندانی {0}</value>
+  </data>
+  <data name="Could not reveal" xml:space="preserve">
+    <value>نەتوانرا پیشان بدرێت</value>
+  </data>
+  <data name="Not allowed to reveal" xml:space="preserve">
+    <value>ڕێگەت پێنەدراوە پیشانی بدەیت</value>
+  </data>
+  <data name="Unable to reveal this field." xml:space="preserve">
+    <value>نەتوانرا ئەم خانەیە پیشان بدرێت.</value>
+  </data>
 </root>

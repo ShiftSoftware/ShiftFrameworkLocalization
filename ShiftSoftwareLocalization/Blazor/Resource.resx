@@ -866,4 +866,19 @@
   <data name="ListFindUseFilterPanel" xml:space="preserve">
     <value>Use the filter panel to search the whole list.</value>
   </data>
+  <data name="Reveal" xml:space="preserve">
+    <value>Reveal</value>
+  </data>
+  <data name="Reveal {0}" xml:space="preserve">
+    <value>Reveal {0}</value>
+  </data>
+  <data name="Could not reveal" xml:space="preserve">
+    <value>Could not reveal</value>
+  </data>
+  <data name="Not allowed to reveal" xml:space="preserve">
+    <value>Not allowed to reveal</value>
+  </data>
+  <data name="Unable to reveal this field." xml:space="preserve">
+    <value>Unable to reveal this field.</value>
+  </data>
 </root>

@@ -805,4 +805,19 @@
   <data name="ListFindUseFilterPanel" xml:space="preserve">
     <value>استخدم لوحة الفلترة للبحث في القائمة كاملة.</value>
   </data>
+  <data name="Reveal" xml:space="preserve">
+    <value>إظهار</value>
+  </data>
+  <data name="Reveal {0}" xml:space="preserve">
+    <value>إظهار {0}</value>
+  </data>
+  <data name="Could not reveal" xml:space="preserve">
+    <value>تعذّر الإظهار</value>
+  </data>
+  <data name="Not allowed to reveal" xml:space="preserve">
+    <value>غير مسموح لك بالإظهار</value>
+  </data>
+  <data name="Unable to reveal this field." xml:space="preserve">
+    <value>تعذّر إظهار هذا الحقل.</value>
+  </data>
 </root>

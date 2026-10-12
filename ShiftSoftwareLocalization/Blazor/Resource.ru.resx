@@ -856,4 +856,19 @@
   <data name="ListFindUseFilterPanel" xml:space="preserve">
     <value>Используйте панель фильтров для поиска по всему списку.</value>
   </data>
+  <data name="Reveal" xml:space="preserve">
+    <value>Показать</value>
+  </data>
+  <data name="Reveal {0}" xml:space="preserve">
+    <value>Показать: {0}</value>
+  </data>
+  <data name="Could not reveal" xml:space="preserve">
+    <value>Не удалось показать</value>
+  </data>
+  <data name="Not allowed to reveal" xml:space="preserve">
+    <value>Нет прав на просмотр</value>
+  </data>
+  <data name="Unable to reveal this field." xml:space="preserve">
+    <value>Не удалось показать это поле.</value>
+  </data>
 </root>
