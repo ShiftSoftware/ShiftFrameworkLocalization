@@ -1830,4 +1830,7 @@
   <data name="You can not remove" xml:space="preserve">
     <value>لا يمكنك إزالتها</value>
   </data>
+  <data name="Below Access Trees contain accesses that you can not remove" xml:space="preserve">
+    <value>أشجار الوصول أدناه تحتوي على وصول لا يمكنك إزالته</value>
+  </data>
 </root>

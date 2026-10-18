@@ -214,6 +214,15 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Below Access Trees contain accesses that you can not remove.
+        /// </summary>
+        public static string Below_Access_Trees_contain_accesses_that_you_can_not_remove {
+            get {
+                return ResourceManager.GetString("Below Access Trees contain accesses that you can not remove", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Birth Date.
         /// </summary>
         public static string Birth_Date {

@@ -1812,4 +1812,7 @@
   <data name="You can not remove" xml:space="preserve">
     <value>ناتوانیت لای ببەیت</value>
   </data>
+  <data name="Below Access Trees contain accesses that you can not remove" xml:space="preserve">
+    <value>ئەم درەختانەی دەستگەیشتنی خوارەوە دەستگەیشتنێکیان تێدایە کە تۆ ناتوانیت لای ببەیت</value>
+  </data>
 </root>
