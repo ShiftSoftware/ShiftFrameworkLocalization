@@ -1821,4 +1821,13 @@
   <data name="Accounts that allow device sign-in can't be asked to change their password at next sign-in." xml:space="preserve">
     <value>Accounts that allow device sign-in can't be asked to change their password at next sign-in.</value>
   </data>
+  <data name="This access tree has changes that you can not make" xml:space="preserve">
+    <value>This access tree has changes that you can not make</value>
+  </data>
+  <data name="You can not grant" xml:space="preserve">
+    <value>You can not grant</value>
+  </data>
+  <data name="You can not remove" xml:space="preserve">
+    <value>You can not remove</value>
+  </data>
 </root>

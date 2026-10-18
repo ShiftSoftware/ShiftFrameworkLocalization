@@ -1821,4 +1821,13 @@
   <data name="Accounts that allow device sign-in can't be asked to change their password at next sign-in." xml:space="preserve">
     <value>لا يمكن مطالبة الحسابات التي تسمح بتسجيل دخول الأجهزة بتغيير كلمة المرور عند تسجيل الدخول التالي.</value>
   </data>
+  <data name="This access tree has changes that you can not make" xml:space="preserve">
+    <value>تحتوي شجرة الوصول هذه على تغييرات لا يمكنك إجراؤها</value>
+  </data>
+  <data name="You can not grant" xml:space="preserve">
+    <value>لا يمكنك منحها</value>
+  </data>
+  <data name="You can not remove" xml:space="preserve">
+    <value>لا يمكنك إزالتها</value>
+  </data>
 </root>

@@ -1803,4 +1803,13 @@
   <data name="Accounts that allow device sign-in can't be asked to change their password at next sign-in." xml:space="preserve">
     <value>ئەو هەژمارانەی ڕێگە بە چوونەژوورەوەی ئامێر دەدەن، ناکرێت داوایان لێ بکرێت کە لە چوونەژوورەوەی داهاتوودا وشەی نهێنییەکەیان بگۆڕن.</value>
   </data>
+  <data name="This access tree has changes that you can not make" xml:space="preserve">
+    <value>ئەم درەختی دەستگەیشتنە گۆڕانکاریی تێدایە کە تۆ ناتوانیت بیکەیت</value>
+  </data>
+  <data name="You can not grant" xml:space="preserve">
+    <value>ناتوانیت بیبەخشیت</value>
+  </data>
+  <data name="You can not remove" xml:space="preserve">
+    <value>ناتوانیت لای ببەیت</value>
+  </data>
 </root>
