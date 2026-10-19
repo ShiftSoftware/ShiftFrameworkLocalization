@@ -1815,4 +1815,10 @@
   <data name="Below Access Trees contain accesses that you can not remove" xml:space="preserve">
     <value>ئەم درەختانەی دەستگەیشتنی خوارەوە دەستگەیشتنێکیان تێدایە کە تۆ ناتوانیت لای ببەیت</value>
   </data>
+  <data name="This user holds accesses that you don't hold, so you can not change their username, password, sign-in, email, phone or status" xml:space="preserve">
+    <value>ئەم بەکارهێنەرە دەستگەیشتنێکی هەیە کە تۆ نیتە، بۆیە ناتوانیت ناوی بەکارهێنەر، وشەی نهێنی، چوونەژوورەوە، ئیمەیڵ، تەلەفۆن یان دۆخەکەی بگۆڕیت</value>
+  </data>
+  <data name="Below users hold accesses that you don't hold, so none of the selected users was changed" xml:space="preserve">
+    <value>ئەم بەکارهێنەرانەی خوارەوە دەستگەیشتنێکیان هەیە کە تۆ نیتە، بۆیە هیچ یەکێک لە بەکارهێنەرە دیاریکراوەکان نەگۆڕدرا</value>
+  </data>
 </root>

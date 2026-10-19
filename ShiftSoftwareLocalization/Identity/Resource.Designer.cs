@@ -223,6 +223,15 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Below users hold accesses that you don't hold, so none of the selected users was changed.
+        /// </summary>
+        public static string Below_users_hold_accesses_that_you_don_t_hold__so_none_of_the_selected_users_was_changed {
+            get {
+                return ResourceManager.GetString("Below users hold accesses that you don't hold, so none of the selected users was changed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Birth Date.
         /// </summary>
         public static string Birth_Date {
@@ -1434,6 +1443,15 @@ namespace ShiftSoftwareLocalization.Identity {
         public static string This_phone_number_is_verified {
             get {
                 return ResourceManager.GetString("This phone number is verified", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This user holds accesses that you don't hold, so you can not change their username, password, sign-in, email, phone or status.
+        /// </summary>
+        public static string This_user_holds_accesses_that_you_don_t_hold__so_you_can_not_change_their_username__password__sign_in__email__phone_or_status {
+            get {
+                return ResourceManager.GetString("This user holds accesses that you don't hold, so you can not change their username, password, sign-in, email, phone or status", resourceCulture);
             }
         }
         

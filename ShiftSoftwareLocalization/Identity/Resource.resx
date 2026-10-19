@@ -1833,4 +1833,10 @@
   <data name="Below Access Trees contain accesses that you can not remove" xml:space="preserve">
     <value>Below Access Trees contain accesses that you can not remove</value>
   </data>
+  <data name="This user holds accesses that you don't hold, so you can not change their username, password, sign-in, email, phone or status" xml:space="preserve">
+    <value>This user holds accesses that you don't hold, so you can not change their username, password, sign-in, email, phone or status</value>
+  </data>
+  <data name="Below users hold accesses that you don't hold, so none of the selected users was changed" xml:space="preserve">
+    <value>Below users hold accesses that you don't hold, so none of the selected users was changed</value>
+  </data>
 </root>
