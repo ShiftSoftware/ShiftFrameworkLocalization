@@ -1822,4 +1822,10 @@
   <data name="Accounts that allow device sign-in can't be asked to change their password at next sign-in." xml:space="preserve">
     <value>Аккаунты, которым разрешён вход на устройствах, нельзя попросить сменить пароль при следующем входе.</value>
   </data>
+  <data name="Users who still have this access tree: {0} ({1} in total). Remove it from them before you delete it." xml:space="preserve">
+    <value>Пользователи, у которых всё ещё есть этот уровень доступа: {0} (всего {1}). Уберите его у них, прежде чем удалять.</value>
+  </data>
+  <data name="Members still in this team: {0} ({1} in total). Remove them from the team before you delete it." xml:space="preserve">
+    <value>Участники, которые всё ещё в этой команде: {0} (всего {1}). Удалите их из команды, прежде чем удалять её.</value>
+  </data>
 </root>

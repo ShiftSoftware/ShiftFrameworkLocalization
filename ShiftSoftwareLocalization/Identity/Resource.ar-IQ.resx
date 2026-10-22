@@ -1821,4 +1821,10 @@
   <data name="Accounts that allow device sign-in can't be asked to change their password at next sign-in." xml:space="preserve">
     <value>لا يمكن مطالبة الحسابات التي تسمح بتسجيل دخول الأجهزة بتغيير كلمة المرور عند تسجيل الدخول التالي.</value>
   </data>
+  <data name="Users who still have this access tree: {0} ({1} in total). Remove it from them before you delete it." xml:space="preserve">
+    <value>المستخدمون الذين لا تزال لديهم شجرة الوصول هذه: {0} (المجموع {1}). أزلها منهم قبل حذفها.</value>
+  </data>
+  <data name="Members still in this team: {0} ({1} in total). Remove them from the team before you delete it." xml:space="preserve">
+    <value>الأعضاء الذين لا يزالون في هذا الفريق: {0} (المجموع {1}). أزلهم من الفريق قبل حذفه.</value>
+  </data>
 </root>
