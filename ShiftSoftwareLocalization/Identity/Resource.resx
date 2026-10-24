@@ -1839,4 +1839,61 @@
   <data name="Below users hold accesses that you don't hold, so none of the selected users was changed" xml:space="preserve">
     <value>Below users hold accesses that you don't hold, so none of the selected users was changed</value>
   </data>
+  <data name="Your account signs in with Microsoft. Sign in again in the Microsoft window to confirm." xml:space="preserve">
+    <value>Your account signs in with Microsoft. Sign in again in the Microsoft window to confirm.</value>
+  </data>
+  <data name="I've signed in" xml:space="preserve">
+    <value>I've signed in</value>
+  </data>
+  <data name="That Microsoft account can't confirm this account. Sign in with your organization's Microsoft account for this account." xml:space="preserve">
+    <value>That Microsoft account can't confirm this account. Sign in with your organization's Microsoft account for this account.</value>
+  </data>
+  <data name="Your account signs in with Microsoft through your organization. Manage your password and MFA there." xml:space="preserve">
+    <value>Your account signs in with Microsoft through your organization. Manage your password and MFA there.</value>
+  </data>
+  <data name="This user's email is on an organization domain that signs in with Microsoft. The user has no password and no device sign-in, and confirms with Microsoft." xml:space="preserve">
+    <value>This user's email is on an organization domain that signs in with Microsoft. The user has no password and no device sign-in, and confirms with Microsoft.</value>
+  </data>
+  <data name="Your account signs in with your organization's Microsoft account." xml:space="preserve">
+    <value>Your account signs in with your organization's Microsoft account.</value>
+  </data>
+  <data name="Choose Sign in with Microsoft. Your account has no password here." xml:space="preserve">
+    <value>Choose Sign in with Microsoft. Your account has no password here.</value>
+  </data>
+  <data name="Choose Sign in with Microsoft and use your organization's account, not a personal or other account." xml:space="preserve">
+    <value>Choose Sign in with Microsoft and use your organization's account, not a personal or other account.</value>
+  </data>
+  <data name="This account signs in with Microsoft through its organization, so it can't have a password or device sign-in." xml:space="preserve">
+    <value>This account signs in with Microsoft through its organization, so it can't have a password or device sign-in.</value>
+  </data>
+  <data name="Waiting for the {0} sign-in. Finish it in the {0} window." xml:space="preserve">
+    <value>Waiting for the {0} sign-in. Finish it in the {0} window.</value>
+  </data>
+  <data name="Confirm with {0}" xml:space="preserve">
+    <value>Confirm with {0}</value>
+  </data>
+  <data name="Your browser blocked the {0} window. Allow pop-ups for this site, then try again." xml:space="preserve">
+    <value>Your browser blocked the {0} window. Allow pop-ups for this site, then try again.</value>
+  </data>
+  <data name="The {0} window was closed. Try again." xml:space="preserve">
+    <value>The {0} window was closed. Try again.</value>
+  </data>
+  <data name="That {0} account isn't this account's. Sign in with the {0} account you use to sign in here." xml:space="preserve">
+    <value>That {0} account isn't this account's. Sign in with the {0} account you use to sign in here.</value>
+  </data>
+  <data name="{0} didn't confirm that account's email address. Try another {0} account." xml:space="preserve">
+    <value>{0} didn't confirm that account's email address. Try another {0} account.</value>
+  </data>
+  <data name="The {0} sign-in took too long. Try again." xml:space="preserve">
+    <value>The {0} sign-in took too long. Try again.</value>
+  </data>
+  <data name="{0} can't be reached right now. Try again later." xml:space="preserve">
+    <value>{0} can't be reached right now. Try again later.</value>
+  </data>
+  <data name="The {0} sign-in didn't complete. Try again." xml:space="preserve">
+    <value>The {0} sign-in didn't complete. Try again.</value>
+  </data>
+  <data name="{0} hasn't confirmed the sign-in yet. Finish it in the {0} window, then try again." xml:space="preserve">
+    <value>{0} hasn't confirmed the sign-in yet. Finish it in the {0} window, then try again.</value>
+  </data>
 </root>

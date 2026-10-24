@@ -1598,5 +1598,176 @@ namespace ShiftSoftwareLocalization.Identity {
                 return ResourceManager.GetString("Your password reseted successfully", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your account signs in with Microsoft. Sign in again in the Microsoft window to confirm..
+        /// </summary>
+        public static string Your_account_signs_in_with_Microsoft__Sign_in_again_in_the_Microsoft_window_to_confirm_ {
+            get {
+                return ResourceManager.GetString("Your account signs in with Microsoft. Sign in again in the Microsoft window to confirm.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I&apos;ve signed in.
+        /// </summary>
+        public static string I_ve_signed_in {
+            get {
+                return ResourceManager.GetString("I've signed in", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to That Microsoft account can&apos;t confirm this account. Sign in with your organization&apos;s Microsoft account for this account..
+        /// </summary>
+        public static string That_Microsoft_account_can_t_confirm_this_account__Sign_in_with_your_organization_s_Microsoft_account_for_this_account_ {
+            get {
+                return ResourceManager.GetString("That Microsoft account can't confirm this account. Sign in with your organization's Microsoft account for this account.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your account signs in with Microsoft through your organization. Manage your password and MFA there..
+        /// </summary>
+        public static string Your_account_signs_in_with_Microsoft_through_your_organization__Manage_your_password_and_MFA_there_ {
+            get {
+                return ResourceManager.GetString("Your account signs in with Microsoft through your organization. Manage your password and MFA there.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This user&apos;s email is on an organization domain that signs in with Microsoft. The user has no password and no device sign-in, and confirms with Microsoft..
+        /// </summary>
+        public static string This_user_s_email_is_on_an_organization_domain_that_signs_in_with_Microsoft__The_user_has_no_password_and_no_device_sign_in__and_confirms_with_Microsoft_ {
+            get {
+                return ResourceManager.GetString("This user's email is on an organization domain that signs in with Microsoft. The user has no password and no device sign-in, and confirms with Microsoft.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your account signs in with your organization&apos;s Microsoft account..
+        /// </summary>
+        public static string Your_account_signs_in_with_your_organization_s_Microsoft_account_ {
+            get {
+                return ResourceManager.GetString("Your account signs in with your organization's Microsoft account.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Choose Sign in with Microsoft. Your account has no password here..
+        /// </summary>
+        public static string Choose_Sign_in_with_Microsoft__Your_account_has_no_password_here_ {
+            get {
+                return ResourceManager.GetString("Choose Sign in with Microsoft. Your account has no password here.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Choose Sign in with Microsoft and use your organization&apos;s account, not a personal or other account..
+        /// </summary>
+        public static string Choose_Sign_in_with_Microsoft_and_use_your_organization_s_account__not_a_personal_or_other_account_ {
+            get {
+                return ResourceManager.GetString("Choose Sign in with Microsoft and use your organization's account, not a personal or other account.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This account signs in with Microsoft through its organization, so it can&apos;t have a password or device sign-in..
+        /// </summary>
+        public static string This_account_signs_in_with_Microsoft_through_its_organization__so_it_can_t_have_a_password_or_device_sign_in_ {
+            get {
+                return ResourceManager.GetString("This account signs in with Microsoft through its organization, so it can't have a password or device sign-in.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Waiting for the {0} sign-in. Finish it in the {0} window..
+        /// </summary>
+        public static string Waiting_for_the__0__sign_in__Finish_it_in_the__0__window_ {
+            get {
+                return ResourceManager.GetString("Waiting for the {0} sign-in. Finish it in the {0} window.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Confirm with {0}.
+        /// </summary>
+        public static string Confirm_with__0_ {
+            get {
+                return ResourceManager.GetString("Confirm with {0}", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your browser blocked the {0} window. Allow pop-ups for this site, then try again..
+        /// </summary>
+        public static string Your_browser_blocked_the__0__window__Allow_pop_ups_for_this_site__then_try_again_ {
+            get {
+                return ResourceManager.GetString("Your browser blocked the {0} window. Allow pop-ups for this site, then try again.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The {0} window was closed. Try again..
+        /// </summary>
+        public static string The__0__window_was_closed__Try_again_ {
+            get {
+                return ResourceManager.GetString("The {0} window was closed. Try again.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to That {0} account isn&apos;t this account&apos;s. Sign in with the {0} account you use to sign in here..
+        /// </summary>
+        public static string That__0__account_isn_t_this_account_s__Sign_in_with_the__0__account_you_use_to_sign_in_here_ {
+            get {
+                return ResourceManager.GetString("That {0} account isn't this account's. Sign in with the {0} account you use to sign in here.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} didn&apos;t confirm that account&apos;s email address. Try another {0} account..
+        /// </summary>
+        public static string _0__didn_t_confirm_that_account_s_email_address__Try_another__0__account_ {
+            get {
+                return ResourceManager.GetString("{0} didn't confirm that account's email address. Try another {0} account.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The {0} sign-in took too long. Try again..
+        /// </summary>
+        public static string The__0__sign_in_took_too_long__Try_again_ {
+            get {
+                return ResourceManager.GetString("The {0} sign-in took too long. Try again.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} can&apos;t be reached right now. Try again later..
+        /// </summary>
+        public static string _0__can_t_be_reached_right_now__Try_again_later_ {
+            get {
+                return ResourceManager.GetString("{0} can't be reached right now. Try again later.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The {0} sign-in didn&apos;t complete. Try again..
+        /// </summary>
+        public static string The__0__sign_in_didn_t_complete__Try_again_ {
+            get {
+                return ResourceManager.GetString("The {0} sign-in didn't complete. Try again.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} hasn&apos;t confirmed the sign-in yet. Finish it in the {0} window, then try again..
+        /// </summary>
+        public static string _0__hasn_t_confirmed_the_sign_in_yet__Finish_it_in_the__0__window__then_try_again_ {
+            get {
+                return ResourceManager.GetString("{0} hasn't confirmed the sign-in yet. Finish it in the {0} window, then try again.", resourceCulture);
+            }
+        }
     }
 }

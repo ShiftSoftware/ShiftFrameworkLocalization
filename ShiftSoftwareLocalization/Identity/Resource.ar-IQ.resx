@@ -1839,4 +1839,61 @@
   <data name="Below users hold accesses that you don't hold, so none of the selected users was changed" xml:space="preserve">
     <value>المستخدمون أدناه لديهم وصول لا تملكه، لذا لم يتم تغيير أي من المستخدمين المحددين</value>
   </data>
+  <data name="Your account signs in with Microsoft. Sign in again in the Microsoft window to confirm." xml:space="preserve">
+    <value>يتم تسجيل الدخول إلى حسابك باستخدام Microsoft. سجّل الدخول مرة أخرى في نافذة Microsoft للتأكيد.</value>
+  </data>
+  <data name="I've signed in" xml:space="preserve">
+    <value>لقد سجّلت الدخول</value>
+  </data>
+  <data name="That Microsoft account can't confirm this account. Sign in with your organization's Microsoft account for this account." xml:space="preserve">
+    <value>لا يمكن لحساب Microsoft هذا تأكيد هذا الحساب. سجّل الدخول بحساب Microsoft الخاص بمؤسستك لهذا الحساب.</value>
+  </data>
+  <data name="Your account signs in with Microsoft through your organization. Manage your password and MFA there." xml:space="preserve">
+    <value>يتم تسجيل الدخول إلى حسابك باستخدام Microsoft عبر مؤسستك. أدِر كلمة المرور والمصادقة متعددة العوامل هناك.</value>
+  </data>
+  <data name="This user's email is on an organization domain that signs in with Microsoft. The user has no password and no device sign-in, and confirms with Microsoft." xml:space="preserve">
+    <value>البريد الإلكتروني لهذا المستخدم على نطاق مؤسسة تسجّل الدخول باستخدام Microsoft. ليس لدى المستخدم كلمة مرور ولا تسجيل دخول للأجهزة، ويؤكّد باستخدام Microsoft.</value>
+  </data>
+  <data name="Your account signs in with your organization's Microsoft account." xml:space="preserve">
+    <value>يتم تسجيل الدخول إلى حسابك باستخدام حساب Microsoft الخاص بمؤسستك.</value>
+  </data>
+  <data name="Choose Sign in with Microsoft. Your account has no password here." xml:space="preserve">
+    <value>اختر تسجيل الدخول باستخدام Microsoft. ليس لحسابك كلمة مرور هنا.</value>
+  </data>
+  <data name="Choose Sign in with Microsoft and use your organization's account, not a personal or other account." xml:space="preserve">
+    <value>اختر تسجيل الدخول باستخدام Microsoft واستخدم حساب مؤسستك، وليس حسابًا شخصيًا أو حسابًا آخر.</value>
+  </data>
+  <data name="This account signs in with Microsoft through its organization, so it can't have a password or device sign-in." xml:space="preserve">
+    <value>يسجّل هذا الحساب الدخول باستخدام Microsoft عبر مؤسسته، لذا لا يمكن أن تكون له كلمة مرور أو تسجيل دخول للأجهزة.</value>
+  </data>
+  <data name="Waiting for the {0} sign-in. Finish it in the {0} window." xml:space="preserve">
+    <value>بانتظار تسجيل الدخول إلى {0}. أكمله في نافذة {0}.</value>
+  </data>
+  <data name="Confirm with {0}" xml:space="preserve">
+    <value>التأكيد باستخدام {0}</value>
+  </data>
+  <data name="Your browser blocked the {0} window. Allow pop-ups for this site, then try again." xml:space="preserve">
+    <value>حظر متصفحك نافذة {0}. اسمح بالنوافذ المنبثقة لهذا الموقع، ثم حاول مرة أخرى.</value>
+  </data>
+  <data name="The {0} window was closed. Try again." xml:space="preserve">
+    <value>تم إغلاق نافذة {0}. حاول مرة أخرى.</value>
+  </data>
+  <data name="That {0} account isn't this account's. Sign in with the {0} account you use to sign in here." xml:space="preserve">
+    <value>حساب {0} هذا ليس لهذا الحساب. سجّل الدخول بحساب {0} الذي تستخدمه لتسجيل الدخول هنا.</value>
+  </data>
+  <data name="{0} didn't confirm that account's email address. Try another {0} account." xml:space="preserve">
+    <value>لم تؤكد {0} عنوان البريد الإلكتروني لذلك الحساب. جرّب حساب {0} آخر.</value>
+  </data>
+  <data name="The {0} sign-in took too long. Try again." xml:space="preserve">
+    <value>استغرق تسجيل الدخول إلى {0} وقتًا طويلاً. حاول مرة أخرى.</value>
+  </data>
+  <data name="{0} can't be reached right now. Try again later." xml:space="preserve">
+    <value>لا يمكن الوصول إلى {0} الآن. حاول مرة أخرى لاحقًا.</value>
+  </data>
+  <data name="The {0} sign-in didn't complete. Try again." xml:space="preserve">
+    <value>لم يكتمل تسجيل الدخول إلى {0}. حاول مرة أخرى.</value>
+  </data>
+  <data name="{0} hasn't confirmed the sign-in yet. Finish it in the {0} window, then try again." xml:space="preserve">
+    <value>لم تؤكد {0} تسجيل الدخول بعد. أكمله في نافذة {0}، ثم حاول مرة أخرى.</value>
+  </data>
 </root>

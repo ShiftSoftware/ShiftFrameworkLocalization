@@ -1821,4 +1821,61 @@
   <data name="Below users hold accesses that you don't hold, so none of the selected users was changed" xml:space="preserve">
     <value>ئەم بەکارهێنەرانەی خوارەوە دەستگەیشتنێکیان هەیە کە تۆ نیتە، بۆیە هیچ یەکێک لە بەکارهێنەرە دیاریکراوەکان نەگۆڕدرا</value>
   </data>
+  <data name="Your account signs in with Microsoft. Sign in again in the Microsoft window to confirm." xml:space="preserve">
+    <value>هەژمارەکەت بە Microsoft دەچێتە ژوورەوە. بۆ پشتڕاستکردنەوە، لە پەنجەرەی Microsoft دووبارە بچۆ ژوورەوە.</value>
+  </data>
+  <data name="I've signed in" xml:space="preserve">
+    <value>چوومە ژوورەوە</value>
+  </data>
+  <data name="That Microsoft account can't confirm this account. Sign in with your organization's Microsoft account for this account." xml:space="preserve">
+    <value>ئەو هەژمارەی Microsoft ناتوانێت ئەم هەژمارە پشتڕاست بکاتەوە. بە هەژماری Microsoft ی دامەزراوەکەت بۆ ئەم هەژمارە بچۆ ژوورەوە.</value>
+  </data>
+  <data name="Your account signs in with Microsoft through your organization. Manage your password and MFA there." xml:space="preserve">
+    <value>هەژمارەکەت لە ڕێگەی دامەزراوەکەتەوە بە Microsoft دەچێتە ژوورەوە. وشەی نهێنی و MFA لەوێ بەڕێوە ببە.</value>
+  </data>
+  <data name="This user's email is on an organization domain that signs in with Microsoft. The user has no password and no device sign-in, and confirms with Microsoft." xml:space="preserve">
+    <value>ئیمەیڵی ئەم بەکارهێنەرە لەسەر دۆمەینی دامەزراوەیەکە کە بە Microsoft دەچێتە ژوورەوە. بەکارهێنەرەکە وشەی نهێنی و چوونەژوورەوەی ئامێری نییە، و بە Microsoft پشتڕاستی دەکاتەوە.</value>
+  </data>
+  <data name="Your account signs in with your organization's Microsoft account." xml:space="preserve">
+    <value>هەژمارەکەت بە هەژماری Microsoft ی دامەزراوەکەت دەچێتە ژوورەوە.</value>
+  </data>
+  <data name="Choose Sign in with Microsoft. Your account has no password here." xml:space="preserve">
+    <value>چوونەژوورەوە بە Microsoft هەڵبژێرە. هەژمارەکەت لێرە وشەی نهێنی نییە.</value>
+  </data>
+  <data name="Choose Sign in with Microsoft and use your organization's account, not a personal or other account." xml:space="preserve">
+    <value>چوونەژوورەوە بە Microsoft هەڵبژێرە و هەژماری دامەزراوەکەت بەکاربهێنە، نەک هەژمارێکی کەسی یان هەژمارێکی تر.</value>
+  </data>
+  <data name="This account signs in with Microsoft through its organization, so it can't have a password or device sign-in." xml:space="preserve">
+    <value>ئەم هەژمارە لە ڕێگەی دامەزراوەکەیەوە بە Microsoft دەچێتە ژوورەوە، بۆیە ناتوانێت وشەی نهێنی یان چوونەژوورەوەی ئامێری هەبێت.</value>
+  </data>
+  <data name="Waiting for the {0} sign-in. Finish it in the {0} window." xml:space="preserve">
+    <value>چاوەڕێی چوونەژوورەوەی {0}. لە پەنجەرەی {0} تەواوی بکە.</value>
+  </data>
+  <data name="Confirm with {0}" xml:space="preserve">
+    <value>پشتڕاستکردنەوە بە {0}</value>
+  </data>
+  <data name="Your browser blocked the {0} window. Allow pop-ups for this site, then try again." xml:space="preserve">
+    <value>وێبگەڕەکەت پەنجەرەی {0} ی ڕاگرت. ڕێگە بە پەنجەرە دەرکەوتووەکان بدە بۆ ئەم ماڵپەڕە، پاشان دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="The {0} window was closed. Try again." xml:space="preserve">
+    <value>پەنجەرەی {0} داخرا. دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="That {0} account isn't this account's. Sign in with the {0} account you use to sign in here." xml:space="preserve">
+    <value>ئەو هەژمارەی {0} هی ئەم هەژمارە نییە. بەو هەژمارەی {0} بچۆ ژوورەوە کە لێرە پێی دەچیتە ژوورەوە.</value>
+  </data>
+  <data name="{0} didn't confirm that account's email address. Try another {0} account." xml:space="preserve">
+    <value>{0} ناونیشانی ئیمەیڵی ئەو هەژمارەی پشتڕاست نەکردەوە. هەژمارێکی تری {0} تاقی بکەرەوە.</value>
+  </data>
+  <data name="The {0} sign-in took too long. Try again." xml:space="preserve">
+    <value>چوونەژوورەوەی {0} زۆری خایاند. دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="{0} can't be reached right now. Try again later." xml:space="preserve">
+    <value>ئێستا ناگەینە {0}. دواتر دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="The {0} sign-in didn't complete. Try again." xml:space="preserve">
+    <value>چوونەژوورەوەی {0} تەواو نەبوو. دووبارە هەوڵ بدەرەوە.</value>
+  </data>
+  <data name="{0} hasn't confirmed the sign-in yet. Finish it in the {0} window, then try again." xml:space="preserve">
+    <value>{0} هێشتا چوونەژوورەوەکەی پشتڕاست نەکردۆتەوە. لە پەنجەرەی {0} تەواوی بکە، پاشان دووبارە هەوڵ بدەرەوە.</value>
+  </data>
 </root>

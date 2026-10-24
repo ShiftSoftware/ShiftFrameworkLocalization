@@ -1822,4 +1822,61 @@
   <data name="Accounts that allow device sign-in can't be asked to change their password at next sign-in." xml:space="preserve">
     <value>Аккаунты, которым разрешён вход на устройствах, нельзя попросить сменить пароль при следующем входе.</value>
   </data>
+  <data name="Your account signs in with Microsoft. Sign in again in the Microsoft window to confirm." xml:space="preserve">
+    <value>Ваша учётная запись входит через Microsoft. Войдите снова в окне Microsoft, чтобы подтвердить.</value>
+  </data>
+  <data name="I've signed in" xml:space="preserve">
+    <value>Я вошёл</value>
+  </data>
+  <data name="That Microsoft account can't confirm this account. Sign in with your organization's Microsoft account for this account." xml:space="preserve">
+    <value>Эта учётная запись Microsoft не может подтвердить эту учётную запись. Войдите с учётной записью Microsoft вашей организации для этой учётной записи.</value>
+  </data>
+  <data name="Your account signs in with Microsoft through your organization. Manage your password and MFA there." xml:space="preserve">
+    <value>Ваша учётная запись входит через Microsoft вашей организации. Управляйте паролем и MFA там.</value>
+  </data>
+  <data name="This user's email is on an organization domain that signs in with Microsoft. The user has no password and no device sign-in, and confirms with Microsoft." xml:space="preserve">
+    <value>Адрес электронной почты этого пользователя находится в домене организации, которая входит через Microsoft. У пользователя нет пароля и входа на устройствах, и он подтверждает действия через Microsoft.</value>
+  </data>
+  <data name="Your account signs in with your organization's Microsoft account." xml:space="preserve">
+    <value>Ваша учётная запись входит через учётную запись Microsoft вашей организации.</value>
+  </data>
+  <data name="Choose Sign in with Microsoft. Your account has no password here." xml:space="preserve">
+    <value>Выберите «Войти через Microsoft». У вашей учётной записи здесь нет пароля.</value>
+  </data>
+  <data name="Choose Sign in with Microsoft and use your organization's account, not a personal or other account." xml:space="preserve">
+    <value>Выберите «Войти через Microsoft» и используйте учётную запись вашей организации, а не личную или другую.</value>
+  </data>
+  <data name="This account signs in with Microsoft through its organization, so it can't have a password or device sign-in." xml:space="preserve">
+    <value>Эта учётная запись входит через Microsoft своей организации, поэтому у неё не может быть пароля или входа на устройствах.</value>
+  </data>
+  <data name="Waiting for the {0} sign-in. Finish it in the {0} window." xml:space="preserve">
+    <value>Ожидание входа в {0}. Завершите его в окне {0}.</value>
+  </data>
+  <data name="Confirm with {0}" xml:space="preserve">
+    <value>Подтвердить через {0}</value>
+  </data>
+  <data name="Your browser blocked the {0} window. Allow pop-ups for this site, then try again." xml:space="preserve">
+    <value>Браузер заблокировал окно {0}. Разрешите всплывающие окна для этого сайта и попробуйте снова.</value>
+  </data>
+  <data name="The {0} window was closed. Try again." xml:space="preserve">
+    <value>Окно {0} было закрыто. Попробуйте снова.</value>
+  </data>
+  <data name="That {0} account isn't this account's. Sign in with the {0} account you use to sign in here." xml:space="preserve">
+    <value>Эта учётная запись {0} не относится к этой учётной записи. Войдите с учётной записью {0}, через которую вы входите здесь.</value>
+  </data>
+  <data name="{0} didn't confirm that account's email address. Try another {0} account." xml:space="preserve">
+    <value>{0} не подтвердил адрес электронной почты этой учётной записи. Попробуйте другую учётную запись {0}.</value>
+  </data>
+  <data name="The {0} sign-in took too long. Try again." xml:space="preserve">
+    <value>Вход в {0} занял слишком много времени. Попробуйте снова.</value>
+  </data>
+  <data name="{0} can't be reached right now. Try again later." xml:space="preserve">
+    <value>Сейчас не удаётся связаться с {0}. Попробуйте позже.</value>
+  </data>
+  <data name="The {0} sign-in didn't complete. Try again." xml:space="preserve">
+    <value>Вход в {0} не завершён. Попробуйте снова.</value>
+  </data>
+  <data name="{0} hasn't confirmed the sign-in yet. Finish it in the {0} window, then try again." xml:space="preserve">
+    <value>{0} ещё не подтвердил вход. Завершите его в окне {0} и попробуйте снова.</value>
+  </data>
 </root>
