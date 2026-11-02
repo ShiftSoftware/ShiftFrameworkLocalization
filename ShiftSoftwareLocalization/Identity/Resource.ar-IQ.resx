@@ -1896,4 +1896,10 @@
   <data name="{0} hasn't confirmed the sign-in yet. Finish it in the {0} window, then try again." xml:space="preserve">
     <value>لم تؤكد {0} تسجيل الدخول بعد. أكمله في نافذة {0}، ثم حاول مرة أخرى.</value>
   </data>
+  <data name="Users who still have this access tree: {0} ({1} in total). Remove it from them before you delete it." xml:space="preserve">
+    <value>المستخدمون الذين لا تزال لديهم شجرة الوصول هذه: {0} (المجموع {1}). أزلها منهم قبل حذفها.</value>
+  </data>
+  <data name="Members still in this team: {0} ({1} in total). Remove them from the team before you delete it." xml:space="preserve">
+    <value>الأعضاء الذين لا يزالون في هذا الفريق: {0} (المجموع {1}). أزلهم من الفريق قبل حذفه.</value>
+  </data>
 </root>

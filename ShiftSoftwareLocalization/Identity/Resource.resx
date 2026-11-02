@@ -1896,4 +1896,10 @@
   <data name="{0} hasn't confirmed the sign-in yet. Finish it in the {0} window, then try again." xml:space="preserve">
     <value>{0} hasn't confirmed the sign-in yet. Finish it in the {0} window, then try again.</value>
   </data>
+  <data name="Users who still have this access tree: {0} ({1} in total). Remove it from them before you delete it." xml:space="preserve">
+    <value>Users who still have this access tree: {0} ({1} in total). Remove it from them before you delete it.</value>
+  </data>
+  <data name="Members still in this team: {0} ({1} in total). Remove them from the team before you delete it." xml:space="preserve">
+    <value>Members still in this team: {0} ({1} in total). Remove them from the team before you delete it.</value>
+  </data>
 </root>

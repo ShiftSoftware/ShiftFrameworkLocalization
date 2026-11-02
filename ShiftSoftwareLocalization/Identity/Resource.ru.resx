@@ -1879,4 +1879,10 @@
   <data name="{0} hasn't confirmed the sign-in yet. Finish it in the {0} window, then try again." xml:space="preserve">
     <value>{0} ещё не подтвердил вход. Завершите его в окне {0} и попробуйте снова.</value>
   </data>
+  <data name="Users who still have this access tree: {0} ({1} in total). Remove it from them before you delete it." xml:space="preserve">
+    <value>Пользователи, у которых всё ещё есть этот уровень доступа: {0} (всего {1}). Уберите его у них, прежде чем удалять.</value>
+  </data>
+  <data name="Members still in this team: {0} ({1} in total). Remove them from the team before you delete it." xml:space="preserve">
+    <value>Участники, которые всё ещё в этой команде: {0} (всего {1}). Удалите их из команды, прежде чем удалять её.</value>
+  </data>
 </root>

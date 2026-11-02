@@ -1878,4 +1878,10 @@
   <data name="{0} hasn't confirmed the sign-in yet. Finish it in the {0} window, then try again." xml:space="preserve">
     <value>{0} هێشتا چوونەژوورەوەکەی پشتڕاست نەکردۆتەوە. لە پەنجەرەی {0} تەواوی بکە، پاشان دووبارە هەوڵ بدەرەوە.</value>
   </data>
+  <data name="Users who still have this access tree: {0} ({1} in total). Remove it from them before you delete it." xml:space="preserve">
+    <value>ئەو بەکارهێنەرانەی هێشتا ئەم درەختی دەستگەیشتنەیان هەیە: {0} (کۆی گشتی {1}). پێش سڕینەوەی، لێیان لابە.</value>
+  </data>
+  <data name="Members still in this team: {0} ({1} in total). Remove them from the team before you delete it." xml:space="preserve">
+    <value>ئەو ئەندامانەی هێشتا لەم تیمەدان: {0} (کۆی گشتی {1}). پێش سڕینەوەی تیمەکە، لە تیمەکە لایانبە.</value>
+  </data>
 </root>
