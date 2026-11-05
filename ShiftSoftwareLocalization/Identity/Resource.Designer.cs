@@ -1663,6 +1663,15 @@ namespace ShiftSoftwareLocalization.Identity {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to This app doesn&apos;t offer Microsoft sign-in yet, so your account can&apos;t sign in here..
+        /// </summary>
+        public static string This_app_doesn_t_offer_Microsoft_sign_in_yet__so_your_account_can_t_sign_in_here_ {
+            get {
+                return ResourceManager.GetString("This app doesn\'t offer Microsoft sign-in yet, so your account can\'t sign in here.", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to Choose Sign in with Microsoft and use your organization&apos;s account, not a personal or other account..
         /// </summary>
         public static string Choose_Sign_in_with_Microsoft_and_use_your_organization_s_account__not_a_personal_or_other_account_ {
@@ -1767,6 +1776,168 @@ namespace ShiftSoftwareLocalization.Identity {
         public static string _0__hasn_t_confirmed_the_sign_in_yet__Finish_it_in_the__0__window__then_try_again_ {
             get {
                 return ResourceManager.GetString("{0} hasn't confirmed the sign-in yet. Finish it in the {0} window, then try again.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ACCOUNT SECURITY.
+        /// </summary>
+        public static string ACCOUNT_SECURITY {
+            get {
+                return ResourceManager.GetString("ACCOUNT SECURITY", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Verify your email address.
+        /// </summary>
+        public static string Verify_your_email_address {
+            get {
+                return ResourceManager.GetString("Verify your email address", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Use the link below, then choose Verify my email to confirm this email address. Opening the link alone makes no changes..
+        /// </summary>
+        public static string Use_the_link_below__then_choose_Verify_my_email_to_confirm_this_email_address__Opening_the_link_alone_makes_no_changes_ {
+            get {
+                return ResourceManager.GetString("Use the link below, then choose Verify my email to confirm this email address. Opening the link alone makes no changes.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Use the link below to choose a new password. Opening the link alone does not change your password..
+        /// </summary>
+        public static string Use_the_link_below_to_choose_a_new_password__Opening_the_link_alone_does_not_change_your_password_ {
+            get {
+                return ResourceManager.GetString("Use the link below to choose a new password. Opening the link alone does not change your password.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This link expires at {0}..
+        /// </summary>
+        public static string This_link_expires_at__0__ {
+            get {
+                return ResourceManager.GetString("This link expires at {0}.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If this link has expired, request a new one..
+        /// </summary>
+        public static string If_this_link_has_expired__request_a_new_one_ {
+            get {
+                return ResourceManager.GetString("If this link has expired, request a new one.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hello,.
+        /// </summary>
+        public static string Hello_ {
+            get {
+                return ResourceManager.GetString("Hello,", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hello {0},.
+        /// </summary>
+        public static string Hello__0__ {
+            get {
+                return ResourceManager.GetString("Hello {0},", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you did not request this email, you can ignore it. Keep this link private and do not forward this email..
+        /// </summary>
+        public static string If_you_did_not_request_this_email__you_can_ignore_it__Keep_this_link_private_and_do_not_forward_this_email_ {
+            get {
+                return ResourceManager.GetString("If you did not request this email, you can ignore it. Keep this link private and do not forward this email.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If the button does not work, copy this link into your browser:.
+        /// </summary>
+        public static string If_the_button_does_not_work__copy_this_link_into_your_browser_ {
+            get {
+                return ResourceManager.GetString("If the button does not work, copy this link into your browser:", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your account signs in with Microsoft.
+        /// </summary>
+        public static string Your_account_signs_in_with_Microsoft {
+            get {
+                return ResourceManager.GetString("Your account signs in with Microsoft", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} sign-in linked to your account.
+        /// </summary>
+        public static string _0__sign_in_linked_to_your_account {
+            get {
+                return ResourceManager.GetString("{0} sign-in linked to your account", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to A {0} account just signed in to your account. From now on it can sign in without your password..
+        /// </summary>
+        public static string A__0__account_just_signed_in_to_your_account__From_now_on_it_can_sign_in_without_your_password_ {
+            get {
+                return ResourceManager.GetString("A {0} account just signed in to your account. From now on it can sign in without your password.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The {0} account {1} just signed in to your account. From now on it can sign in without your password..
+        /// </summary>
+        public static string The__0__account__1__just_signed_in_to_your_account__From_now_on_it_can_sign_in_without_your_password_ {
+            get {
+                return ResourceManager.GetString("The {0} account {1} just signed in to your account. From now on it can sign in without your password.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Someone asked to reset the password of your account. Your account has no password to reset: it signs in with your organization&apos;s Microsoft account. On the sign-in page, choose Sign in with Microsoft..
+        /// </summary>
+        public static string Someone_asked_to_reset_the_password_of_your_account__Your_account_has_no_password_to_reset__it_signs_in_with_your_organization_s_Microsoft_account__On_the_sign_in_page__choose_Sign_in_with_Microsoft_ {
+            get {
+                return ResourceManager.GetString("Someone asked to reset the password of your account. Your account has no password to reset: it signs in with your organization\'s Microsoft account. On the sign-in page, choose Sign in with Microsoft.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you did not ask for this, you can ignore this email. Nothing about your account has changed..
+        /// </summary>
+        public static string If_you_did_not_ask_for_this__you_can_ignore_this_email__Nothing_about_your_account_has_changed_ {
+            get {
+                return ResourceManager.GetString("If you did not ask for this, you can ignore this email. Nothing about your account has changed.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If this was not you, contact your administrator now: your email address may be on the wrong account..
+        /// </summary>
+        public static string If_this_was_not_you__contact_your_administrator_now__your_email_address_may_be_on_the_wrong_account_ {
+            get {
+                return ResourceManager.GetString("If this was not you, contact your administrator now: your email address may be on the wrong account.", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Go to sign in.
+        /// </summary>
+        public static string Go_to_sign_in {
+            get {
+                return ResourceManager.GetString("Go to sign in", resourceCulture);
             }
         }
     }
