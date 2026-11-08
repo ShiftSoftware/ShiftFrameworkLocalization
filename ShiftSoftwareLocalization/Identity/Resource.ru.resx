@@ -1942,4 +1942,10 @@
   <data name="Go to sign in" xml:space="preserve">
     <value>Перейти ко входу</value>
   </data>
+  <data name="Read the sign-in guide" xml:space="preserve">
+    <value>Открыть руководство по входу</value>
+  </data>
+  <data name="User guide" xml:space="preserve">
+    <value>Руководство пользователя</value>
+  </data>
 </root>

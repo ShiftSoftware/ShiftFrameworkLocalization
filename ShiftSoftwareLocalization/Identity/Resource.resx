@@ -1959,4 +1959,10 @@
   <data name="Go to sign in" xml:space="preserve">
     <value>Go to sign in</value>
   </data>
+  <data name="Read the sign-in guide" xml:space="preserve">
+    <value>Read the sign-in guide</value>
+  </data>
+  <data name="User guide" xml:space="preserve">
+    <value>User guide</value>
+  </data>
 </root>

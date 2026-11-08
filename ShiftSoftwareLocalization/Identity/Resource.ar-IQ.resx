@@ -1959,4 +1959,10 @@
   <data name="Go to sign in" xml:space="preserve">
     <value>الانتقال إلى تسجيل الدخول</value>
   </data>
+  <data name="Read the sign-in guide" xml:space="preserve">
+    <value>اقرأ دليل تسجيل الدخول</value>
+  </data>
+  <data name="User guide" xml:space="preserve">
+    <value>دليل المستخدم</value>
+  </data>
 </root>

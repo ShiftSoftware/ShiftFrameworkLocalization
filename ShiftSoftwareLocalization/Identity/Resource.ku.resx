@@ -1941,4 +1941,10 @@
   <data name="Go to sign in" xml:space="preserve">
     <value>بڕۆ بۆ چوونەژوورەوە</value>
   </data>
+  <data name="Read the sign-in guide" xml:space="preserve">
+    <value>ڕێبەری چوونەژوورەوە بخوێنەوە</value>
+  </data>
+  <data name="User guide" xml:space="preserve">
+    <value>ڕێبەری بەکارهێنەر</value>
+  </data>
 </root>
