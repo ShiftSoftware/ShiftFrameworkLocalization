@@ -160,6 +160,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Attention updated.
+        /// </summary>
+        public static string AttentionRealtimeToast {
+            get {
+                return ResourceManager.GetString("AttentionRealtimeToast", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Brand.
         /// </summary>
         public static string BrandAutocompleteLabel {
@@ -331,6 +340,69 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Compare.
+        /// </summary>
+        public static string CompareButton {
+            get {
+                return ResourceManager.GetString("CompareButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Changed fields.
+        /// </summary>
+        public static string CompareChangedFields {
+            get {
+                return ResourceManager.GetString("CompareChangedFields", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Could not load one or both revisions..
+        /// </summary>
+        public static string CompareLoadError {
+            get {
+                return ResourceManager.GetString("CompareLoadError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New — valid from {0}.
+        /// </summary>
+        public static string CompareNewRevisionLabel {
+            get {
+                return ResourceManager.GetString("CompareNewRevisionLabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No differences between these revisions..
+        /// </summary>
+        public static string CompareNoChanges {
+            get {
+                return ResourceManager.GetString("CompareNoChanges", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Old — valid from {0}.
+        /// </summary>
+        public static string CompareOldRevisionLabel {
+            get {
+                return ResourceManager.GetString("CompareOldRevisionLabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select two revisions to compare.
+        /// </summary>
+        public static string CompareSelectTwoHint {
+            get {
+                return ResourceManager.GetString("CompareSelectTwoHint", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ok.
         /// </summary>
         public static string ConfirmDefaultText {
@@ -372,6 +444,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         public static string Could_not_parse_server_data {
             get {
                 return ResourceManager.GetString("Could not parse server data", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Could not reveal.
+        /// </summary>
+        public static string Could_not_reveal {
+            get {
+                return ResourceManager.GetString("Could not reveal", resourceCulture);
             }
         }
         
@@ -1231,6 +1312,60 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Next.
+        /// </summary>
+        public static string ImageViewerNext {
+            get {
+                return ResourceManager.GetString("ImageViewerNext", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Previous.
+        /// </summary>
+        public static string ImageViewerPrevious {
+            get {
+                return ResourceManager.GetString("ImageViewerPrevious", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reset zoom.
+        /// </summary>
+        public static string ImageViewerResetZoom {
+            get {
+                return ResourceManager.GetString("ImageViewerResetZoom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rotate.
+        /// </summary>
+        public static string ImageViewerRotate {
+            get {
+                return ResourceManager.GetString("ImageViewerRotate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Zoom in.
+        /// </summary>
+        public static string ImageViewerZoomIn {
+            get {
+                return ResourceManager.GetString("ImageViewerZoomIn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Zoom out.
+        /// </summary>
+        public static string ImageViewerZoomOut {
+            get {
+                return ResourceManager.GetString("ImageViewerZoomOut", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Is Deleted.
         /// </summary>
         public static string IsDeletedColumnHeaderText {
@@ -1299,6 +1434,96 @@ namespace ShiftSoftwareLocalization.Blazor {
         public static string ListDefaultTitle {
             get {
                 return ResourceManager.GetString("ListDefaultTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Clear.
+        /// </summary>
+        public static string ListFindClearButton {
+            get {
+                return ResourceManager.GetString("ListFindClearButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} matches.
+        /// </summary>
+        public static string ListFindMatchCount {
+            get {
+                return ResourceManager.GetString("ListFindMatchCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 1 match.
+        /// </summary>
+        public static string ListFindMatchCountSingle {
+            get {
+                return ResourceManager.GetString("ListFindMatchCountSingle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No row on this page matches &quot;{0}&quot;..
+        /// </summary>
+        public static string ListFindNoMatches {
+            get {
+                return ResourceManager.GetString("ListFindNoMatches", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No matches.
+        /// </summary>
+        public static string ListFindNoMatchesShort {
+            get {
+                return ResourceManager.GetString("ListFindNoMatchesShort", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find.
+        /// </summary>
+        public static string ListFindPlaceholder {
+            get {
+                return ResourceManager.GetString("ListFindPlaceholder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find in the rows loaded on this page (Alt+F). This does not filter or search the server..
+        /// </summary>
+        public static string ListFindTooltip {
+            get {
+                return ResourceManager.GetString("ListFindTooltip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Find searched only the {0} rows on this page — {1} more are on other pages..
+        /// </summary>
+        public static string ListFindUnsearchedChip {
+            get {
+                return ResourceManager.GetString("ListFindUnsearchedChip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} more rows are on other pages, and find did not look at them..
+        /// </summary>
+        public static string ListFindUnsearchedEmpty {
+            get {
+                return ResourceManager.GetString("ListFindUnsearchedEmpty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Use the filter panel to search the whole list..
+        /// </summary>
+        public static string ListFindUseFilterPanel {
+            get {
+                return ResourceManager.GetString("ListFindUseFilterPanel", resourceCulture);
             }
         }
         
@@ -1470,6 +1695,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         public static string NoItemsFound {
             get {
                 return ResourceManager.GetString("NoItemsFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not allowed to reveal.
+        /// </summary>
+        public static string Not_allowed_to_reveal {
+            get {
+                return ResourceManager.GetString("Not allowed to reveal", resourceCulture);
             }
         }
         
@@ -1708,6 +1942,24 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Reveal.
+        /// </summary>
+        public static string Reveal {
+            get {
+                return ResourceManager.GetString("Reveal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reveal {0}.
+        /// </summary>
+        public static string Reveal__0_ {
+            get {
+                return ResourceManager.GetString("Reveal {0}", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You are viewing a revision..
         /// </summary>
         public static string RevisionIndicator {
@@ -1722,6 +1974,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         public static string Revisions {
             get {
                 return ResourceManager.GetString("Revisions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Compare {0}.
+        /// </summary>
+        public static string RevisionsCompareTitle {
+            get {
+                return ResourceManager.GetString("RevisionsCompareTitle", resourceCulture);
             }
         }
         
@@ -1938,6 +2199,24 @@ namespace ShiftSoftwareLocalization.Blazor {
         public static string ToggleViewMode {
             get {
                 return ResourceManager.GetString("ToggleViewMode", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Type &quot;{0}&quot; below to confirm.
+        /// </summary>
+        public static string TypeToConfirmInstruction {
+            get {
+                return ResourceManager.GetString("TypeToConfirmInstruction", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unable to reveal this field..
+        /// </summary>
+        public static string Unable_to_reveal_this_field_ {
+            get {
+                return ResourceManager.GetString("Unable to reveal this field.", resourceCulture);
             }
         }
         

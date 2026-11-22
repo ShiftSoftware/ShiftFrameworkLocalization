@@ -871,4 +871,7 @@
   <data name="Unable to reveal this field." xml:space="preserve">
     <value>Не удалось показать это поле.</value>
   </data>
+  <data name="TypeToConfirmInstruction" xml:space="preserve">
+    <value>Введите "{0}" ниже для подтверждения</value>
+  </data>
 </root>

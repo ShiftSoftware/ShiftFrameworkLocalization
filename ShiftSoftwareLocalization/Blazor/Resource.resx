@@ -881,4 +881,7 @@
   <data name="Unable to reveal this field." xml:space="preserve">
     <value>Unable to reveal this field.</value>
   </data>
+  <data name="TypeToConfirmInstruction" xml:space="preserve">
+    <value>Type "{0}" below to confirm</value>
+  </data>
 </root>

@@ -820,4 +820,7 @@
   <data name="Unable to reveal this field." xml:space="preserve">
     <value>تعذّر إظهار هذا الحقل.</value>
   </data>
+  <data name="TypeToConfirmInstruction" xml:space="preserve">
+    <value>اكتب "{0}" أدناه للتأكيد</value>
+  </data>
 </root>
