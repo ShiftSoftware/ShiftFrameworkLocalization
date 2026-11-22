@@ -1344,8 +1344,29 @@
   <data name="Actions" xml:space="preserve">
     <value>الإجراءات</value>
   </data>
-  <data name="Text actions are not searchable" xml:space="preserve">
-    <value>لا يمكن البحث في الإجراءات النصية</value>
+  <data name="Search by value" xml:space="preserve">
+    <value>البحث حسب القيمة</value>
+  </data>
+  <data name="Searched one row at a time" xml:space="preserve">
+    <value>يتم البحث في صف واحد في كل مرة</value>
+  </data>
+  <data name="Value" xml:space="preserve">
+    <value>القيمة</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>بحث</value>
+  </data>
+  <data name="Users who hold at least this number" xml:space="preserve">
+    <value>المستخدمون الذين يملكون هذا الرقم على الأقل</value>
+  </data>
+  <data name="Users whose value covers this text" xml:space="preserve">
+    <value>المستخدمون الذين تشمل قيمتهم هذا النص</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>الحد الأدنى</value>
+  </data>
+  <data name="Maximum" xml:space="preserve">
+    <value>الحد الأقصى</value>
   </data>
   <data name="Combined permissions from the user's access trees and user-specific access." xml:space="preserve">
     <value>الصلاحيات المجمعة من أشجار الوصول الخاصة بالمستخدم والوصول الخاص به.</value>

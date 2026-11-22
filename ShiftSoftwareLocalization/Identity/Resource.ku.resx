@@ -1002,8 +1002,29 @@
   <data name="Actions" xml:space="preserve">
     <value>کردارەکان</value>
   </data>
-  <data name="Text actions are not searchable" xml:space="preserve">
-    <value>کردارە دەقییەکان ناگەڕدرێن</value>
+  <data name="Search by value" xml:space="preserve">
+    <value>گەڕان بە بەها</value>
+  </data>
+  <data name="Searched one row at a time" xml:space="preserve">
+    <value>هەر جارێک یەک ڕیز دەگەڕدرێت</value>
+  </data>
+  <data name="Value" xml:space="preserve">
+    <value>بەها</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>گەڕان</value>
+  </data>
+  <data name="Users who hold at least this number" xml:space="preserve">
+    <value>ئەو بەکارهێنەرانەی لانیکەم ئەم ژمارەیەیان هەیە</value>
+  </data>
+  <data name="Users whose value covers this text" xml:space="preserve">
+    <value>ئەو بەکارهێنەرانەی بەهاکەیان ئەم دەقە دەگرێتەوە</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>کەمترین</value>
+  </data>
+  <data name="Maximum" xml:space="preserve">
+    <value>زۆرترین</value>
   </data>
   <data name="Combined permissions from the user's access trees and user-specific access." xml:space="preserve">
     <value>دەسەڵاتە کۆکراوەکان لە درەختەکانی دەستگەیشتنی بەکارهێنەر و دەستگەیشتنی تایبەت بە بەکارهێنەر.</value>

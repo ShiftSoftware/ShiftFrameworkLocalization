@@ -1345,8 +1345,29 @@
   <data name="Actions" xml:space="preserve">
     <value>Действия</value>
   </data>
-  <data name="Text actions are not searchable" xml:space="preserve">
-    <value>Текстовые действия не участвуют в поиске</value>
+  <data name="Search by value" xml:space="preserve">
+    <value>Поиск по значению</value>
+  </data>
+  <data name="Searched one row at a time" xml:space="preserve">
+    <value>Поиск ведётся по одной строке</value>
+  </data>
+  <data name="Value" xml:space="preserve">
+    <value>Значение</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Найти</value>
+  </data>
+  <data name="Users who hold at least this number" xml:space="preserve">
+    <value>Пользователи, у которых это число или больше</value>
+  </data>
+  <data name="Users whose value covers this text" xml:space="preserve">
+    <value>Пользователи, чьё значение охватывает этот текст</value>
+  </data>
+  <data name="Minimum" xml:space="preserve">
+    <value>Минимум</value>
+  </data>
+  <data name="Maximum" xml:space="preserve">
+    <value>Максимум</value>
   </data>
   <data name="Combined permissions from the user's access trees and user-specific access." xml:space="preserve">
     <value>Совокупные разрешения из уровней доступа пользователя и его личного доступа.</value>
