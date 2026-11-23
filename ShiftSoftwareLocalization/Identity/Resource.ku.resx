@@ -1968,4 +1968,7 @@
   <data name="User guide" xml:space="preserve">
     <value>ڕێبەری بەکارهێنەر</value>
   </data>
+  <data name="You do not have permission to use the Reverse TypeAuth Lookup." xml:space="preserve">
+    <value>دەسەڵاتی بەکارهێنانی گەڕانی پێچەوانەی TypeAuthت نییە.</value>
+  </data>
 </root>

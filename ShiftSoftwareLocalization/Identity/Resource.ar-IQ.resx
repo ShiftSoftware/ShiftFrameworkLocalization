@@ -1986,4 +1986,7 @@
   <data name="User guide" xml:space="preserve">
     <value>دليل المستخدم</value>
   </data>
+  <data name="You do not have permission to use the Reverse TypeAuth Lookup." xml:space="preserve">
+    <value>ليست لديك صلاحية لاستخدام البحث العكسي في TypeAuth.</value>
+  </data>
 </root>
