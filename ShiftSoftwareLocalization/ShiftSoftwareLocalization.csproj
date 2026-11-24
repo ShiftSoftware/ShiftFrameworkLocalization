@@ -12,7 +12,6 @@
 	<PackageId>ShiftSoftwareLocalization</PackageId>
 	<Version>$(ShiftFrameworkVersion)</Version>
 	<Authors>Shift Software,Nahro,Sarmad</Authors>
-	<PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
 	<IsPackable>True</IsPackable>
 	<PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
