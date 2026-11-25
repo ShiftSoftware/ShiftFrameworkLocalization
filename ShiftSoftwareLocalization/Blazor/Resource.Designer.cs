@@ -187,6 +187,15 @@ namespace ShiftSoftwareLocalization.Blazor {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} items are selected. The most you can change in one action is {1}..
+        /// </summary>
+        public static string BulkWriteMaxTopWarning {
+            get {
+                return ResourceManager.GetString("BulkWriteMaxTopWarning", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Cancel.
         /// </summary>
         public static string CancelChanges {
