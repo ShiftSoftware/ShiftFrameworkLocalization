@@ -259,7 +259,4 @@
   <data name="TypeToConfirmInstruction" xml:space="preserve">
     <value>بۆ پشتڕاستکردنەوە لە خوارەوە "{0}" بنووسە</value>
   </data>
-  <data name="BulkWriteMaxTopWarning" xml:space="preserve">
-    <value>{0} تۆمار دیاری کراون. زۆرترین ژمارە کە دەتوانیت لە یەک کرداردا بیگۆڕیت: {1}.</value>
-  </data>
 </root>

@@ -823,7 +823,4 @@
   <data name="TypeToConfirmInstruction" xml:space="preserve">
     <value>اكتب "{0}" أدناه للتأكيد</value>
   </data>
-  <data name="BulkWriteMaxTopWarning" xml:space="preserve">
-    <value>تم تحديد {0} عنصر. الحد الأقصى الذي يمكنك تغييره في إجراء واحد هو {1}.</value>
-  </data>
 </root>
